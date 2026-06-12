@@ -54,5 +54,4 @@ QueryPilot AI is a production-grade, schema-aware **Autonomous Text-to-SQL Platf
 *   "Generate Executive Dashboard for the current segment"
 *   "What are the primary growth trends?"
 
----
-*Built for senior-level data engineering and AI analytics excellence.*
+
