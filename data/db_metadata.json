@@ -1,0 +1,862 @@
+{
+    "ecommerce.customers": {
+        "table_name": "customers",
+        "schema_name": "ecommerce",
+        "columns": [
+            {
+                "column_name": "customer_id",
+                "data_type": "int64",
+                "description": "Primary key for customer",
+                "sample_values": [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            },
+            {
+                "column_name": "name",
+                "data_type": "object",
+                "description": "Full name of the customer",
+                "sample_values": [
+                    "Customer_1",
+                    "Customer_2",
+                    "Customer_3"
+                ]
+            },
+            {
+                "column_name": "email",
+                "data_type": "object",
+                "description": "Email address",
+                "sample_values": [
+                    "customer_1@example.com",
+                    "customer_2@example.com",
+                    "customer_3@example.com"
+                ]
+            },
+            {
+                "column_name": "country",
+                "data_type": "object",
+                "description": "Country of residence",
+                "sample_values": [
+                    "Japan",
+                    "Germany",
+                    "France"
+                ]
+            },
+            {
+                "column_name": "signup_date",
+                "data_type": "datetime64[ns]",
+                "description": "Date the customer joined",
+                "sample_values": [
+                    "2023-11-24 00:00:00",
+                    "2023-02-27 00:00:00",
+                    "2023-01-13 00:00:00"
+                ]
+            },
+            {
+                "column_name": "plan_tier",
+                "data_type": "object",
+                "description": "Subscription plan: Free, Basic, Pro, Enterprise",
+                "sample_values": [
+                    "Free",
+                    "Free",
+                    "Pro"
+                ]
+            },
+            {
+                "column_name": "ltv_score",
+                "data_type": "float64",
+                "description": "Lifetime Value score calculated by marketing",
+                "sample_values": [
+                    "2498.35",
+                    "3733.73",
+                    "2813.33"
+                ]
+            },
+            {
+                "column_name": "acquisition_channel",
+                "data_type": "object",
+                "description": "Where the customer came from",
+                "sample_values": [
+                    "Social Media",
+                    "Social Media",
+                    "Search"
+                ]
+            }
+        ],
+        "primary_key": "customer_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "What is the total LTV of customers in the USA?",
+            "How many Enterprise customers signed up in 2023?",
+            "Which acquisition channel has the highest average LTV?"
+        ]
+    },
+    "ecommerce.products": {
+        "table_name": "products",
+        "schema_name": "ecommerce",
+        "columns": [
+            {
+                "column_name": "product_id",
+                "data_type": "int64",
+                "description": "Primary key for product",
+                "sample_values": [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            },
+            {
+                "column_name": "name",
+                "data_type": "object",
+                "description": "Name of the product",
+                "sample_values": [
+                    "Product_1",
+                    "Product_2",
+                    "Product_3"
+                ]
+            },
+            {
+                "column_name": "category",
+                "data_type": "object",
+                "description": "Major product category",
+                "sample_values": [
+                    "Books",
+                    "Sports",
+                    "Books"
+                ]
+            },
+            {
+                "column_name": "subcategory",
+                "data_type": "object",
+                "description": "Specific product subcategory",
+                "sample_values": [
+                    "Children",
+                    "Outdoor",
+                    "Tech"
+                ]
+            },
+            {
+                "column_name": "brand",
+                "data_type": "object",
+                "description": "Product brand name",
+                "sample_values": [
+                    "Brand_45",
+                    "Brand_20",
+                    "Brand_25"
+                ]
+            },
+            {
+                "column_name": "cost_price",
+                "data_type": "float64",
+                "description": "Cost to acquire the product",
+                "sample_values": [
+                    "473.43",
+                    "315.55",
+                    "144.38"
+                ]
+            },
+            {
+                "column_name": "selling_price",
+                "data_type": "float64",
+                "description": "Retail price",
+                "sample_values": [
+                    "728.73",
+                    "629.46",
+                    "250.53"
+                ]
+            },
+            {
+                "column_name": "stock_quantity",
+                "data_type": "int64",
+                "description": "Current inventory level",
+                "sample_values": [
+                    "353",
+                    "86",
+                    "742"
+                ]
+            },
+            {
+                "column_name": "supplier_id",
+                "data_type": "int64",
+                "description": "Identifier for the supplier",
+                "sample_values": [
+                    "84",
+                    "5",
+                    "93"
+                ]
+            }
+        ],
+        "primary_key": "product_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "What are the top 5 most expensive products?",
+            "List subcategories with low stock (< 10).",
+            "Which brand has the highest average selling price?"
+        ]
+    },
+    "ecommerce.orders": {
+        "table_name": "orders",
+        "schema_name": "ecommerce",
+        "columns": [
+            {
+                "column_name": "order_id",
+                "data_type": "int64",
+                "description": "Primary key for order",
+                "sample_values": [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            },
+            {
+                "column_name": "customer_id",
+                "data_type": "int64",
+                "description": "Foreign key to customers",
+                "sample_values": [
+                    "6279",
+                    "1379",
+                    "1094"
+                ]
+            },
+            {
+                "column_name": "product_id",
+                "data_type": "int64",
+                "description": "Foreign key to products",
+                "sample_values": [
+                    "1454",
+                    "1762",
+                    "1323"
+                ]
+            },
+            {
+                "column_name": "order_date",
+                "data_type": "datetime64[ns]",
+                "description": "Date and time of order",
+                "sample_values": [
+                    "2024-05-10 00:00:00",
+                    "2024-07-21 00:00:00",
+                    "2024-05-15 00:00:00"
+                ]
+            },
+            {
+                "column_name": "quantity",
+                "data_type": "int32",
+                "description": "Number of items purchased",
+                "sample_values": [
+                    "4",
+                    "3",
+                    "4"
+                ]
+            },
+            {
+                "column_name": "status",
+                "data_type": "object",
+                "description": "Order status: Completed, Pending, Cancelled, Shipped",
+                "sample_values": [
+                    "Pending",
+                    "Completed",
+                    "Completed"
+                ]
+            },
+            {
+                "column_name": "shipping_country",
+                "data_type": "object",
+                "description": "Destination country",
+                "sample_values": [
+                    "Australia",
+                    "Germany",
+                    "Canada"
+                ]
+            },
+            {
+                "column_name": "unit_price",
+                "data_type": "float64",
+                "description": "Price per unit at time of sale",
+                "sample_values": [
+                    "31.11",
+                    "688.33",
+                    "719.99"
+                ]
+            },
+            {
+                "column_name": "total_amount",
+                "data_type": "float64",
+                "description": "Total order value (qty * unit_price)",
+                "sample_values": [
+                    "124.44",
+                    "2064.99",
+                    "2879.96"
+                ]
+            }
+        ],
+        "primary_key": "order_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "What was the total revenue in Q1 2024?",
+            "Which country had the most completed orders?",
+            "Calculate MoM revenue growth."
+        ]
+    },
+    "ecommerce.returns": {
+        "table_name": "returns",
+        "schema_name": "ecommerce",
+        "columns": [
+            {
+                "column_name": "return_id",
+                "data_type": "int64",
+                "description": "Primary key for return",
+                "sample_values": [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            },
+            {
+                "column_name": "order_id",
+                "data_type": "int64",
+                "description": "Foreign key to orders",
+                "sample_values": [
+                    "49505",
+                    "44899",
+                    "48477"
+                ]
+            },
+            {
+                "column_name": "return_date",
+                "data_type": "datetime64[ns]",
+                "description": "Date return was initiated",
+                "sample_values": [
+                    "2024-05-04 00:00:00",
+                    "2024-03-27 00:00:00",
+                    "2024-04-19 00:00:00"
+                ]
+            },
+            {
+                "column_name": "reason",
+                "data_type": "object",
+                "description": "Customer reason for return",
+                "sample_values": [
+                    "Defective",
+                    "Defective",
+                    "Changed Mind"
+                ]
+            },
+            {
+                "column_name": "status",
+                "data_type": "object",
+                "description": "Return processing status",
+                "sample_values": [
+                    "Processed",
+                    "Processed",
+                    "Processed"
+                ]
+            },
+            {
+                "column_name": "refund_amount",
+                "data_type": "float64",
+                "description": "Amount refunded to customer",
+                "sample_values": [
+                    "1832.16",
+                    "555.44",
+                    "1012.44"
+                ]
+            }
+        ],
+        "primary_key": "return_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "How many rows are in this table?",
+            "Show me the top 5 records.",
+            "Summarize the data by its main category."
+        ]
+    },
+    "finance.transactions": {
+        "table_name": "transactions",
+        "schema_name": "finance",
+        "columns": [
+            {
+                "column_name": "transaction_id",
+                "data_type": "int64",
+                "description": "Primary key for transaction",
+                "sample_values": [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            },
+            {
+                "column_name": "account_id",
+                "data_type": "int64",
+                "description": "Foreign key to accounts",
+                "sample_values": [
+                    "458",
+                    "4144",
+                    "5341"
+                ]
+            },
+            {
+                "column_name": "transaction_date",
+                "data_type": "datetime64[ns]",
+                "description": "Date of transaction",
+                "sample_values": [
+                    "2024-07-27 00:00:00",
+                    "2024-06-23 00:00:00",
+                    "2024-07-01 00:00:00"
+                ]
+            },
+            {
+                "column_name": "amount",
+                "data_type": "float64",
+                "description": "Transaction magnitude",
+                "sample_values": [
+                    "26.48",
+                    "36.99",
+                    "79.32"
+                ]
+            },
+            {
+                "column_name": "transaction_type",
+                "data_type": "object",
+                "description": "Debit or Credit",
+                "sample_values": [
+                    "Debit",
+                    "Credit",
+                    "Credit"
+                ]
+            },
+            {
+                "column_name": "category",
+                "data_type": "object",
+                "description": "Spend or income category",
+                "sample_values": [
+                    "Groceries",
+                    "Utilities",
+                    "Utilities"
+                ]
+            },
+            {
+                "column_name": "merchant_name",
+                "data_type": "object",
+                "description": "Vendor name",
+                "sample_values": [
+                    "Merchant_459",
+                    "Merchant_299",
+                    "Merchant_114"
+                ]
+            },
+            {
+                "column_name": "currency",
+                "data_type": "object",
+                "description": "Currency code",
+                "sample_values": [
+                    "USD",
+                    "USD",
+                    "USD"
+                ]
+            }
+        ],
+        "primary_key": "transaction_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "Show me all transactions for Merchant_12 last month.",
+            "What is the total spend in the Groceries category?",
+            "Identify accounts with transaction volume > $10,000."
+        ]
+    },
+    "finance.accounts": {
+        "table_name": "accounts",
+        "schema_name": "finance",
+        "columns": [
+            {
+                "column_name": "account_id",
+                "data_type": "int64",
+                "description": "Primary key for account",
+                "sample_values": [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            },
+            {
+                "column_name": "customer_id",
+                "data_type": "int64",
+                "description": "Owner customer_id",
+                "sample_values": [
+                    "7316",
+                    "8792",
+                    "2033"
+                ]
+            },
+            {
+                "column_name": "account_type",
+                "data_type": "object",
+                "description": "Checking, Savings, Investment",
+                "sample_values": [
+                    "Checking",
+                    "Investment",
+                    "Savings"
+                ]
+            },
+            {
+                "column_name": "balance",
+                "data_type": "float64",
+                "description": "Current account balance",
+                "sample_values": [
+                    "25618.71",
+                    "39856.07",
+                    "48885.9"
+                ]
+            },
+            {
+                "column_name": "opened_date",
+                "data_type": "datetime64[ns]",
+                "description": "Account creation date",
+                "sample_values": [
+                    "2022-02-27 00:00:00",
+                    "2021-09-29 00:00:00",
+                    "2021-04-11 00:00:00"
+                ]
+            },
+            {
+                "column_name": "status",
+                "data_type": "object",
+                "description": "Account status",
+                "sample_values": [
+                    "Closed",
+                    "Active",
+                    "Active"
+                ]
+            }
+        ],
+        "primary_key": "account_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "How many rows are in this table?",
+            "Show me the top 5 records.",
+            "Summarize the data by its main category."
+        ]
+    },
+    "finance.budget": {
+        "table_name": "budget",
+        "schema_name": "finance",
+        "columns": [
+            {
+                "column_name": "department",
+                "data_type": "object",
+                "description": "Department name",
+                "sample_values": [
+                    "Sales",
+                    "Sales",
+                    "Sales"
+                ]
+            },
+            {
+                "column_name": "category",
+                "data_type": "object",
+                "description": "Budget category",
+                "sample_values": [
+                    "Software",
+                    "Travel",
+                    "Recruitment"
+                ]
+            },
+            {
+                "column_name": "allocated_amount",
+                "data_type": "float64",
+                "description": "Planned budget",
+                "sample_values": [
+                    "273862.42",
+                    "351048.05",
+                    "495755.85"
+                ]
+            },
+            {
+                "column_name": "spent_amount",
+                "data_type": "float64",
+                "description": "Actual spending",
+                "sample_values": [
+                    "280587.76",
+                    "280542.95",
+                    "514713.13"
+                ]
+            },
+            {
+                "column_name": "fiscal_year",
+                "data_type": "int64",
+                "description": "Year",
+                "sample_values": [
+                    "2024",
+                    "2024",
+                    "2024"
+                ]
+            },
+            {
+                "column_name": "quarter",
+                "data_type": "int64",
+                "description": "Quarter (1-4)",
+                "sample_values": [
+                    "3",
+                    "1",
+                    "4"
+                ]
+            }
+        ],
+        "primary_key": "department",
+        "foreign_keys": [],
+        "example_questions": [
+            "How many rows are in this table?",
+            "Show me the top 5 records.",
+            "Summarize the data by its main category."
+        ]
+    },
+    "hr.employees": {
+        "table_name": "employees",
+        "schema_name": "hr",
+        "columns": [
+            {
+                "column_name": "employee_id",
+                "data_type": "int64",
+                "description": "Primary key for employee",
+                "sample_values": [
+                    "1",
+                    "2",
+                    "3"
+                ]
+            },
+            {
+                "column_name": "name",
+                "data_type": "object",
+                "description": "Full name",
+                "sample_values": [
+                    "Employee_1",
+                    "Employee_2",
+                    "Employee_3"
+                ]
+            },
+            {
+                "column_name": "department",
+                "data_type": "object",
+                "description": "Internal department",
+                "sample_values": [
+                    "Operations",
+                    "Operations",
+                    "Marketing"
+                ]
+            },
+            {
+                "column_name": "role",
+                "data_type": "object",
+                "description": "Job title",
+                "sample_values": [
+                    "Ops Manager",
+                    "Ops Analyst",
+                    "Marketing Manager"
+                ]
+            },
+            {
+                "column_name": "salary",
+                "data_type": "float64",
+                "description": "Annual gross salary",
+                "sample_values": [
+                    "88395.51",
+                    "57342.62",
+                    "64861.02"
+                ]
+            },
+            {
+                "column_name": "hire_date",
+                "data_type": "datetime64[ns]",
+                "description": "Employment start date",
+                "sample_values": [
+                    "2022-08-09 00:00:00",
+                    "2023-09-23 00:00:00",
+                    "2022-10-23 00:00:00"
+                ]
+            },
+            {
+                "column_name": "manager_id",
+                "data_type": "int64",
+                "description": "Manager employee_id",
+                "sample_values": [
+                    "49",
+                    "20",
+                    "43"
+                ]
+            },
+            {
+                "column_name": "performance_score",
+                "data_type": "int64",
+                "description": "Latest performance rating (1-5)",
+                "sample_values": [
+                    "2",
+                    "5",
+                    "1"
+                ]
+            },
+            {
+                "column_name": "location",
+                "data_type": "object",
+                "description": "Office location or Remote",
+                "sample_values": [
+                    "SF",
+                    "Remote",
+                    "Remote"
+                ]
+            }
+        ],
+        "primary_key": "employee_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "What is the average salary by department?",
+            "Who is the longest tenured employee in Engineering?",
+            "Show performance scores for all Sales Managers."
+        ]
+    },
+    "hr.attendance": {
+        "table_name": "attendance",
+        "schema_name": "hr",
+        "columns": [
+            {
+                "column_name": "employee_id",
+                "data_type": "int64",
+                "description": "Foreign key to employees",
+                "sample_values": [
+                    "1",
+                    "1",
+                    "1"
+                ]
+            },
+            {
+                "column_name": "date",
+                "data_type": "object",
+                "description": "Work date",
+                "sample_values": [
+                    "2024-01-02",
+                    "2024-01-03",
+                    "2024-01-04"
+                ]
+            },
+            {
+                "column_name": "check_in",
+                "data_type": "object",
+                "description": "Arrival time",
+                "sample_values": [
+                    "09:00",
+                    "09:00",
+                    "09:00"
+                ]
+            },
+            {
+                "column_name": "check_out",
+                "data_type": "object",
+                "description": "Departure time",
+                "sample_values": [
+                    "18:00",
+                    "18:00",
+                    "18:00"
+                ]
+            },
+            {
+                "column_name": "hours_worked",
+                "data_type": "float64",
+                "description": "Total hours logged",
+                "sample_values": [
+                    "7.88",
+                    "9.41",
+                    "9.35"
+                ]
+            },
+            {
+                "column_name": "leave_type",
+                "data_type": "object",
+                "description": "Type of leave if applicable",
+                "sample_values": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            }
+        ],
+        "primary_key": "employee_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "How many rows are in this table?",
+            "Show me the top 5 records.",
+            "Summarize the data by its main category."
+        ]
+    },
+    "hr.payroll": {
+        "table_name": "payroll",
+        "schema_name": "hr",
+        "columns": [
+            {
+                "column_name": "employee_id",
+                "data_type": "int64",
+                "description": "Foreign key to employees",
+                "sample_values": [
+                    "1",
+                    "1",
+                    "1"
+                ]
+            },
+            {
+                "column_name": "pay_period",
+                "data_type": "object",
+                "description": "Year-Month of payment",
+                "sample_values": [
+                    "2024-01",
+                    "2024-01",
+                    "2024-03"
+                ]
+            },
+            {
+                "column_name": "base_salary",
+                "data_type": "float64",
+                "description": "Base monthly pay",
+                "sample_values": [
+                    "7366.29",
+                    "7366.29",
+                    "7366.29"
+                ]
+            },
+            {
+                "column_name": "bonus",
+                "data_type": "float64",
+                "description": "Performance or other bonus",
+                "sample_values": [
+                    "0.0",
+                    "0.0",
+                    "0.0"
+                ]
+            },
+            {
+                "column_name": "deductions",
+                "data_type": "float64",
+                "description": "Tax and benefit deductions",
+                "sample_values": [
+                    "1473.26",
+                    "1473.26",
+                    "1473.26"
+                ]
+            },
+            {
+                "column_name": "net_pay",
+                "data_type": "float64",
+                "description": "Final take-home pay",
+                "sample_values": [
+                    "5893.03",
+                    "5893.03",
+                    "5893.03"
+                ]
+            }
+        ],
+        "primary_key": "employee_id",
+        "foreign_keys": [],
+        "example_questions": [
+            "How many rows are in this table?",
+            "Show me the top 5 records.",
+            "Summarize the data by its main category."
+        ]
+    }
+}

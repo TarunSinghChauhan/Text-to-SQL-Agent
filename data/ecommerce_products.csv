@@ -1,0 +1,2001 @@
+product_id,name,category,subcategory,brand,cost_price,selling_price,stock_quantity,supplier_id
+1,Product_1,Books,Children,Brand_45,473.43,728.73,353,84
+2,Product_2,Sports,Outdoor,Brand_20,315.55,629.46,86,5
+3,Product_3,Books,Tech,Brand_25,144.38,250.53,742,93
+4,Product_4,Home & Kitchen,Cookware,Brand_14,185.91,264.78,95,66
+5,Product_5,Books,Tech,Brand_34,241.26,410.78,348,97
+6,Product_6,Home & Kitchen,Appliances,Brand_2,93.27,166.47,911,70
+7,Product_7,Books,Tech,Brand_16,213.81,293.09,852,100
+8,Product_8,Fashion,Accessories,Brand_33,69.94,142.8,113,94
+9,Product_9,Electronics,Audio,Brand_17,354.76,859.77,642,65
+10,Product_10,Fashion,Menswear,Brand_4,48.07,65.05,774,84
+11,Product_11,Electronics,Wearables,Brand_20,30.65,57.99,586,95
+12,Product_12,Electronics,Wearables,Brand_22,313.26,540.24,241,96
+13,Product_13,Books,Non-Fiction,Brand_23,399.96,837.0,306,37
+14,Product_14,Books,Non-Fiction,Brand_46,492.99,679.96,386,67
+15,Product_15,Home & Kitchen,Appliances,Brand_21,33.87,52.74,528,75
+16,Product_16,Home & Kitchen,Cookware,Brand_30,14.43,34.81,100,19
+17,Product_17,Sports,Water Sports,Brand_6,155.46,298.2,94,8
+18,Product_18,Sports,Outdoor,Brand_31,162.44,246.84,219,58
+19,Product_19,Electronics,Audio,Brand_44,80.42,130.0,538,52
+20,Product_20,Books,Children,Brand_17,309.63,762.65,598,64
+21,Product_21,Sports,Water Sports,Brand_45,281.26,532.29,953,63
+22,Product_22,Sports,Outdoor,Brand_10,22.46,51.48,517,17
+23,Product_23,Sports,Water Sports,Brand_9,27.2,64.68,991,91
+24,Product_24,Books,Fiction,Brand_45,271.64,385.46,217,59
+25,Product_25,Sports,Fitness,Brand_48,228.6,570.01,160,72
+26,Product_26,Fashion,Menswear,Brand_39,156.02,241.88,872,53
+27,Product_27,Electronics,Smartphones,Brand_24,63.41,125.32,585,38
+28,Product_28,Electronics,Laptops,Brand_8,49.17,107.97,380,40
+29,Product_29,Fashion,Footwear,Brand_19,460.02,1109.31,497,4
+30,Product_30,Home & Kitchen,Decor,Brand_38,58.42,112.5,431,7
+31,Product_31,Fashion,Footwear,Brand_14,53.07,103.15,187,95
+32,Product_32,Sports,Fitness,Brand_8,408.42,775.64,560,45
+33,Product_33,Electronics,Smartphones,Brand_27,436.67,979.09,492,74
+34,Product_34,Fashion,Accessories,Brand_22,141.89,286.49,800,49
+35,Product_35,Sports,Outdoor,Brand_49,8.67,14.87,141,65
+36,Product_36,Sports,Water Sports,Brand_43,122.79,296.94,459,20
+37,Product_37,Fashion,Menswear,Brand_40,205.67,421.68,680,80
+38,Product_38,Sports,Water Sports,Brand_15,367.33,810.03,921,51
+39,Product_39,Fashion,Menswear,Brand_43,369.21,581.84,911,57
+40,Product_40,Fashion,Menswear,Brand_11,344.6,659.47,724,4
+41,Product_41,Books,Tech,Brand_36,300.7,361.16,660,16
+42,Product_42,Books,Fiction,Brand_13,132.84,320.13,978,80
+43,Product_43,Books,Fiction,Brand_37,148.59,262.92,534,25
+44,Product_44,Sports,Fitness,Brand_8,97.4,134.43,674,69
+45,Product_45,Home & Kitchen,Appliances,Brand_18,108.29,207.89,805,27
+46,Product_46,Home & Kitchen,Bedding,Brand_6,459.92,746.94,826,69
+47,Product_47,Books,Tech,Brand_26,165.09,319.18,603,6
+48,Product_48,Sports,Fitness,Brand_22,181.59,432.83,447,24
+49,Product_49,Sports,Fitness,Brand_34,192.03,352.87,324,49
+50,Product_50,Fashion,Menswear,Brand_8,269.03,596.36,101,70
+51,Product_51,Home & Kitchen,Cookware,Brand_10,284.13,429.29,187,33
+52,Product_52,Electronics,Laptops,Brand_20,66.37,160.56,975,53
+53,Product_53,Home & Kitchen,Appliances,Brand_40,401.77,494.12,984,42
+54,Product_54,Home & Kitchen,Appliances,Brand_46,411.66,810.06,59,39
+55,Product_55,Sports,Fitness,Brand_21,261.85,318.38,145,53
+56,Product_56,Fashion,Footwear,Brand_25,391.53,570.65,964,16
+57,Product_57,Electronics,Laptops,Brand_16,365.35,445.96,770,77
+58,Product_58,Books,Non-Fiction,Brand_32,399.2,491.0,520,97
+59,Product_59,Books,Children,Brand_8,121.77,188.59,275,8
+60,Product_60,Fashion,Accessories,Brand_36,82.97,151.45,416,9
+61,Product_61,Sports,Fitness,Brand_27,145.43,362.31,648,30
+62,Product_62,Electronics,Audio,Brand_36,292.08,565.59,986,76
+63,Product_63,Electronics,Laptops,Brand_49,114.33,197.94,568,84
+64,Product_64,Home & Kitchen,Cookware,Brand_37,66.37,145.44,416,58
+65,Product_65,Electronics,Laptops,Brand_10,168.92,367.83,382,70
+66,Product_66,Home & Kitchen,Decor,Brand_35,188.99,469.71,975,55
+67,Product_67,Books,Children,Brand_3,89.71,107.83,1,60
+68,Product_68,Books,Tech,Brand_42,299.44,730.29,995,22
+69,Product_69,Electronics,Smartphones,Brand_31,325.29,426.6,279,77
+70,Product_70,Fashion,Accessories,Brand_23,272.54,649.28,862,81
+71,Product_71,Home & Kitchen,Cookware,Brand_3,8.22,11.65,165,95
+72,Product_72,Books,Fiction,Brand_20,408.21,964.22,91,51
+73,Product_73,Electronics,Laptops,Brand_47,355.04,883.7,569,36
+74,Product_74,Sports,Outdoor,Brand_40,49.66,94.82,516,41
+75,Product_75,Fashion,Footwear,Brand_49,344.07,727.17,724,58
+76,Product_76,Fashion,Womenswear,Brand_43,397.77,951.83,329,44
+77,Product_77,Home & Kitchen,Bedding,Brand_39,184.01,231.09,336,3
+78,Product_78,Home & Kitchen,Appliances,Brand_39,184.41,382.3,487,1
+79,Product_79,Electronics,Laptops,Brand_27,110.66,249.31,569,90
+80,Product_80,Sports,Water Sports,Brand_35,113.78,138.02,83,84
+81,Product_81,Electronics,Smartphones,Brand_43,256.5,550.04,455,87
+82,Product_82,Electronics,Audio,Brand_25,178.08,387.07,847,77
+83,Product_83,Fashion,Accessories,Brand_12,222.01,315.97,859,99
+84,Product_84,Electronics,Smartphones,Brand_30,49.83,105.83,379,25
+85,Product_85,Sports,Fitness,Brand_15,195.93,467.61,760,3
+86,Product_86,Fashion,Footwear,Brand_13,272.43,450.32,92,79
+87,Product_87,Fashion,Womenswear,Brand_15,177.75,243.67,505,47
+88,Product_88,Electronics,Audio,Brand_32,298.93,584.95,926,91
+89,Product_89,Books,Non-Fiction,Brand_1,401.0,586.08,200,82
+90,Product_90,Sports,Fitness,Brand_18,148.94,197.56,582,65
+91,Product_91,Sports,Outdoor,Brand_36,151.19,265.57,198,85
+92,Product_92,Books,Non-Fiction,Brand_5,482.19,988.0,602,17
+93,Product_93,Electronics,Laptops,Brand_17,392.52,637.12,955,73
+94,Product_94,Home & Kitchen,Cookware,Brand_13,76.53,117.38,868,87
+95,Product_95,Electronics,Audio,Brand_44,131.95,258.36,573,59
+96,Product_96,Electronics,Wearables,Brand_42,174.03,402.81,689,84
+97,Product_97,Electronics,Audio,Brand_28,494.33,813.81,864,53
+98,Product_98,Fashion,Menswear,Brand_44,354.0,727.38,530,60
+99,Product_99,Sports,Team Sports,Brand_34,101.26,242.36,777,6
+100,Product_100,Home & Kitchen,Appliances,Brand_18,103.72,223.83,940,54
+101,Product_101,Books,Children,Brand_21,177.07,296.98,5,51
+102,Product_102,Home & Kitchen,Cookware,Brand_6,230.45,535.53,901,74
+103,Product_103,Electronics,Laptops,Brand_45,74.42,94.58,433,10
+104,Product_104,Home & Kitchen,Decor,Brand_11,204.01,259.55,337,40
+105,Product_105,Electronics,Smartphones,Brand_2,345.36,755.79,491,56
+106,Product_106,Electronics,Audio,Brand_17,428.08,927.65,253,14
+107,Product_107,Sports,Outdoor,Brand_22,458.59,996.42,852,7
+108,Product_108,Fashion,Womenswear,Brand_5,468.36,679.61,794,77
+109,Product_109,Books,Children,Brand_49,252.43,629.08,97,81
+110,Product_110,Sports,Fitness,Brand_6,342.38,801.93,997,8
+111,Product_111,Electronics,Wearables,Brand_21,20.04,46.76,911,89
+112,Product_112,Electronics,Laptops,Brand_4,350.37,498.22,941,57
+113,Product_113,Electronics,Audio,Brand_40,17.71,27.24,641,56
+114,Product_114,Electronics,Smartphones,Brand_44,458.31,948.05,57,72
+115,Product_115,Electronics,Audio,Brand_25,460.14,819.05,411,13
+116,Product_116,Books,Children,Brand_15,468.63,844.4,885,77
+117,Product_117,Books,Fiction,Brand_30,106.11,148.22,393,60
+118,Product_118,Sports,Fitness,Brand_22,496.94,812.01,666,87
+119,Product_119,Electronics,Wearables,Brand_34,84.23,102.0,336,76
+120,Product_120,Home & Kitchen,Appliances,Brand_7,146.36,344.8,12,77
+121,Product_121,Electronics,Laptops,Brand_37,269.33,544.63,129,82
+122,Product_122,Books,Tech,Brand_23,461.58,861.63,431,62
+123,Product_123,Books,Children,Brand_12,419.95,680.73,248,18
+124,Product_124,Electronics,Smartphones,Brand_9,488.67,636.47,319,75
+125,Product_125,Sports,Team Sports,Brand_20,363.79,748.95,597,70
+126,Product_126,Home & Kitchen,Decor,Brand_31,99.88,170.35,316,78
+127,Product_127,Fashion,Footwear,Brand_24,159.85,211.46,993,2
+128,Product_128,Books,Non-Fiction,Brand_4,294.47,733.75,243,65
+129,Product_129,Books,Fiction,Brand_28,282.0,538.29,352,26
+130,Product_130,Home & Kitchen,Decor,Brand_5,24.96,34.47,349,25
+131,Product_131,Sports,Water Sports,Brand_39,259.04,642.61,709,43
+132,Product_132,Books,Tech,Brand_40,438.92,720.83,306,54
+133,Product_133,Fashion,Womenswear,Brand_7,273.79,525.27,465,6
+134,Product_134,Sports,Outdoor,Brand_1,344.25,720.9,654,29
+135,Product_135,Home & Kitchen,Bedding,Brand_40,395.95,487.99,218,31
+136,Product_136,Sports,Team Sports,Brand_48,472.12,609.55,384,27
+137,Product_137,Sports,Outdoor,Brand_1,240.7,576.59,371,2
+138,Product_138,Electronics,Audio,Brand_2,246.4,316.06,568,15
+139,Product_139,Home & Kitchen,Cookware,Brand_29,118.47,231.29,199,81
+140,Product_140,Books,Tech,Brand_3,48.49,84.9,998,4
+141,Product_141,Home & Kitchen,Decor,Brand_19,167.9,379.42,178,29
+142,Product_142,Fashion,Womenswear,Brand_22,59.52,124.26,867,71
+143,Product_143,Home & Kitchen,Decor,Brand_13,206.26,405.11,22,23
+144,Product_144,Fashion,Menswear,Brand_2,106.74,212.69,851,87
+145,Product_145,Home & Kitchen,Bedding,Brand_42,338.62,437.26,806,15
+146,Product_146,Fashion,Womenswear,Brand_20,413.05,958.12,467,31
+147,Product_147,Fashion,Footwear,Brand_43,36.46,72.34,175,68
+148,Product_148,Books,Children,Brand_46,299.04,363.69,66,16
+149,Product_149,Home & Kitchen,Decor,Brand_13,174.46,429.1,196,69
+150,Product_150,Sports,Team Sports,Brand_21,279.95,675.57,613,55
+151,Product_151,Home & Kitchen,Appliances,Brand_49,339.44,419.86,630,76
+152,Product_152,Home & Kitchen,Cookware,Brand_10,43.47,92.98,335,32
+153,Product_153,Electronics,Audio,Brand_9,279.51,381.61,871,66
+154,Product_154,Books,Children,Brand_14,308.96,696.2,744,11
+155,Product_155,Sports,Fitness,Brand_11,377.73,574.15,520,50
+156,Product_156,Books,Tech,Brand_32,132.81,326.47,531,60
+157,Product_157,Home & Kitchen,Cookware,Brand_46,444.27,716.98,382,68
+158,Product_158,Sports,Water Sports,Brand_31,412.91,582.31,274,75
+159,Product_159,Sports,Fitness,Brand_14,102.44,147.06,224,26
+160,Product_160,Sports,Outdoor,Brand_26,48.42,111.9,223,40
+161,Product_161,Sports,Water Sports,Brand_37,291.51,447.95,160,48
+162,Product_162,Fashion,Menswear,Brand_9,425.08,953.64,769,11
+163,Product_163,Fashion,Accessories,Brand_34,54.97,111.99,360,30
+164,Product_164,Books,Fiction,Brand_30,362.31,771.93,524,80
+165,Product_165,Fashion,Accessories,Brand_29,362.96,515.51,478,56
+166,Product_166,Sports,Team Sports,Brand_32,160.97,369.82,324,35
+167,Product_167,Sports,Fitness,Brand_12,449.7,702.86,452,30
+168,Product_168,Fashion,Menswear,Brand_23,16.39,37.99,923,11
+169,Product_169,Fashion,Menswear,Brand_18,191.66,312.08,948,30
+170,Product_170,Electronics,Smartphones,Brand_5,176.76,307.63,368,5
+171,Product_171,Books,Non-Fiction,Brand_22,192.24,372.25,201,87
+172,Product_172,Fashion,Footwear,Brand_20,44.08,108.57,763,99
+173,Product_173,Fashion,Womenswear,Brand_46,468.54,1131.4,618,18
+174,Product_174,Books,Tech,Brand_1,440.24,906.2,788,39
+175,Product_175,Fashion,Footwear,Brand_26,114.45,144.7,968,52
+176,Product_176,Books,Fiction,Brand_31,54.16,87.8,669,66
+177,Product_177,Home & Kitchen,Bedding,Brand_15,254.42,633.82,232,93
+178,Product_178,Home & Kitchen,Bedding,Brand_15,220.54,415.07,528,76
+179,Product_179,Books,Children,Brand_47,349.1,500.94,833,60
+180,Product_180,Fashion,Menswear,Brand_21,466.75,881.1,866,25
+181,Product_181,Sports,Water Sports,Brand_14,141.75,342.42,449,58
+182,Product_182,Books,Fiction,Brand_24,314.6,575.34,142,74
+183,Product_183,Home & Kitchen,Cookware,Brand_48,292.18,634.85,9,64
+184,Product_184,Fashion,Footwear,Brand_15,81.5,189.43,429,55
+185,Product_185,Sports,Team Sports,Brand_21,479.96,929.73,601,3
+186,Product_186,Books,Fiction,Brand_9,342.72,794.35,157,43
+187,Product_187,Books,Children,Brand_25,190.53,474.55,209,51
+188,Product_188,Electronics,Wearables,Brand_13,341.85,598.65,486,14
+189,Product_189,Fashion,Accessories,Brand_41,340.28,639.11,916,39
+190,Product_190,Electronics,Laptops,Brand_7,60.26,134.66,691,71
+191,Product_191,Home & Kitchen,Appliances,Brand_45,284.37,635.45,617,63
+192,Product_192,Electronics,Laptops,Brand_13,81.68,155.18,71,50
+193,Product_193,Fashion,Womenswear,Brand_15,384.48,955.35,298,85
+194,Product_194,Books,Fiction,Brand_30,442.78,1028.87,58,48
+195,Product_195,Books,Fiction,Brand_11,127.49,291.87,334,53
+196,Product_196,Sports,Outdoor,Brand_8,88.79,129.41,132,69
+197,Product_197,Sports,Water Sports,Brand_48,59.51,137.76,70,50
+198,Product_198,Home & Kitchen,Decor,Brand_14,58.59,80.83,317,56
+199,Product_199,Sports,Outdoor,Brand_39,126.71,246.38,588,40
+200,Product_200,Books,Non-Fiction,Brand_33,440.69,768.43,733,88
+201,Product_201,Sports,Team Sports,Brand_13,275.41,390.1,7,19
+202,Product_202,Sports,Fitness,Brand_26,136.64,187.76,619,32
+203,Product_203,Books,Tech,Brand_37,207.91,409.05,900,63
+204,Product_204,Sports,Water Sports,Brand_37,145.59,334.83,40,95
+205,Product_205,Electronics,Audio,Brand_42,490.71,665.5,902,59
+206,Product_206,Fashion,Footwear,Brand_26,13.84,30.82,627,23
+207,Product_207,Sports,Outdoor,Brand_12,99.37,164.86,921,80
+208,Product_208,Sports,Water Sports,Brand_25,200.14,478.65,932,85
+209,Product_209,Home & Kitchen,Appliances,Brand_26,331.12,414.82,715,6
+210,Product_210,Home & Kitchen,Decor,Brand_18,12.33,17.99,903,81
+211,Product_211,Books,Tech,Brand_43,162.5,297.36,938,9
+212,Product_212,Home & Kitchen,Bedding,Brand_27,419.73,675.46,780,71
+213,Product_213,Electronics,Audio,Brand_5,191.39,311.61,773,14
+214,Product_214,Books,Tech,Brand_27,9.44,23.05,461,22
+215,Product_215,Fashion,Womenswear,Brand_33,73.8,116.16,45,60
+216,Product_216,Electronics,Smartphones,Brand_41,69.01,126.82,711,87
+217,Product_217,Sports,Water Sports,Brand_22,466.42,620.76,763,52
+218,Product_218,Home & Kitchen,Bedding,Brand_3,223.24,274.38,10,33
+219,Product_219,Electronics,Laptops,Brand_21,386.59,786.17,686,96
+220,Product_220,Sports,Water Sports,Brand_30,351.35,637.36,69,11
+221,Product_221,Books,Non-Fiction,Brand_46,454.28,787.01,972,57
+222,Product_222,Home & Kitchen,Bedding,Brand_18,259.47,545.89,861,21
+223,Product_223,Home & Kitchen,Appliances,Brand_39,262.68,379.87,102,23
+224,Product_224,Fashion,Menswear,Brand_35,161.95,213.77,759,51
+225,Product_225,Home & Kitchen,Appliances,Brand_43,219.14,436.57,781,2
+226,Product_226,Fashion,Womenswear,Brand_29,63.67,128.6,366,23
+227,Product_227,Home & Kitchen,Appliances,Brand_44,446.97,732.6,545,28
+228,Product_228,Sports,Fitness,Brand_41,114.91,271.29,830,67
+229,Product_229,Electronics,Wearables,Brand_45,347.51,464.63,315,57
+230,Product_230,Electronics,Smartphones,Brand_4,207.02,429.84,790,49
+231,Product_231,Home & Kitchen,Decor,Brand_24,289.32,579.83,930,31
+232,Product_232,Home & Kitchen,Appliances,Brand_2,285.73,639.32,431,4
+233,Product_233,Electronics,Audio,Brand_13,163.61,347.02,696,86
+234,Product_234,Electronics,Laptops,Brand_7,495.58,845.93,816,86
+235,Product_235,Home & Kitchen,Decor,Brand_3,396.57,602.76,425,66
+236,Product_236,Electronics,Audio,Brand_21,144.54,349.11,575,81
+237,Product_237,Home & Kitchen,Decor,Brand_35,17.84,26.45,404,55
+238,Product_238,Electronics,Laptops,Brand_14,244.05,420.35,108,46
+239,Product_239,Fashion,Womenswear,Brand_1,316.44,459.01,411,84
+240,Product_240,Fashion,Menswear,Brand_25,39.92,67.07,217,59
+241,Product_241,Home & Kitchen,Appliances,Brand_43,264.56,510.76,834,36
+242,Product_242,Books,Tech,Brand_3,302.74,579.22,68,28
+243,Product_243,Sports,Team Sports,Brand_50,126.65,277.86,613,64
+244,Product_244,Electronics,Laptops,Brand_17,48.45,70.63,982,13
+245,Product_245,Books,Tech,Brand_41,370.99,580.1,713,50
+246,Product_246,Home & Kitchen,Cookware,Brand_12,249.27,405.15,650,98
+247,Product_247,Fashion,Accessories,Brand_5,255.96,422.5,343,3
+248,Product_248,Books,Children,Brand_25,497.13,827.58,523,82
+249,Product_249,Home & Kitchen,Appliances,Brand_15,315.39,742.69,21,79
+250,Product_250,Electronics,Audio,Brand_16,320.78,620.91,755,55
+251,Product_251,Home & Kitchen,Appliances,Brand_4,286.77,529.21,140,48
+252,Product_252,Sports,Team Sports,Brand_13,404.75,512.23,155,49
+253,Product_253,Home & Kitchen,Appliances,Brand_16,443.14,869.52,945,93
+254,Product_254,Books,Children,Brand_48,425.19,515.97,898,43
+255,Product_255,Home & Kitchen,Cookware,Brand_21,435.29,590.33,659,98
+256,Product_256,Electronics,Wearables,Brand_42,362.0,630.41,832,37
+257,Product_257,Electronics,Laptops,Brand_47,342.13,689.96,339,44
+258,Product_258,Home & Kitchen,Decor,Brand_35,85.88,160.51,55,86
+259,Product_259,Home & Kitchen,Decor,Brand_39,142.23,274.3,893,49
+260,Product_260,Books,Tech,Brand_12,370.31,483.49,452,81
+261,Product_261,Electronics,Smartphones,Brand_32,260.3,521.36,71,25
+262,Product_262,Electronics,Laptops,Brand_14,151.21,368.79,128,12
+263,Product_263,Home & Kitchen,Decor,Brand_16,262.55,377.36,519,11
+264,Product_264,Sports,Water Sports,Brand_20,58.36,111.13,168,93
+265,Product_265,Home & Kitchen,Decor,Brand_28,190.74,276.63,180,78
+266,Product_266,Home & Kitchen,Cookware,Brand_19,20.2,39.12,590,58
+267,Product_267,Home & Kitchen,Cookware,Brand_31,301.31,417.12,81,47
+268,Product_268,Sports,Water Sports,Brand_11,302.86,738.24,482,57
+269,Product_269,Sports,Water Sports,Brand_49,489.26,1152.23,159,62
+270,Product_270,Electronics,Wearables,Brand_28,404.5,595.5,874,11
+271,Product_271,Fashion,Womenswear,Brand_36,82.44,146.61,744,23
+272,Product_272,Fashion,Accessories,Brand_30,311.72,718.79,313,59
+273,Product_273,Fashion,Accessories,Brand_36,119.82,218.5,620,62
+274,Product_274,Electronics,Audio,Brand_9,325.48,579.12,732,61
+275,Product_275,Home & Kitchen,Decor,Brand_13,229.83,343.06,4,2
+276,Product_276,Books,Tech,Brand_32,493.4,896.88,414,54
+277,Product_277,Sports,Team Sports,Brand_25,268.71,398.8,501,40
+278,Product_278,Books,Fiction,Brand_27,259.5,397.54,906,5
+279,Product_279,Electronics,Wearables,Brand_37,105.16,163.89,166,25
+280,Product_280,Sports,Team Sports,Brand_50,6.37,12.37,935,97
+281,Product_281,Fashion,Accessories,Brand_41,196.8,466.08,705,48
+282,Product_282,Electronics,Wearables,Brand_28,25.15,31.59,753,32
+283,Product_283,Home & Kitchen,Bedding,Brand_3,443.51,605.23,943,47
+284,Product_284,Electronics,Laptops,Brand_17,6.07,8.7,619,59
+285,Product_285,Home & Kitchen,Cookware,Brand_16,412.82,926.17,616,75
+286,Product_286,Home & Kitchen,Appliances,Brand_8,173.37,358.61,789,12
+287,Product_287,Sports,Water Sports,Brand_46,256.09,608.51,600,11
+288,Product_288,Books,Non-Fiction,Brand_28,32.93,74.33,169,55
+289,Product_289,Fashion,Footwear,Brand_33,89.45,152.88,990,69
+290,Product_290,Sports,Team Sports,Brand_47,100.02,211.38,421,97
+291,Product_291,Electronics,Smartphones,Brand_41,340.77,651.64,586,100
+292,Product_292,Fashion,Womenswear,Brand_18,350.59,712.2,766,27
+293,Product_293,Sports,Team Sports,Brand_1,389.34,588.38,172,63
+294,Product_294,Electronics,Smartphones,Brand_5,217.31,303.61,792,90
+295,Product_295,Sports,Water Sports,Brand_42,217.65,459.72,295,94
+296,Product_296,Sports,Outdoor,Brand_12,347.24,736.93,383,24
+297,Product_297,Home & Kitchen,Decor,Brand_32,157.84,325.29,186,65
+298,Product_298,Electronics,Wearables,Brand_37,186.9,453.76,833,28
+299,Product_299,Home & Kitchen,Decor,Brand_4,174.97,347.13,767,24
+300,Product_300,Home & Kitchen,Cookware,Brand_27,376.32,895.01,451,81
+301,Product_301,Books,Fiction,Brand_41,221.77,370.05,170,11
+302,Product_302,Fashion,Menswear,Brand_25,217.86,353.11,127,36
+303,Product_303,Electronics,Audio,Brand_2,328.69,792.98,599,31
+304,Product_304,Sports,Water Sports,Brand_44,67.41,130.05,778,13
+305,Product_305,Electronics,Smartphones,Brand_18,449.34,597.69,769,1
+306,Product_306,Books,Fiction,Brand_7,249.46,579.94,216,67
+307,Product_307,Electronics,Wearables,Brand_39,450.72,842.24,532,98
+308,Product_308,Fashion,Accessories,Brand_31,17.35,23.2,775,44
+309,Product_309,Books,Children,Brand_22,295.42,402.07,379,88
+310,Product_310,Fashion,Footwear,Brand_16,78.96,174.01,963,47
+311,Product_311,Sports,Water Sports,Brand_40,376.59,864.5,58,46
+312,Product_312,Fashion,Menswear,Brand_1,57.34,83.58,467,90
+313,Product_313,Sports,Outdoor,Brand_2,417.32,891.99,616,16
+314,Product_314,Books,Tech,Brand_45,403.95,1004.49,769,32
+315,Product_315,Fashion,Accessories,Brand_40,432.89,812.36,702,85
+316,Product_316,Sports,Water Sports,Brand_43,158.83,308.22,192,1
+317,Product_317,Fashion,Menswear,Brand_41,321.1,525.29,368,6
+318,Product_318,Fashion,Accessories,Brand_15,386.61,510.55,621,63
+319,Product_319,Sports,Fitness,Brand_23,390.8,485.22,438,61
+320,Product_320,Electronics,Wearables,Brand_19,251.49,583.42,621,25
+321,Product_321,Home & Kitchen,Appliances,Brand_9,47.82,89.57,509,12
+322,Product_322,Fashion,Accessories,Brand_11,83.9,198.28,917,58
+323,Product_323,Electronics,Wearables,Brand_43,417.01,1006.7,553,31
+324,Product_324,Home & Kitchen,Decor,Brand_11,438.12,945.25,771,85
+325,Product_325,Electronics,Smartphones,Brand_28,96.52,153.78,732,4
+326,Product_326,Home & Kitchen,Cookware,Brand_25,250.94,493.24,784,36
+327,Product_327,Home & Kitchen,Cookware,Brand_43,392.18,586.33,487,86
+328,Product_328,Electronics,Laptops,Brand_35,68.5,125.18,648,93
+329,Product_329,Sports,Fitness,Brand_45,83.13,174.73,340,29
+330,Product_330,Books,Fiction,Brand_42,289.94,627.27,351,49
+331,Product_331,Sports,Water Sports,Brand_15,36.4,89.33,228,34
+332,Product_332,Electronics,Audio,Brand_6,5.0,8.12,114,12
+333,Product_333,Fashion,Womenswear,Brand_48,341.42,429.74,964,15
+334,Product_334,Books,Tech,Brand_9,46.26,60.12,873,41
+335,Product_335,Sports,Fitness,Brand_20,292.85,692.5,63,76
+336,Product_336,Books,Non-Fiction,Brand_25,279.94,555.58,433,41
+337,Product_337,Fashion,Womenswear,Brand_34,176.27,215.82,679,78
+338,Product_338,Books,Non-Fiction,Brand_7,15.7,36.97,404,2
+339,Product_339,Books,Children,Brand_21,55.77,139.41,148,38
+340,Product_340,Home & Kitchen,Bedding,Brand_44,86.39,179.43,466,19
+341,Product_341,Books,Tech,Brand_10,474.73,793.26,764,86
+342,Product_342,Electronics,Audio,Brand_20,368.54,610.34,514,89
+343,Product_343,Electronics,Audio,Brand_46,155.95,228.05,587,62
+344,Product_344,Home & Kitchen,Bedding,Brand_19,411.36,631.27,721,49
+345,Product_345,Electronics,Audio,Brand_10,145.16,362.71,847,92
+346,Product_346,Home & Kitchen,Decor,Brand_45,167.02,292.22,753,7
+347,Product_347,Home & Kitchen,Bedding,Brand_47,495.08,831.78,401,39
+348,Product_348,Home & Kitchen,Appliances,Brand_36,186.25,423.91,401,44
+349,Product_349,Sports,Water Sports,Brand_23,159.41,239.74,775,51
+350,Product_350,Sports,Fitness,Brand_34,214.49,452.75,744,37
+351,Product_351,Fashion,Womenswear,Brand_45,26.41,44.53,876,71
+352,Product_352,Sports,Fitness,Brand_9,176.39,267.81,331,97
+353,Product_353,Books,Fiction,Brand_46,328.87,518.62,311,59
+354,Product_354,Home & Kitchen,Decor,Brand_29,305.33,566.58,712,62
+355,Product_355,Fashion,Womenswear,Brand_14,112.51,174.0,223,96
+356,Product_356,Home & Kitchen,Appliances,Brand_24,89.45,113.93,743,74
+357,Product_357,Electronics,Laptops,Brand_25,311.5,646.25,973,55
+358,Product_358,Home & Kitchen,Appliances,Brand_7,87.17,174.34,364,61
+359,Product_359,Home & Kitchen,Appliances,Brand_8,491.13,636.86,527,84
+360,Product_360,Fashion,Accessories,Brand_10,247.73,533.35,642,93
+361,Product_361,Sports,Outdoor,Brand_3,27.77,61.42,121,31
+362,Product_362,Sports,Water Sports,Brand_20,489.86,644.18,704,77
+363,Product_363,Home & Kitchen,Bedding,Brand_50,412.0,697.17,708,86
+364,Product_364,Electronics,Wearables,Brand_42,76.34,140.55,391,36
+365,Product_365,Sports,Team Sports,Brand_1,40.4,75.9,122,15
+366,Product_366,Electronics,Smartphones,Brand_32,14.58,31.31,656,86
+367,Product_367,Books,Non-Fiction,Brand_2,246.54,442.94,600,74
+368,Product_368,Books,Children,Brand_18,102.11,170.49,710,96
+369,Product_369,Electronics,Laptops,Brand_25,95.03,204.89,495,83
+370,Product_370,Sports,Team Sports,Brand_37,103.52,207.22,128,13
+371,Product_371,Fashion,Menswear,Brand_46,143.41,294.58,930,69
+372,Product_372,Home & Kitchen,Bedding,Brand_45,272.53,477.06,20,51
+373,Product_373,Books,Children,Brand_5,338.14,588.51,531,75
+374,Product_374,Books,Fiction,Brand_49,411.58,884.27,771,27
+375,Product_375,Electronics,Laptops,Brand_39,272.62,637.98,711,24
+376,Product_376,Electronics,Wearables,Brand_21,415.29,785.48,125,6
+377,Product_377,Home & Kitchen,Decor,Brand_42,38.88,75.26,165,12
+378,Product_378,Books,Tech,Brand_49,180.85,344.0,35,11
+379,Product_379,Electronics,Audio,Brand_24,325.33,663.12,989,70
+380,Product_380,Home & Kitchen,Bedding,Brand_43,338.39,704.88,0,32
+381,Product_381,Fashion,Menswear,Brand_34,59.09,85.63,926,38
+382,Product_382,Books,Children,Brand_9,317.12,548.82,590,63
+383,Product_383,Fashion,Footwear,Brand_39,382.61,521.26,551,66
+384,Product_384,Home & Kitchen,Appliances,Brand_43,99.8,192.22,839,6
+385,Product_385,Home & Kitchen,Appliances,Brand_13,252.87,391.02,145,39
+386,Product_386,Home & Kitchen,Decor,Brand_39,207.13,257.98,565,28
+387,Product_387,Books,Tech,Brand_18,23.33,30.88,131,94
+388,Product_388,Books,Children,Brand_5,290.51,674.81,563,33
+389,Product_389,Fashion,Accessories,Brand_42,133.81,166.48,925,21
+390,Product_390,Sports,Water Sports,Brand_6,355.77,822.53,967,33
+391,Product_391,Sports,Outdoor,Brand_35,73.4,124.89,208,10
+392,Product_392,Fashion,Womenswear,Brand_46,83.57,111.84,381,73
+393,Product_393,Books,Non-Fiction,Brand_27,325.84,800.85,841,20
+394,Product_394,Fashion,Accessories,Brand_25,340.69,845.0,26,78
+395,Product_395,Home & Kitchen,Appliances,Brand_18,220.03,520.86,127,69
+396,Product_396,Electronics,Wearables,Brand_5,106.52,144.15,337,82
+397,Product_397,Electronics,Audio,Brand_22,352.75,593.62,796,35
+398,Product_398,Home & Kitchen,Decor,Brand_18,162.26,336.31,10,13
+399,Product_399,Sports,Outdoor,Brand_25,170.07,330.67,974,14
+400,Product_400,Electronics,Laptops,Brand_34,153.23,340.0,745,40
+401,Product_401,Books,Children,Brand_7,159.63,302.58,541,45
+402,Product_402,Books,Tech,Brand_36,16.47,36.72,277,78
+403,Product_403,Electronics,Smartphones,Brand_11,312.07,452.47,325,97
+404,Product_404,Sports,Outdoor,Brand_23,111.61,172.02,825,95
+405,Product_405,Books,Children,Brand_31,290.38,555.44,606,17
+406,Product_406,Fashion,Menswear,Brand_44,140.56,295.5,525,92
+407,Product_407,Home & Kitchen,Decor,Brand_10,445.08,559.27,387,73
+408,Product_408,Fashion,Menswear,Brand_47,211.51,417.01,654,48
+409,Product_409,Home & Kitchen,Bedding,Brand_46,295.29,361.85,468,24
+410,Product_410,Sports,Team Sports,Brand_30,109.23,139.86,514,37
+411,Product_411,Fashion,Accessories,Brand_34,286.64,584.46,964,92
+412,Product_412,Home & Kitchen,Cookware,Brand_41,84.07,137.28,878,12
+413,Product_413,Fashion,Accessories,Brand_50,168.25,381.21,320,12
+414,Product_414,Electronics,Smartphones,Brand_47,101.36,193.88,245,12
+415,Product_415,Home & Kitchen,Appliances,Brand_6,392.55,894.41,761,37
+416,Product_416,Books,Children,Brand_1,334.95,532.36,985,55
+417,Product_417,Books,Non-Fiction,Brand_31,412.41,892.79,509,66
+418,Product_418,Books,Fiction,Brand_26,353.71,455.41,14,79
+419,Product_419,Home & Kitchen,Appliances,Brand_46,26.42,55.59,435,90
+420,Product_420,Books,Tech,Brand_16,472.67,1042.63,756,85
+421,Product_421,Books,Fiction,Brand_39,416.58,795.03,459,22
+422,Product_422,Books,Non-Fiction,Brand_12,155.77,324.17,76,47
+423,Product_423,Home & Kitchen,Cookware,Brand_4,357.43,742.73,432,64
+424,Product_424,Sports,Outdoor,Brand_24,473.62,794.42,993,15
+425,Product_425,Fashion,Womenswear,Brand_35,24.63,58.64,871,99
+426,Product_426,Electronics,Audio,Brand_20,84.45,177.9,494,38
+427,Product_427,Fashion,Womenswear,Brand_1,437.24,700.98,755,81
+428,Product_428,Books,Children,Brand_14,416.06,678.87,945,40
+429,Product_429,Books,Fiction,Brand_30,398.16,513.94,913,80
+430,Product_430,Sports,Fitness,Brand_23,329.35,685.14,6,79
+431,Product_431,Sports,Team Sports,Brand_20,248.26,519.66,362,14
+432,Product_432,Electronics,Audio,Brand_47,461.98,995.11,190,52
+433,Product_433,Fashion,Menswear,Brand_7,480.84,857.43,441,63
+434,Product_434,Home & Kitchen,Appliances,Brand_34,266.5,411.17,526,20
+435,Product_435,Sports,Fitness,Brand_32,492.87,626.77,7,20
+436,Product_436,Fashion,Womenswear,Brand_31,182.52,289.66,404,48
+437,Product_437,Fashion,Footwear,Brand_28,196.32,469.8,913,24
+438,Product_438,Books,Tech,Brand_7,187.18,447.75,449,85
+439,Product_439,Sports,Outdoor,Brand_9,214.55,495.87,362,96
+440,Product_440,Sports,Fitness,Brand_23,263.27,422.48,904,91
+441,Product_441,Home & Kitchen,Appliances,Brand_13,227.43,398.39,291,6
+442,Product_442,Home & Kitchen,Bedding,Brand_27,133.66,210.72,761,43
+443,Product_443,Electronics,Laptops,Brand_43,97.29,159.24,203,62
+444,Product_444,Fashion,Menswear,Brand_27,314.08,534.73,500,71
+445,Product_445,Sports,Outdoor,Brand_21,357.6,887.95,769,98
+446,Product_446,Sports,Water Sports,Brand_9,191.67,345.28,112,14
+447,Product_447,Electronics,Laptops,Brand_10,86.23,147.44,352,65
+448,Product_448,Electronics,Laptops,Brand_4,364.78,540.83,694,44
+449,Product_449,Sports,Fitness,Brand_28,95.12,160.69,491,38
+450,Product_450,Fashion,Accessories,Brand_6,410.23,824.87,779,55
+451,Product_451,Home & Kitchen,Decor,Brand_47,479.0,1138.06,523,24
+452,Product_452,Home & Kitchen,Cookware,Brand_50,79.81,100.19,117,34
+453,Product_453,Home & Kitchen,Bedding,Brand_13,202.55,380.53,485,91
+454,Product_454,Electronics,Laptops,Brand_13,260.21,357.62,875,76
+455,Product_455,Home & Kitchen,Decor,Brand_8,66.78,84.2,135,52
+456,Product_456,Electronics,Audio,Brand_13,426.18,1036.5,951,19
+457,Product_457,Sports,Fitness,Brand_40,62.26,91.96,204,12
+458,Product_458,Electronics,Wearables,Brand_27,49.48,115.82,537,40
+459,Product_459,Home & Kitchen,Decor,Brand_22,479.56,738.68,436,62
+460,Product_460,Electronics,Wearables,Brand_42,155.27,259.53,52,39
+461,Product_461,Electronics,Audio,Brand_24,253.72,529.56,287,45
+462,Product_462,Sports,Outdoor,Brand_21,254.67,620.45,916,7
+463,Product_463,Home & Kitchen,Appliances,Brand_1,54.45,121.87,53,85
+464,Product_464,Fashion,Womenswear,Brand_19,170.57,288.4,483,36
+465,Product_465,Books,Fiction,Brand_28,355.87,857.0,189,33
+466,Product_466,Sports,Team Sports,Brand_22,359.52,794.04,311,15
+467,Product_467,Electronics,Smartphones,Brand_44,376.64,609.13,565,99
+468,Product_468,Home & Kitchen,Cookware,Brand_24,379.68,842.84,759,47
+469,Product_469,Books,Tech,Brand_16,269.03,510.56,665,36
+470,Product_470,Home & Kitchen,Bedding,Brand_6,381.06,862.01,908,14
+471,Product_471,Home & Kitchen,Appliances,Brand_3,171.91,385.43,600,84
+472,Product_472,Home & Kitchen,Decor,Brand_46,408.03,613.83,456,13
+473,Product_473,Electronics,Audio,Brand_20,359.89,519.14,742,61
+474,Product_474,Home & Kitchen,Decor,Brand_3,51.06,99.41,130,25
+475,Product_475,Sports,Team Sports,Brand_49,454.78,566.7,873,72
+476,Product_476,Fashion,Footwear,Brand_29,414.12,769.61,644,92
+477,Product_477,Electronics,Wearables,Brand_5,431.14,990.12,494,54
+478,Product_478,Books,Fiction,Brand_11,438.27,963.99,613,36
+479,Product_479,Home & Kitchen,Cookware,Brand_3,422.28,603.37,978,73
+480,Product_480,Electronics,Laptops,Brand_48,155.41,235.48,834,51
+481,Product_481,Sports,Fitness,Brand_11,372.5,521.4,448,97
+482,Product_482,Books,Children,Brand_36,95.2,223.02,798,50
+483,Product_483,Sports,Team Sports,Brand_14,354.41,828.61,188,1
+484,Product_484,Home & Kitchen,Decor,Brand_38,73.98,127.15,713,2
+485,Product_485,Books,Children,Brand_33,145.16,176.02,724,93
+486,Product_486,Books,Tech,Brand_20,145.84,246.97,872,29
+487,Product_487,Fashion,Footwear,Brand_36,50.65,98.08,121,22
+488,Product_488,Home & Kitchen,Appliances,Brand_35,194.67,245.36,243,38
+489,Product_489,Electronics,Laptops,Brand_18,353.47,759.28,949,18
+490,Product_490,Fashion,Menswear,Brand_42,418.06,765.55,254,27
+491,Product_491,Books,Fiction,Brand_1,484.49,1157.1,664,45
+492,Product_492,Books,Tech,Brand_21,277.92,494.26,85,91
+493,Product_493,Books,Tech,Brand_47,6.5,13.81,136,53
+494,Product_494,Books,Tech,Brand_21,284.65,688.51,58,81
+495,Product_495,Electronics,Audio,Brand_15,299.14,745.07,748,36
+496,Product_496,Home & Kitchen,Cookware,Brand_2,427.64,1043.3,550,85
+497,Product_497,Books,Fiction,Brand_47,167.19,233.09,763,89
+498,Product_498,Sports,Team Sports,Brand_41,399.45,887.6,649,78
+499,Product_499,Books,Non-Fiction,Brand_29,109.67,240.63,225,42
+500,Product_500,Fashion,Womenswear,Brand_38,293.08,393.43,644,97
+501,Product_501,Sports,Outdoor,Brand_29,253.38,610.77,237,94
+502,Product_502,Sports,Team Sports,Brand_10,255.7,569.01,923,62
+503,Product_503,Electronics,Wearables,Brand_12,19.31,41.45,470,24
+504,Product_504,Home & Kitchen,Decor,Brand_37,473.68,876.02,502,94
+505,Product_505,Home & Kitchen,Cookware,Brand_2,172.17,351.34,317,21
+506,Product_506,Home & Kitchen,Bedding,Brand_44,458.55,655.64,622,25
+507,Product_507,Electronics,Laptops,Brand_5,204.83,287.41,436,32
+508,Product_508,Sports,Water Sports,Brand_7,250.84,477.24,741,68
+509,Product_509,Home & Kitchen,Appliances,Brand_39,472.38,820.18,102,49
+510,Product_510,Sports,Fitness,Brand_8,285.64,671.49,846,2
+511,Product_511,Electronics,Laptops,Brand_16,164.1,340.74,788,11
+512,Product_512,Fashion,Womenswear,Brand_41,379.8,618.96,614,2
+513,Product_513,Electronics,Smartphones,Brand_35,86.35,160.07,753,44
+514,Product_514,Electronics,Laptops,Brand_9,181.62,280.86,491,98
+515,Product_515,Books,Children,Brand_11,486.84,902.02,314,43
+516,Product_516,Sports,Outdoor,Brand_16,428.96,623.67,57,70
+517,Product_517,Fashion,Menswear,Brand_2,470.02,1049.44,844,6
+518,Product_518,Electronics,Audio,Brand_7,405.3,691.72,523,54
+519,Product_519,Home & Kitchen,Appliances,Brand_15,245.39,483.75,24,30
+520,Product_520,Sports,Water Sports,Brand_10,395.93,912.13,361,84
+521,Product_521,Fashion,Womenswear,Brand_44,43.63,103.63,393,88
+522,Product_522,Electronics,Wearables,Brand_11,469.06,924.4,112,29
+523,Product_523,Electronics,Audio,Brand_23,97.44,220.6,78,79
+524,Product_524,Fashion,Menswear,Brand_24,276.55,625.65,945,11
+525,Product_525,Electronics,Laptops,Brand_12,408.33,536.03,438,68
+526,Product_526,Fashion,Womenswear,Brand_44,305.48,558.44,435,20
+527,Product_527,Fashion,Footwear,Brand_23,473.33,750.53,896,14
+528,Product_528,Fashion,Accessories,Brand_43,106.97,253.11,377,34
+529,Product_529,Electronics,Smartphones,Brand_10,78.61,164.49,796,84
+530,Product_530,Home & Kitchen,Cookware,Brand_10,153.51,297.53,399,58
+531,Product_531,Sports,Fitness,Brand_8,310.03,540.25,591,55
+532,Product_532,Fashion,Womenswear,Brand_6,487.61,668.7,330,17
+533,Product_533,Home & Kitchen,Bedding,Brand_23,198.74,349.69,326,64
+534,Product_534,Sports,Water Sports,Brand_45,317.37,548.87,996,53
+535,Product_535,Books,Tech,Brand_9,53.03,128.95,821,84
+536,Product_536,Home & Kitchen,Bedding,Brand_27,210.96,347.13,562,64
+537,Product_537,Books,Children,Brand_35,226.13,335.03,549,30
+538,Product_538,Sports,Fitness,Brand_38,54.61,76.08,732,54
+539,Product_539,Books,Non-Fiction,Brand_45,87.49,127.47,89,31
+540,Product_540,Fashion,Menswear,Brand_14,212.88,428.12,871,3
+541,Product_541,Fashion,Accessories,Brand_9,316.3,379.6,943,15
+542,Product_542,Electronics,Audio,Brand_24,460.87,1046.04,869,100
+543,Product_543,Home & Kitchen,Cookware,Brand_30,482.15,804.22,147,71
+544,Product_544,Sports,Outdoor,Brand_14,334.08,473.87,847,29
+545,Product_545,Electronics,Laptops,Brand_8,409.43,577.21,985,90
+546,Product_546,Home & Kitchen,Bedding,Brand_47,166.36,305.78,26,90
+547,Product_547,Sports,Team Sports,Brand_4,299.29,576.89,718,14
+548,Product_548,Books,Fiction,Brand_31,55.54,97.09,857,77
+549,Product_549,Home & Kitchen,Appliances,Brand_10,461.84,1077.97,374,19
+550,Product_550,Electronics,Laptops,Brand_5,297.44,578.23,12,73
+551,Product_551,Sports,Outdoor,Brand_49,60.28,88.03,186,61
+552,Product_552,Home & Kitchen,Cookware,Brand_31,130.06,238.62,421,93
+553,Product_553,Fashion,Accessories,Brand_42,367.02,660.25,711,2
+554,Product_554,Fashion,Menswear,Brand_10,67.4,119.38,61,83
+555,Product_555,Electronics,Laptops,Brand_33,85.5,186.09,164,2
+556,Product_556,Sports,Water Sports,Brand_44,87.42,159.74,970,59
+557,Product_557,Books,Tech,Brand_37,348.24,521.2,513,40
+558,Product_558,Home & Kitchen,Bedding,Brand_11,42.63,82.37,278,12
+559,Product_559,Books,Children,Brand_9,31.83,62.52,760,28
+560,Product_560,Sports,Fitness,Brand_15,377.98,615.39,401,24
+561,Product_561,Books,Fiction,Brand_45,246.73,593.98,479,62
+562,Product_562,Fashion,Accessories,Brand_25,238.2,594.43,168,7
+563,Product_563,Fashion,Accessories,Brand_13,82.72,175.5,276,14
+564,Product_564,Electronics,Smartphones,Brand_24,328.05,765.67,617,100
+565,Product_565,Fashion,Menswear,Brand_16,50.76,79.4,288,21
+566,Product_566,Books,Fiction,Brand_5,70.43,169.95,216,77
+567,Product_567,Electronics,Audio,Brand_13,216.18,515.18,564,26
+568,Product_568,Electronics,Laptops,Brand_18,150.73,205.64,87,73
+569,Product_569,Books,Fiction,Brand_37,151.79,299.99,809,62
+570,Product_570,Electronics,Smartphones,Brand_21,423.39,720.19,95,40
+571,Product_571,Electronics,Audio,Brand_49,457.83,694.76,289,51
+572,Product_572,Books,Non-Fiction,Brand_21,348.3,751.08,769,51
+573,Product_573,Fashion,Womenswear,Brand_45,140.61,173.66,690,13
+574,Product_574,Fashion,Accessories,Brand_48,185.79,233.86,515,13
+575,Product_575,Books,Non-Fiction,Brand_2,450.87,1099.93,601,49
+576,Product_576,Sports,Fitness,Brand_19,369.01,791.41,165,20
+577,Product_577,Sports,Fitness,Brand_41,124.24,161.03,95,92
+578,Product_578,Home & Kitchen,Decor,Brand_44,402.04,774.7,669,19
+579,Product_579,Home & Kitchen,Cookware,Brand_29,342.41,757.94,804,17
+580,Product_580,Fashion,Footwear,Brand_24,207.67,288.23,638,56
+581,Product_581,Electronics,Wearables,Brand_16,398.54,713.34,213,79
+582,Product_582,Books,Fiction,Brand_10,414.33,732.95,580,81
+583,Product_583,Sports,Fitness,Brand_1,112.42,159.9,146,99
+584,Product_584,Fashion,Menswear,Brand_32,373.24,726.83,96,59
+585,Product_585,Fashion,Womenswear,Brand_19,205.28,377.66,165,9
+586,Product_586,Fashion,Footwear,Brand_23,277.07,418.72,91,10
+587,Product_587,Home & Kitchen,Bedding,Brand_17,192.19,303.69,484,33
+588,Product_588,Sports,Outdoor,Brand_8,197.27,365.09,995,73
+589,Product_589,Sports,Fitness,Brand_24,90.81,155.43,879,37
+590,Product_590,Sports,Water Sports,Brand_40,195.82,307.79,939,88
+591,Product_591,Home & Kitchen,Bedding,Brand_24,499.26,646.9,524,80
+592,Product_592,Fashion,Footwear,Brand_6,323.26,461.22,698,53
+593,Product_593,Books,Children,Brand_17,420.56,1004.49,898,88
+594,Product_594,Electronics,Smartphones,Brand_48,203.73,462.57,809,32
+595,Product_595,Books,Fiction,Brand_10,128.71,177.89,873,14
+596,Product_596,Fashion,Accessories,Brand_11,161.36,265.3,583,52
+597,Product_597,Electronics,Laptops,Brand_25,201.69,339.82,895,60
+598,Product_598,Electronics,Audio,Brand_30,208.52,442.7,479,83
+599,Product_599,Books,Children,Brand_7,126.56,154.93,87,24
+600,Product_600,Electronics,Wearables,Brand_50,247.39,441.04,443,26
+601,Product_601,Sports,Team Sports,Brand_5,34.73,47.72,324,44
+602,Product_602,Books,Children,Brand_14,257.41,387.45,719,95
+603,Product_603,Sports,Fitness,Brand_18,439.41,626.28,465,5
+604,Product_604,Books,Non-Fiction,Brand_31,14.96,26.66,149,82
+605,Product_605,Home & Kitchen,Cookware,Brand_37,493.15,998.15,32,77
+606,Product_606,Sports,Fitness,Brand_24,180.24,220.24,808,56
+607,Product_607,Sports,Outdoor,Brand_4,245.05,359.83,216,3
+608,Product_608,Sports,Team Sports,Brand_17,325.64,637.57,650,23
+609,Product_609,Electronics,Laptops,Brand_5,136.28,175.74,280,52
+610,Product_610,Electronics,Audio,Brand_46,378.73,742.73,462,54
+611,Product_611,Books,Non-Fiction,Brand_43,421.85,648.7,914,34
+612,Product_612,Home & Kitchen,Appliances,Brand_6,328.17,444.44,916,55
+613,Product_613,Fashion,Footwear,Brand_11,149.45,306.9,203,45
+614,Product_614,Sports,Water Sports,Brand_31,413.66,668.97,548,89
+615,Product_615,Home & Kitchen,Bedding,Brand_23,400.43,833.33,934,89
+616,Product_616,Books,Children,Brand_1,177.59,415.44,574,77
+617,Product_617,Home & Kitchen,Appliances,Brand_47,257.07,525.12,683,75
+618,Product_618,Books,Non-Fiction,Brand_21,250.34,447.74,680,94
+619,Product_619,Fashion,Menswear,Brand_10,424.75,672.43,918,59
+620,Product_620,Home & Kitchen,Bedding,Brand_21,23.13,54.21,116,87
+621,Product_621,Sports,Team Sports,Brand_34,413.39,693.06,739,1
+622,Product_622,Sports,Outdoor,Brand_41,96.8,201.17,460,82
+623,Product_623,Books,Fiction,Brand_3,43.99,77.02,223,96
+624,Product_624,Home & Kitchen,Bedding,Brand_45,47.5,93.92,559,100
+625,Product_625,Home & Kitchen,Bedding,Brand_14,18.47,37.27,356,27
+626,Product_626,Home & Kitchen,Appliances,Brand_24,338.24,620.09,833,47
+627,Product_627,Electronics,Audio,Brand_20,91.63,122.03,514,16
+628,Product_628,Sports,Water Sports,Brand_27,160.08,288.91,420,46
+629,Product_629,Fashion,Accessories,Brand_34,322.89,387.99,997,98
+630,Product_630,Fashion,Menswear,Brand_12,356.98,759.13,469,55
+631,Product_631,Fashion,Womenswear,Brand_36,225.05,370.53,609,21
+632,Product_632,Books,Children,Brand_25,421.94,936.69,291,85
+633,Product_633,Sports,Team Sports,Brand_45,491.72,827.82,635,13
+634,Product_634,Electronics,Smartphones,Brand_6,453.88,596.23,665,3
+635,Product_635,Books,Children,Brand_7,208.68,376.66,508,96
+636,Product_636,Books,Fiction,Brand_41,223.23,449.28,454,65
+637,Product_637,Books,Fiction,Brand_43,89.25,207.63,296,54
+638,Product_638,Home & Kitchen,Decor,Brand_50,278.12,660.67,465,71
+639,Product_639,Sports,Fitness,Brand_13,6.3,12.72,876,61
+640,Product_640,Electronics,Audio,Brand_30,209.17,388.35,422,83
+641,Product_641,Sports,Fitness,Brand_24,373.18,558.02,800,29
+642,Product_642,Books,Tech,Brand_18,106.43,224.98,900,85
+643,Product_643,Fashion,Footwear,Brand_27,263.08,395.6,689,31
+644,Product_644,Electronics,Wearables,Brand_3,244.59,439.63,15,4
+645,Product_645,Home & Kitchen,Cookware,Brand_34,347.26,417.91,839,95
+646,Product_646,Books,Tech,Brand_22,295.45,587.17,174,74
+647,Product_647,Sports,Outdoor,Brand_36,374.03,881.21,996,51
+648,Product_648,Home & Kitchen,Bedding,Brand_4,222.89,366.72,820,74
+649,Product_649,Sports,Outdoor,Brand_41,55.65,91.15,399,94
+650,Product_650,Home & Kitchen,Bedding,Brand_21,38.9,87.28,529,21
+651,Product_651,Sports,Outdoor,Brand_7,404.47,704.75,727,17
+652,Product_652,Books,Fiction,Brand_41,133.52,180.71,590,51
+653,Product_653,Fashion,Womenswear,Brand_21,426.36,998.0,208,12
+654,Product_654,Electronics,Smartphones,Brand_28,136.81,274.75,11,81
+655,Product_655,Books,Non-Fiction,Brand_2,133.03,198.57,632,91
+656,Product_656,Books,Fiction,Brand_37,15.5,30.23,391,4
+657,Product_657,Home & Kitchen,Bedding,Brand_41,79.22,96.34,646,100
+658,Product_658,Fashion,Womenswear,Brand_16,56.9,91.49,668,29
+659,Product_659,Fashion,Womenswear,Brand_35,336.24,492.06,860,32
+660,Product_660,Sports,Team Sports,Brand_43,444.36,699.88,52,36
+661,Product_661,Electronics,Laptops,Brand_41,168.96,250.63,23,82
+662,Product_662,Books,Fiction,Brand_8,130.63,169.35,470,77
+663,Product_663,Electronics,Smartphones,Brand_10,150.91,349.73,289,34
+664,Product_664,Home & Kitchen,Appliances,Brand_5,345.77,808.36,506,47
+665,Product_665,Home & Kitchen,Bedding,Brand_7,56.91,102.0,502,3
+666,Product_666,Sports,Fitness,Brand_32,118.48,253.26,982,81
+667,Product_667,Electronics,Laptops,Brand_44,485.27,1096.69,429,49
+668,Product_668,Fashion,Accessories,Brand_11,22.46,36.2,184,39
+669,Product_669,Electronics,Laptops,Brand_43,19.15,23.98,580,81
+670,Product_670,Books,Fiction,Brand_8,44.36,69.17,999,44
+671,Product_671,Fashion,Accessories,Brand_40,155.58,267.69,614,70
+672,Product_672,Electronics,Laptops,Brand_34,205.44,452.55,759,33
+673,Product_673,Electronics,Laptops,Brand_39,74.99,105.37,30,69
+674,Product_674,Electronics,Laptops,Brand_14,315.16,612.44,887,47
+675,Product_675,Electronics,Laptops,Brand_2,81.23,187.47,335,18
+676,Product_676,Home & Kitchen,Appliances,Brand_47,167.88,281.54,708,17
+677,Product_677,Fashion,Footwear,Brand_31,213.13,345.17,204,12
+678,Product_678,Fashion,Footwear,Brand_30,280.94,479.07,763,64
+679,Product_679,Sports,Water Sports,Brand_13,133.42,316.98,256,23
+680,Product_680,Home & Kitchen,Cookware,Brand_26,157.63,332.29,105,75
+681,Product_681,Books,Tech,Brand_11,176.88,312.33,813,27
+682,Product_682,Sports,Water Sports,Brand_29,121.79,265.26,433,77
+683,Product_683,Fashion,Footwear,Brand_40,369.92,454.6,110,78
+684,Product_684,Sports,Water Sports,Brand_13,34.8,83.49,580,46
+685,Product_685,Fashion,Menswear,Brand_29,444.97,826.72,171,5
+686,Product_686,Books,Tech,Brand_38,249.21,562.26,419,38
+687,Product_687,Books,Tech,Brand_26,73.53,150.72,30,15
+688,Product_688,Home & Kitchen,Cookware,Brand_28,240.61,521.24,809,24
+689,Product_689,Fashion,Womenswear,Brand_5,19.9,39.21,220,85
+690,Product_690,Fashion,Footwear,Brand_10,280.58,643.4,798,41
+691,Product_691,Electronics,Smartphones,Brand_21,340.03,797.1,704,2
+692,Product_692,Fashion,Womenswear,Brand_30,444.2,768.74,581,42
+693,Product_693,Home & Kitchen,Appliances,Brand_25,73.03,147.47,290,78
+694,Product_694,Home & Kitchen,Decor,Brand_7,437.5,567.63,574,36
+695,Product_695,Books,Fiction,Brand_37,281.17,379.44,914,83
+696,Product_696,Sports,Water Sports,Brand_21,18.36,38.25,832,41
+697,Product_697,Home & Kitchen,Decor,Brand_4,342.52,678.48,821,64
+698,Product_698,Sports,Fitness,Brand_18,430.32,561.63,431,16
+699,Product_699,Electronics,Wearables,Brand_11,57.1,132.69,615,42
+700,Product_700,Books,Children,Brand_16,254.12,395.15,590,3
+701,Product_701,Fashion,Menswear,Brand_42,370.39,875.13,802,74
+702,Product_702,Electronics,Wearables,Brand_19,346.35,772.19,134,52
+703,Product_703,Electronics,Smartphones,Brand_22,144.84,228.18,660,3
+704,Product_704,Electronics,Wearables,Brand_7,432.74,865.19,849,54
+705,Product_705,Fashion,Footwear,Brand_21,120.91,227.48,771,45
+706,Product_706,Sports,Fitness,Brand_36,344.5,511.28,793,41
+707,Product_707,Sports,Fitness,Brand_26,329.18,413.05,305,90
+708,Product_708,Sports,Water Sports,Brand_42,155.33,322.49,990,16
+709,Product_709,Fashion,Menswear,Brand_2,78.93,117.52,229,7
+710,Product_710,Electronics,Laptops,Brand_7,440.15,914.02,330,89
+711,Product_711,Sports,Outdoor,Brand_11,251.96,371.43,90,25
+712,Product_712,Fashion,Menswear,Brand_45,174.0,338.71,888,7
+713,Product_713,Fashion,Menswear,Brand_8,81.88,149.53,49,39
+714,Product_714,Electronics,Audio,Brand_22,207.44,377.48,704,79
+715,Product_715,Sports,Team Sports,Brand_45,57.25,76.63,174,18
+716,Product_716,Books,Children,Brand_8,482.23,1192.64,129,41
+717,Product_717,Home & Kitchen,Bedding,Brand_41,215.95,480.64,457,86
+718,Product_718,Electronics,Laptops,Brand_37,329.62,445.64,489,85
+719,Product_719,Sports,Team Sports,Brand_21,151.86,244.15,791,94
+720,Product_720,Sports,Outdoor,Brand_6,299.91,586.02,270,99
+721,Product_721,Fashion,Menswear,Brand_23,462.14,1029.21,571,32
+722,Product_722,Home & Kitchen,Appliances,Brand_5,429.14,1012.17,995,64
+723,Product_723,Electronics,Laptops,Brand_1,401.63,655.76,686,28
+724,Product_724,Sports,Water Sports,Brand_13,111.43,216.54,499,14
+725,Product_725,Fashion,Womenswear,Brand_38,346.34,589.66,779,68
+726,Product_726,Books,Tech,Brand_49,424.93,1040.54,967,40
+727,Product_727,Sports,Outdoor,Brand_33,286.85,514.49,108,17
+728,Product_728,Home & Kitchen,Cookware,Brand_25,422.23,520.0,998,58
+729,Product_729,Books,Non-Fiction,Brand_50,68.86,158.33,409,25
+730,Product_730,Electronics,Audio,Brand_28,367.35,639.55,168,88
+731,Product_731,Fashion,Menswear,Brand_10,444.98,737.29,472,14
+732,Product_732,Electronics,Laptops,Brand_2,318.75,645.35,915,59
+733,Product_733,Home & Kitchen,Cookware,Brand_2,96.24,151.13,487,85
+734,Product_734,Books,Children,Brand_23,458.42,659.41,271,16
+735,Product_735,Books,Fiction,Brand_23,90.92,165.79,441,28
+736,Product_736,Home & Kitchen,Bedding,Brand_33,50.64,119.66,441,66
+737,Product_737,Fashion,Menswear,Brand_29,54.57,109.22,279,48
+738,Product_738,Electronics,Smartphones,Brand_42,173.19,388.91,391,94
+739,Product_739,Sports,Outdoor,Brand_19,296.96,506.26,193,52
+740,Product_740,Home & Kitchen,Cookware,Brand_34,492.02,632.79,622,64
+741,Product_741,Books,Children,Brand_7,291.0,723.55,697,7
+742,Product_742,Home & Kitchen,Appliances,Brand_15,347.02,750.15,117,7
+743,Product_743,Electronics,Audio,Brand_16,20.89,25.65,67,69
+744,Product_744,Electronics,Audio,Brand_15,22.87,56.93,903,80
+745,Product_745,Sports,Water Sports,Brand_26,489.86,800.85,103,29
+746,Product_746,Fashion,Accessories,Brand_14,149.04,207.13,175,27
+747,Product_747,Fashion,Footwear,Brand_46,167.92,282.31,610,37
+748,Product_748,Electronics,Smartphones,Brand_12,375.4,873.25,515,90
+749,Product_749,Books,Children,Brand_48,374.63,764.4,312,89
+750,Product_750,Home & Kitchen,Decor,Brand_21,384.12,829.72,697,9
+751,Product_751,Home & Kitchen,Decor,Brand_22,240.5,393.6,921,59
+752,Product_752,Home & Kitchen,Appliances,Brand_43,144.98,302.02,485,55
+753,Product_753,Fashion,Menswear,Brand_12,479.86,938.3,997,34
+754,Product_754,Electronics,Laptops,Brand_44,456.7,556.49,778,2
+755,Product_755,Books,Tech,Brand_31,398.26,919.85,597,1
+756,Product_756,Sports,Outdoor,Brand_31,317.34,766.15,112,6
+757,Product_757,Electronics,Audio,Brand_15,297.01,449.29,537,65
+758,Product_758,Home & Kitchen,Decor,Brand_50,111.78,214.91,96,13
+759,Product_759,Fashion,Footwear,Brand_29,453.71,587.14,502,95
+760,Product_760,Fashion,Footwear,Brand_43,304.17,669.4,498,33
+761,Product_761,Fashion,Accessories,Brand_1,62.12,83.97,847,46
+762,Product_762,Fashion,Footwear,Brand_34,186.23,289.78,793,85
+763,Product_763,Books,Children,Brand_8,103.17,150.45,276,88
+764,Product_764,Books,Fiction,Brand_10,69.68,138.95,420,29
+765,Product_765,Home & Kitchen,Cookware,Brand_32,345.62,730.58,31,32
+766,Product_766,Books,Children,Brand_24,268.52,654.86,211,96
+767,Product_767,Electronics,Laptops,Brand_25,440.86,1077.87,654,14
+768,Product_768,Fashion,Accessories,Brand_34,197.45,462.25,179,34
+769,Product_769,Fashion,Footwear,Brand_26,382.62,628.25,603,54
+770,Product_770,Fashion,Footwear,Brand_13,57.76,120.57,42,75
+771,Product_771,Books,Tech,Brand_40,72.54,114.75,125,56
+772,Product_772,Sports,Team Sports,Brand_19,252.68,526.55,112,2
+773,Product_773,Sports,Outdoor,Brand_30,463.48,913.62,697,20
+774,Product_774,Books,Tech,Brand_40,337.35,540.78,571,86
+775,Product_775,Home & Kitchen,Cookware,Brand_32,345.21,610.72,295,9
+776,Product_776,Fashion,Menswear,Brand_30,429.18,733.98,41,28
+777,Product_777,Fashion,Menswear,Brand_4,236.79,417.31,500,40
+778,Product_778,Electronics,Wearables,Brand_23,406.51,991.81,676,1
+779,Product_779,Electronics,Audio,Brand_9,167.0,303.53,358,37
+780,Product_780,Books,Non-Fiction,Brand_6,354.43,837.87,730,35
+781,Product_781,Home & Kitchen,Decor,Brand_28,249.38,334.56,599,11
+782,Product_782,Fashion,Womenswear,Brand_3,187.49,359.13,484,46
+783,Product_783,Home & Kitchen,Bedding,Brand_28,211.67,305.34,408,13
+784,Product_784,Fashion,Footwear,Brand_39,23.31,48.8,318,23
+785,Product_785,Books,Children,Brand_44,496.4,1188.86,896,42
+786,Product_786,Books,Non-Fiction,Brand_44,343.22,787.34,786,26
+787,Product_787,Fashion,Womenswear,Brand_27,131.59,264.39,567,26
+788,Product_788,Fashion,Footwear,Brand_6,35.0,74.18,304,73
+789,Product_789,Sports,Outdoor,Brand_25,485.09,1124.94,801,56
+790,Product_790,Electronics,Laptops,Brand_34,269.55,599.85,452,89
+791,Product_791,Fashion,Footwear,Brand_30,472.23,699.29,362,55
+792,Product_792,Sports,Water Sports,Brand_27,397.66,616.69,472,4
+793,Product_793,Books,Fiction,Brand_50,439.09,583.05,431,12
+794,Product_794,Home & Kitchen,Cookware,Brand_16,93.22,199.19,594,66
+795,Product_795,Fashion,Womenswear,Brand_40,91.51,128.61,556,73
+796,Product_796,Fashion,Menswear,Brand_49,279.96,639.84,865,51
+797,Product_797,Home & Kitchen,Bedding,Brand_43,137.89,316.25,6,60
+798,Product_798,Books,Children,Brand_4,404.94,790.78,86,8
+799,Product_799,Fashion,Menswear,Brand_22,325.05,407.15,608,13
+800,Product_800,Fashion,Accessories,Brand_45,186.73,288.01,339,8
+801,Product_801,Electronics,Smartphones,Brand_45,79.25,135.24,209,67
+802,Product_802,Home & Kitchen,Bedding,Brand_9,180.68,388.02,228,87
+803,Product_803,Home & Kitchen,Cookware,Brand_41,301.06,718.64,318,93
+804,Product_804,Electronics,Wearables,Brand_40,76.98,98.36,704,26
+805,Product_805,Electronics,Smartphones,Brand_1,269.63,323.92,156,78
+806,Product_806,Electronics,Smartphones,Brand_16,394.92,733.67,209,14
+807,Product_807,Sports,Fitness,Brand_33,246.59,412.11,454,51
+808,Product_808,Electronics,Smartphones,Brand_20,190.61,335.56,414,62
+809,Product_809,Home & Kitchen,Decor,Brand_35,12.94,16.93,266,79
+810,Product_810,Sports,Fitness,Brand_28,255.0,355.77,149,82
+811,Product_811,Electronics,Laptops,Brand_10,390.49,607.93,838,96
+812,Product_812,Home & Kitchen,Decor,Brand_33,53.46,80.5,759,90
+813,Product_813,Books,Non-Fiction,Brand_31,181.76,226.46,491,38
+814,Product_814,Fashion,Menswear,Brand_38,75.13,121.79,504,48
+815,Product_815,Fashion,Accessories,Brand_25,158.69,355.55,714,14
+816,Product_816,Sports,Water Sports,Brand_28,422.41,613.1,151,4
+817,Product_817,Fashion,Accessories,Brand_8,66.35,134.32,577,50
+818,Product_818,Electronics,Audio,Brand_3,403.29,989.21,660,84
+819,Product_819,Books,Children,Brand_3,8.36,14.53,929,46
+820,Product_820,Home & Kitchen,Bedding,Brand_47,368.32,838.71,469,36
+821,Product_821,Electronics,Laptops,Brand_23,35.83,74.7,512,65
+822,Product_822,Home & Kitchen,Cookware,Brand_46,148.02,191.98,537,50
+823,Product_823,Books,Fiction,Brand_12,247.11,347.34,671,20
+824,Product_824,Fashion,Footwear,Brand_30,369.82,800.16,732,18
+825,Product_825,Fashion,Footwear,Brand_26,421.82,713.23,69,83
+826,Product_826,Sports,Water Sports,Brand_31,11.59,17.82,620,85
+827,Product_827,Home & Kitchen,Cookware,Brand_9,236.57,497.32,714,42
+828,Product_828,Books,Tech,Brand_38,194.11,368.2,632,52
+829,Product_829,Electronics,Smartphones,Brand_2,264.51,374.14,872,94
+830,Product_830,Home & Kitchen,Decor,Brand_7,313.41,555.06,681,14
+831,Product_831,Sports,Water Sports,Brand_21,404.92,849.44,778,30
+832,Product_832,Home & Kitchen,Appliances,Brand_12,60.18,110.45,745,50
+833,Product_833,Sports,Fitness,Brand_4,352.73,463.18,626,33
+834,Product_834,Electronics,Smartphones,Brand_48,397.29,591.41,74,57
+835,Product_835,Fashion,Menswear,Brand_12,254.03,615.45,328,14
+836,Product_836,Sports,Water Sports,Brand_9,287.81,504.03,652,74
+837,Product_837,Books,Non-Fiction,Brand_13,8.36,11.48,258,63
+838,Product_838,Sports,Team Sports,Brand_15,291.44,536.82,206,95
+839,Product_839,Home & Kitchen,Bedding,Brand_34,185.1,444.27,828,25
+840,Product_840,Electronics,Smartphones,Brand_41,169.58,321.91,982,86
+841,Product_841,Electronics,Laptops,Brand_3,286.51,540.27,829,18
+842,Product_842,Electronics,Audio,Brand_50,241.4,395.46,417,73
+843,Product_843,Books,Fiction,Brand_22,454.84,812.36,189,88
+844,Product_844,Books,Children,Brand_13,266.58,547.4,852,27
+845,Product_845,Books,Children,Brand_33,38.49,85.28,360,46
+846,Product_846,Books,Non-Fiction,Brand_5,258.69,531.43,449,55
+847,Product_847,Sports,Fitness,Brand_37,387.15,904.51,80,17
+848,Product_848,Books,Tech,Brand_7,199.15,449.06,120,64
+849,Product_849,Home & Kitchen,Appliances,Brand_39,133.12,274.02,553,43
+850,Product_850,Electronics,Laptops,Brand_19,55.84,68.46,944,33
+851,Product_851,Sports,Team Sports,Brand_5,52.4,84.64,893,21
+852,Product_852,Fashion,Menswear,Brand_35,20.39,41.18,589,31
+853,Product_853,Books,Tech,Brand_26,161.69,348.81,633,8
+854,Product_854,Books,Fiction,Brand_38,27.73,41.09,482,34
+855,Product_855,Electronics,Smartphones,Brand_22,206.96,351.3,431,34
+856,Product_856,Home & Kitchen,Cookware,Brand_49,69.84,174.07,60,18
+857,Product_857,Home & Kitchen,Cookware,Brand_49,145.8,311.62,679,8
+858,Product_858,Home & Kitchen,Bedding,Brand_5,113.91,266.69,824,73
+859,Product_859,Books,Fiction,Brand_23,196.94,466.98,72,54
+860,Product_860,Books,Fiction,Brand_36,174.21,211.01,490,17
+861,Product_861,Fashion,Menswear,Brand_7,260.93,491.13,36,64
+862,Product_862,Books,Non-Fiction,Brand_42,64.32,96.83,358,56
+863,Product_863,Sports,Team Sports,Brand_15,392.83,490.17,21,8
+864,Product_864,Electronics,Laptops,Brand_35,247.32,467.32,622,49
+865,Product_865,Electronics,Wearables,Brand_4,345.91,431.94,396,99
+866,Product_866,Sports,Outdoor,Brand_28,294.89,355.06,718,55
+867,Product_867,Books,Non-Fiction,Brand_8,136.26,252.03,448,16
+868,Product_868,Books,Tech,Brand_23,456.08,622.35,198,44
+869,Product_869,Sports,Fitness,Brand_16,88.8,183.82,237,12
+870,Product_870,Books,Fiction,Brand_15,190.56,383.11,422,96
+871,Product_871,Books,Fiction,Brand_1,498.74,1238.34,894,93
+872,Product_872,Home & Kitchen,Appliances,Brand_5,180.09,334.09,58,17
+873,Product_873,Sports,Outdoor,Brand_19,452.82,597.64,44,41
+874,Product_874,Fashion,Womenswear,Brand_19,228.89,387.02,132,78
+875,Product_875,Sports,Water Sports,Brand_43,150.97,376.29,125,85
+876,Product_876,Electronics,Smartphones,Brand_17,368.11,627.76,960,70
+877,Product_877,Home & Kitchen,Bedding,Brand_46,415.37,762.85,752,46
+878,Product_878,Home & Kitchen,Bedding,Brand_46,437.05,675.81,309,47
+879,Product_879,Books,Tech,Brand_42,115.68,176.0,250,68
+880,Product_880,Fashion,Footwear,Brand_45,271.55,428.7,554,65
+881,Product_881,Electronics,Smartphones,Brand_23,77.82,194.01,922,53
+882,Product_882,Books,Children,Brand_18,450.71,912.92,80,27
+883,Product_883,Home & Kitchen,Decor,Brand_20,446.31,1078.33,759,71
+884,Product_884,Home & Kitchen,Appliances,Brand_24,339.67,636.64,742,19
+885,Product_885,Electronics,Laptops,Brand_45,441.59,855.86,450,84
+886,Product_886,Sports,Fitness,Brand_2,67.77,113.64,510,5
+887,Product_887,Fashion,Footwear,Brand_38,225.73,545.36,393,39
+888,Product_888,Electronics,Smartphones,Brand_18,331.3,774.53,875,79
+889,Product_889,Sports,Water Sports,Brand_2,380.01,609.09,883,49
+890,Product_890,Sports,Water Sports,Brand_3,360.76,524.51,229,27
+891,Product_891,Sports,Outdoor,Brand_43,207.03,465.39,441,69
+892,Product_892,Electronics,Audio,Brand_3,307.9,699.87,554,98
+893,Product_893,Fashion,Menswear,Brand_39,131.08,285.06,772,44
+894,Product_894,Fashion,Womenswear,Brand_49,105.15,200.72,28,44
+895,Product_895,Books,Children,Brand_28,219.6,422.38,801,94
+896,Product_896,Electronics,Smartphones,Brand_36,72.09,120.36,397,93
+897,Product_897,Fashion,Accessories,Brand_28,335.12,645.47,586,93
+898,Product_898,Books,Tech,Brand_11,276.74,515.87,983,49
+899,Product_899,Sports,Outdoor,Brand_9,472.22,1140.38,929,2
+900,Product_900,Fashion,Footwear,Brand_6,183.27,303.76,255,99
+901,Product_901,Books,Tech,Brand_22,279.67,370.36,584,51
+902,Product_902,Electronics,Audio,Brand_24,154.99,232.5,275,85
+903,Product_903,Fashion,Menswear,Brand_8,115.58,234.63,314,73
+904,Product_904,Fashion,Footwear,Brand_12,195.25,277.75,454,60
+905,Product_905,Electronics,Wearables,Brand_1,444.35,1038.18,477,5
+906,Product_906,Fashion,Accessories,Brand_41,431.92,737.71,864,72
+907,Product_907,Home & Kitchen,Bedding,Brand_4,33.21,44.46,593,11
+908,Product_908,Fashion,Footwear,Brand_5,141.64,210.47,451,24
+909,Product_909,Fashion,Footwear,Brand_17,437.62,1086.29,889,64
+910,Product_910,Home & Kitchen,Decor,Brand_41,409.25,879.4,178,19
+911,Product_911,Books,Fiction,Brand_15,296.37,652.28,117,84
+912,Product_912,Electronics,Laptops,Brand_44,473.78,938.91,518,57
+913,Product_913,Books,Tech,Brand_3,81.53,115.2,566,92
+914,Product_914,Home & Kitchen,Appliances,Brand_46,294.01,480.27,265,33
+915,Product_915,Electronics,Audio,Brand_35,455.57,908.92,735,6
+916,Product_916,Books,Non-Fiction,Brand_23,339.86,410.4,111,10
+917,Product_917,Books,Children,Brand_8,251.93,443.53,523,10
+918,Product_918,Home & Kitchen,Decor,Brand_21,354.41,601.59,584,48
+919,Product_919,Sports,Fitness,Brand_42,488.4,1011.61,436,37
+920,Product_920,Home & Kitchen,Appliances,Brand_21,331.66,794.37,621,47
+921,Product_921,Fashion,Accessories,Brand_42,497.63,725.13,383,61
+922,Product_922,Fashion,Menswear,Brand_11,406.21,573.17,377,6
+923,Product_923,Fashion,Womenswear,Brand_38,231.24,307.6,26,14
+924,Product_924,Books,Non-Fiction,Brand_21,313.57,567.27,523,92
+925,Product_925,Books,Tech,Brand_14,316.21,658.14,387,75
+926,Product_926,Electronics,Laptops,Brand_25,311.62,493.06,780,84
+927,Product_927,Electronics,Smartphones,Brand_15,419.29,803.86,578,65
+928,Product_928,Books,Children,Brand_35,247.48,614.54,750,16
+929,Product_929,Books,Fiction,Brand_39,145.34,274.18,483,85
+930,Product_930,Books,Children,Brand_21,342.75,467.1,275,25
+931,Product_931,Books,Tech,Brand_16,180.35,404.38,336,32
+932,Product_932,Fashion,Womenswear,Brand_30,122.2,225.0,322,96
+933,Product_933,Electronics,Laptops,Brand_29,317.16,657.32,750,53
+934,Product_934,Fashion,Menswear,Brand_23,365.51,850.09,573,65
+935,Product_935,Electronics,Audio,Brand_42,199.47,422.6,495,78
+936,Product_936,Home & Kitchen,Bedding,Brand_27,367.43,584.34,235,73
+937,Product_937,Home & Kitchen,Decor,Brand_50,484.24,1125.75,931,53
+938,Product_938,Books,Non-Fiction,Brand_39,148.48,308.48,266,37
+939,Product_939,Fashion,Footwear,Brand_8,360.31,634.48,83,53
+940,Product_940,Sports,Outdoor,Brand_37,432.55,907.19,506,81
+941,Product_941,Home & Kitchen,Decor,Brand_30,330.79,491.92,15,22
+942,Product_942,Electronics,Wearables,Brand_17,206.88,364.96,783,71
+943,Product_943,Sports,Fitness,Brand_9,368.16,737.76,890,5
+944,Product_944,Sports,Fitness,Brand_45,47.5,76.0,170,10
+945,Product_945,Home & Kitchen,Bedding,Brand_28,239.16,516.05,362,17
+946,Product_946,Sports,Outdoor,Brand_46,373.07,685.59,300,16
+947,Product_947,Fashion,Footwear,Brand_38,62.88,99.4,623,79
+948,Product_948,Electronics,Smartphones,Brand_5,131.07,290.36,756,46
+949,Product_949,Sports,Water Sports,Brand_41,94.09,169.78,460,95
+950,Product_950,Sports,Team Sports,Brand_49,337.01,827.1,488,90
+951,Product_951,Home & Kitchen,Decor,Brand_47,499.62,1218.47,784,76
+952,Product_952,Books,Fiction,Brand_10,360.53,782.48,917,1
+953,Product_953,Books,Tech,Brand_44,380.81,884.01,664,59
+954,Product_954,Sports,Team Sports,Brand_29,476.13,847.23,180,66
+955,Product_955,Books,Tech,Brand_50,211.17,379.81,99,30
+956,Product_956,Fashion,Accessories,Brand_22,331.61,732.22,49,73
+957,Product_957,Books,Children,Brand_19,435.92,781.64,330,50
+958,Product_958,Fashion,Womenswear,Brand_10,184.87,458.17,42,95
+959,Product_959,Home & Kitchen,Bedding,Brand_34,119.78,178.31,284,74
+960,Product_960,Books,Tech,Brand_7,359.13,514.83,355,37
+961,Product_961,Home & Kitchen,Appliances,Brand_19,202.71,320.3,280,63
+962,Product_962,Sports,Outdoor,Brand_11,88.51,172.91,295,34
+963,Product_963,Books,Fiction,Brand_15,189.89,341.97,682,36
+964,Product_964,Home & Kitchen,Appliances,Brand_14,101.95,224.11,565,66
+965,Product_965,Home & Kitchen,Appliances,Brand_39,160.78,264.57,924,6
+966,Product_966,Books,Non-Fiction,Brand_1,129.82,229.1,500,4
+967,Product_967,Fashion,Womenswear,Brand_19,234.47,442.81,964,74
+968,Product_968,Sports,Water Sports,Brand_34,483.95,1149.91,129,59
+969,Product_969,Fashion,Menswear,Brand_46,306.65,383.49,723,16
+970,Product_970,Sports,Water Sports,Brand_32,308.07,405.6,269,12
+971,Product_971,Home & Kitchen,Cookware,Brand_47,356.62,608.79,684,15
+972,Product_972,Fashion,Menswear,Brand_48,419.66,1017.8,812,29
+973,Product_973,Electronics,Audio,Brand_11,211.47,380.38,519,43
+974,Product_974,Fashion,Accessories,Brand_41,297.12,432.69,753,66
+975,Product_975,Electronics,Audio,Brand_3,464.03,818.04,443,13
+976,Product_976,Books,Tech,Brand_13,87.58,191.94,861,72
+977,Product_977,Electronics,Smartphones,Brand_16,113.48,157.35,140,76
+978,Product_978,Sports,Outdoor,Brand_44,283.62,587.93,200,34
+979,Product_979,Sports,Outdoor,Brand_32,286.93,589.2,833,24
+980,Product_980,Sports,Team Sports,Brand_9,62.18,113.09,203,82
+981,Product_981,Electronics,Laptops,Brand_1,181.72,448.01,444,9
+982,Product_982,Sports,Outdoor,Brand_46,29.56,46.93,182,5
+983,Product_983,Sports,Team Sports,Brand_40,471.22,1167.94,389,81
+984,Product_984,Books,Non-Fiction,Brand_41,413.33,536.83,357,62
+985,Product_985,Books,Non-Fiction,Brand_20,282.87,486.58,860,30
+986,Product_986,Fashion,Accessories,Brand_32,404.19,513.94,815,81
+987,Product_987,Sports,Team Sports,Brand_35,102.58,188.33,492,38
+988,Product_988,Electronics,Laptops,Brand_8,83.04,174.43,986,97
+989,Product_989,Fashion,Accessories,Brand_29,411.28,870.22,333,32
+990,Product_990,Sports,Fitness,Brand_12,222.94,522.1,475,41
+991,Product_991,Electronics,Audio,Brand_45,73.15,112.54,407,91
+992,Product_992,Home & Kitchen,Bedding,Brand_32,247.32,316.51,615,53
+993,Product_993,Home & Kitchen,Appliances,Brand_19,52.36,89.89,274,65
+994,Product_994,Home & Kitchen,Bedding,Brand_4,472.22,1124.33,575,99
+995,Product_995,Fashion,Footwear,Brand_44,235.66,326.34,325,53
+996,Product_996,Sports,Water Sports,Brand_28,93.16,157.52,408,34
+997,Product_997,Electronics,Audio,Brand_32,108.99,142.54,745,29
+998,Product_998,Fashion,Menswear,Brand_20,338.52,662.11,458,53
+999,Product_999,Home & Kitchen,Decor,Brand_35,149.19,330.1,211,100
+1000,Product_1000,Electronics,Audio,Brand_9,389.09,715.27,619,70
+1001,Product_1001,Electronics,Smartphones,Brand_25,52.78,126.36,92,100
+1002,Product_1002,Fashion,Footwear,Brand_50,335.99,511.1,784,71
+1003,Product_1003,Electronics,Smartphones,Brand_34,307.18,530.35,215,47
+1004,Product_1004,Books,Non-Fiction,Brand_11,319.5,580.22,858,69
+1005,Product_1005,Sports,Outdoor,Brand_19,245.31,529.05,820,21
+1006,Product_1006,Fashion,Footwear,Brand_27,308.79,402.64,220,71
+1007,Product_1007,Home & Kitchen,Appliances,Brand_3,37.36,59.65,865,3
+1008,Product_1008,Books,Fiction,Brand_33,217.97,339.55,407,63
+1009,Product_1009,Electronics,Laptops,Brand_19,327.47,476.02,308,4
+1010,Product_1010,Home & Kitchen,Decor,Brand_3,353.55,779.61,278,96
+1011,Product_1011,Electronics,Wearables,Brand_42,66.54,136.14,410,17
+1012,Product_1012,Fashion,Menswear,Brand_5,480.91,697.64,75,65
+1013,Product_1013,Sports,Fitness,Brand_1,455.1,904.68,760,70
+1014,Product_1014,Books,Non-Fiction,Brand_7,297.52,377.11,753,76
+1015,Product_1015,Sports,Outdoor,Brand_39,375.41,683.91,879,40
+1016,Product_1016,Fashion,Accessories,Brand_33,361.98,815.16,761,3
+1017,Product_1017,Fashion,Footwear,Brand_30,264.28,407.71,207,13
+1018,Product_1018,Fashion,Accessories,Brand_25,75.08,105.76,298,55
+1019,Product_1019,Electronics,Laptops,Brand_27,434.13,590.7,574,36
+1020,Product_1020,Sports,Team Sports,Brand_45,195.42,319.43,546,65
+1021,Product_1021,Home & Kitchen,Bedding,Brand_2,433.4,789.22,508,94
+1022,Product_1022,Sports,Team Sports,Brand_49,498.24,1075.29,559,92
+1023,Product_1023,Electronics,Wearables,Brand_15,426.21,566.12,591,4
+1024,Product_1024,Sports,Outdoor,Brand_29,130.29,179.29,378,62
+1025,Product_1025,Books,Fiction,Brand_42,234.49,500.35,318,43
+1026,Product_1026,Home & Kitchen,Appliances,Brand_7,88.69,121.44,574,22
+1027,Product_1027,Home & Kitchen,Bedding,Brand_38,309.23,463.66,255,11
+1028,Product_1028,Home & Kitchen,Bedding,Brand_40,242.27,306.82,858,61
+1029,Product_1029,Books,Non-Fiction,Brand_4,341.9,650.88,785,64
+1030,Product_1030,Fashion,Accessories,Brand_20,325.47,507.09,758,44
+1031,Product_1031,Home & Kitchen,Appliances,Brand_21,142.91,320.37,705,73
+1032,Product_1032,Books,Children,Brand_1,360.69,704.66,274,89
+1033,Product_1033,Home & Kitchen,Bedding,Brand_35,315.93,417.74,511,41
+1034,Product_1034,Home & Kitchen,Cookware,Brand_30,428.8,943.74,725,62
+1035,Product_1035,Books,Fiction,Brand_7,297.29,711.76,435,90
+1036,Product_1036,Electronics,Wearables,Brand_9,88.48,185.16,775,2
+1037,Product_1037,Home & Kitchen,Appliances,Brand_11,481.68,772.14,202,57
+1038,Product_1038,Electronics,Smartphones,Brand_28,12.57,27.09,507,22
+1039,Product_1039,Books,Children,Brand_9,8.46,19.75,766,71
+1040,Product_1040,Sports,Water Sports,Brand_1,32.87,67.34,303,16
+1041,Product_1041,Sports,Team Sports,Brand_47,191.71,280.73,944,87
+1042,Product_1042,Fashion,Footwear,Brand_40,449.64,975.77,910,48
+1043,Product_1043,Books,Non-Fiction,Brand_10,173.52,272.32,297,67
+1044,Product_1044,Home & Kitchen,Cookware,Brand_34,369.33,844.86,619,33
+1045,Product_1045,Sports,Water Sports,Brand_14,359.35,730.19,958,43
+1046,Product_1046,Home & Kitchen,Decor,Brand_34,117.82,272.0,732,61
+1047,Product_1047,Electronics,Audio,Brand_27,376.08,704.19,183,20
+1048,Product_1048,Sports,Fitness,Brand_1,258.24,500.97,319,90
+1049,Product_1049,Home & Kitchen,Decor,Brand_45,415.0,898.45,96,69
+1050,Product_1050,Sports,Team Sports,Brand_7,428.84,797.41,62,80
+1051,Product_1051,Sports,Outdoor,Brand_5,314.2,726.1,358,82
+1052,Product_1052,Books,Non-Fiction,Brand_23,120.0,213.27,643,2
+1053,Product_1053,Home & Kitchen,Cookware,Brand_19,312.22,746.11,840,55
+1054,Product_1054,Books,Tech,Brand_24,12.84,18.96,639,99
+1055,Product_1055,Sports,Team Sports,Brand_36,121.05,196.66,554,83
+1056,Product_1056,Home & Kitchen,Appliances,Brand_38,144.48,284.22,156,14
+1057,Product_1057,Home & Kitchen,Cookware,Brand_12,443.38,899.21,269,73
+1058,Product_1058,Electronics,Laptops,Brand_34,124.56,289.34,601,83
+1059,Product_1059,Sports,Team Sports,Brand_37,317.86,471.91,790,76
+1060,Product_1060,Books,Tech,Brand_48,184.02,409.8,892,79
+1061,Product_1061,Sports,Outdoor,Brand_11,370.77,722.84,2,30
+1062,Product_1062,Home & Kitchen,Appliances,Brand_40,76.66,172.05,150,19
+1063,Product_1063,Home & Kitchen,Bedding,Brand_1,157.23,346.39,331,10
+1064,Product_1064,Electronics,Laptops,Brand_33,325.55,502.46,826,57
+1065,Product_1065,Sports,Water Sports,Brand_21,110.12,150.88,309,65
+1066,Product_1066,Electronics,Laptops,Brand_36,124.76,175.31,402,49
+1067,Product_1067,Sports,Water Sports,Brand_23,310.44,614.18,319,67
+1068,Product_1068,Fashion,Menswear,Brand_39,295.16,600.49,862,28
+1069,Product_1069,Home & Kitchen,Cookware,Brand_46,408.32,974.91,146,56
+1070,Product_1070,Books,Children,Brand_32,119.04,233.81,711,33
+1071,Product_1071,Electronics,Wearables,Brand_42,43.78,59.37,356,23
+1072,Product_1072,Electronics,Audio,Brand_30,328.9,602.73,789,86
+1073,Product_1073,Fashion,Accessories,Brand_14,380.37,666.93,631,72
+1074,Product_1074,Home & Kitchen,Bedding,Brand_24,68.16,159.06,183,96
+1075,Product_1075,Electronics,Laptops,Brand_29,46.03,66.54,369,68
+1076,Product_1076,Home & Kitchen,Appliances,Brand_38,142.1,354.38,317,43
+1077,Product_1077,Electronics,Audio,Brand_17,211.35,391.47,514,2
+1078,Product_1078,Books,Tech,Brand_3,386.0,782.55,662,36
+1079,Product_1079,Sports,Water Sports,Brand_3,421.5,772.34,712,91
+1080,Product_1080,Fashion,Footwear,Brand_41,486.23,1087.14,58,74
+1081,Product_1081,Electronics,Wearables,Brand_39,203.68,345.37,647,59
+1082,Product_1082,Sports,Outdoor,Brand_31,465.1,971.94,767,83
+1083,Product_1083,Books,Fiction,Brand_3,312.61,683.11,378,4
+1084,Product_1084,Books,Non-Fiction,Brand_46,282.61,397.61,753,23
+1085,Product_1085,Home & Kitchen,Appliances,Brand_27,163.01,313.85,854,16
+1086,Product_1086,Electronics,Wearables,Brand_41,13.99,24.74,727,8
+1087,Product_1087,Fashion,Menswear,Brand_35,379.12,535.89,284,25
+1088,Product_1088,Books,Fiction,Brand_22,36.96,84.52,857,87
+1089,Product_1089,Fashion,Womenswear,Brand_38,310.55,443.95,739,47
+1090,Product_1090,Books,Fiction,Brand_43,404.12,830.7,412,54
+1091,Product_1091,Electronics,Smartphones,Brand_13,170.39,287.8,844,98
+1092,Product_1092,Books,Non-Fiction,Brand_47,82.16,187.8,273,11
+1093,Product_1093,Home & Kitchen,Bedding,Brand_3,256.96,494.42,282,78
+1094,Product_1094,Home & Kitchen,Bedding,Brand_12,442.33,539.9,650,96
+1095,Product_1095,Electronics,Audio,Brand_18,38.13,53.77,574,45
+1096,Product_1096,Electronics,Audio,Brand_30,19.87,40.84,581,90
+1097,Product_1097,Electronics,Wearables,Brand_6,318.77,469.88,119,12
+1098,Product_1098,Home & Kitchen,Appliances,Brand_12,78.96,109.71,325,76
+1099,Product_1099,Electronics,Laptops,Brand_1,476.85,1002.13,222,82
+1100,Product_1100,Fashion,Accessories,Brand_6,294.79,477.33,898,93
+1101,Product_1101,Home & Kitchen,Cookware,Brand_44,219.36,288.73,657,25
+1102,Product_1102,Home & Kitchen,Cookware,Brand_4,499.09,1088.82,388,91
+1103,Product_1103,Fashion,Womenswear,Brand_18,312.62,614.02,143,73
+1104,Product_1104,Fashion,Accessories,Brand_15,254.64,390.78,855,25
+1105,Product_1105,Fashion,Womenswear,Brand_12,117.06,224.1,302,34
+1106,Product_1106,Sports,Team Sports,Brand_6,39.75,51.55,501,46
+1107,Product_1107,Books,Tech,Brand_23,282.6,677.04,790,83
+1108,Product_1108,Books,Children,Brand_41,457.56,555.51,703,22
+1109,Product_1109,Electronics,Wearables,Brand_10,58.16,113.88,550,73
+1110,Product_1110,Home & Kitchen,Bedding,Brand_23,425.0,1037.33,661,88
+1111,Product_1111,Fashion,Womenswear,Brand_22,430.99,896.85,716,65
+1112,Product_1112,Books,Tech,Brand_6,104.26,134.95,525,99
+1113,Product_1113,Home & Kitchen,Cookware,Brand_14,28.52,56.92,478,34
+1114,Product_1114,Electronics,Smartphones,Brand_34,22.91,49.51,674,81
+1115,Product_1115,Home & Kitchen,Bedding,Brand_9,357.67,466.22,478,76
+1116,Product_1116,Fashion,Footwear,Brand_37,453.78,852.43,386,85
+1117,Product_1117,Books,Fiction,Brand_21,452.7,1073.85,718,14
+1118,Product_1118,Fashion,Menswear,Brand_11,102.53,173.76,431,61
+1119,Product_1119,Fashion,Footwear,Brand_42,71.64,158.14,924,13
+1120,Product_1120,Home & Kitchen,Cookware,Brand_20,254.54,612.79,166,60
+1121,Product_1121,Books,Non-Fiction,Brand_49,108.07,226.39,22,57
+1122,Product_1122,Books,Children,Brand_38,494.67,1021.49,589,89
+1123,Product_1123,Sports,Water Sports,Brand_31,39.04,76.71,854,32
+1124,Product_1124,Fashion,Footwear,Brand_39,94.02,116.55,345,62
+1125,Product_1125,Sports,Team Sports,Brand_3,170.81,264.06,994,30
+1126,Product_1126,Books,Fiction,Brand_27,395.44,666.63,436,100
+1127,Product_1127,Fashion,Accessories,Brand_38,367.81,449.14,29,21
+1128,Product_1128,Books,Non-Fiction,Brand_20,12.33,15.27,907,77
+1129,Product_1129,Books,Non-Fiction,Brand_37,113.58,191.52,769,18
+1130,Product_1130,Home & Kitchen,Cookware,Brand_4,305.88,759.1,993,12
+1131,Product_1131,Fashion,Womenswear,Brand_23,180.43,229.57,469,51
+1132,Product_1132,Home & Kitchen,Bedding,Brand_1,101.48,240.22,674,19
+1133,Product_1133,Home & Kitchen,Decor,Brand_20,351.19,782.19,314,11
+1134,Product_1134,Home & Kitchen,Decor,Brand_14,66.46,91.41,447,12
+1135,Product_1135,Home & Kitchen,Decor,Brand_44,60.56,140.16,568,100
+1136,Product_1136,Fashion,Menswear,Brand_31,108.93,221.79,163,45
+1137,Product_1137,Electronics,Wearables,Brand_36,260.5,496.96,703,51
+1138,Product_1138,Home & Kitchen,Bedding,Brand_43,101.74,206.11,385,60
+1139,Product_1139,Home & Kitchen,Appliances,Brand_25,26.33,65.6,131,41
+1140,Product_1140,Home & Kitchen,Bedding,Brand_50,18.25,23.09,334,37
+1141,Product_1141,Sports,Water Sports,Brand_35,165.7,377.98,73,45
+1142,Product_1142,Sports,Fitness,Brand_15,132.31,239.95,906,78
+1143,Product_1143,Home & Kitchen,Decor,Brand_24,13.9,18.11,370,44
+1144,Product_1144,Books,Fiction,Brand_40,305.94,444.43,613,97
+1145,Product_1145,Sports,Fitness,Brand_42,348.66,774.38,235,18
+1146,Product_1146,Sports,Outdoor,Brand_3,425.92,585.19,216,39
+1147,Product_1147,Sports,Fitness,Brand_22,230.48,560.34,393,84
+1148,Product_1148,Home & Kitchen,Bedding,Brand_10,387.18,523.49,291,40
+1149,Product_1149,Sports,Water Sports,Brand_3,253.74,608.75,267,54
+1150,Product_1150,Home & Kitchen,Decor,Brand_26,222.82,509.96,698,67
+1151,Product_1151,Electronics,Wearables,Brand_6,250.44,335.3,354,88
+1152,Product_1152,Electronics,Wearables,Brand_1,78.19,98.57,164,41
+1153,Product_1153,Home & Kitchen,Bedding,Brand_44,101.68,240.14,465,2
+1154,Product_1154,Sports,Water Sports,Brand_28,326.85,706.16,789,7
+1155,Product_1155,Fashion,Accessories,Brand_17,312.72,532.41,759,82
+1156,Product_1156,Electronics,Wearables,Brand_33,112.35,270.01,381,100
+1157,Product_1157,Sports,Team Sports,Brand_35,259.84,474.32,995,47
+1158,Product_1158,Electronics,Laptops,Brand_28,498.07,846.28,544,98
+1159,Product_1159,Sports,Fitness,Brand_10,427.79,992.92,7,44
+1160,Product_1160,Books,Tech,Brand_13,120.17,159.02,527,79
+1161,Product_1161,Sports,Water Sports,Brand_4,487.93,855.67,475,37
+1162,Product_1162,Electronics,Smartphones,Brand_32,6.1,11.28,471,47
+1163,Product_1163,Electronics,Audio,Brand_17,311.55,688.19,435,44
+1164,Product_1164,Fashion,Menswear,Brand_35,471.76,1127.38,273,23
+1165,Product_1165,Fashion,Footwear,Brand_27,470.37,584.09,17,58
+1166,Product_1166,Fashion,Footwear,Brand_41,357.33,533.71,36,77
+1167,Product_1167,Electronics,Audio,Brand_47,97.84,219.2,37,69
+1168,Product_1168,Sports,Outdoor,Brand_12,211.48,505.77,86,69
+1169,Product_1169,Electronics,Laptops,Brand_47,26.01,58.34,148,82
+1170,Product_1170,Sports,Water Sports,Brand_18,72.73,103.97,353,59
+1171,Product_1171,Books,Non-Fiction,Brand_47,241.29,413.64,840,68
+1172,Product_1172,Books,Children,Brand_3,245.66,595.0,78,42
+1173,Product_1173,Fashion,Menswear,Brand_10,330.41,521.19,623,93
+1174,Product_1174,Electronics,Wearables,Brand_33,90.59,158.18,742,11
+1175,Product_1175,Fashion,Footwear,Brand_28,228.56,452.93,410,3
+1176,Product_1176,Home & Kitchen,Cookware,Brand_47,136.67,300.37,668,96
+1177,Product_1177,Electronics,Wearables,Brand_8,53.74,103.64,812,25
+1178,Product_1178,Books,Tech,Brand_20,313.65,460.71,630,66
+1179,Product_1179,Books,Non-Fiction,Brand_45,413.88,827.79,818,7
+1180,Product_1180,Fashion,Accessories,Brand_14,324.63,599.61,778,56
+1181,Product_1181,Fashion,Womenswear,Brand_18,455.25,956.98,513,86
+1182,Product_1182,Electronics,Wearables,Brand_12,194.01,292.99,694,37
+1183,Product_1183,Fashion,Menswear,Brand_27,40.18,56.85,212,3
+1184,Product_1184,Sports,Outdoor,Brand_18,496.38,858.14,273,60
+1185,Product_1185,Books,Tech,Brand_7,449.85,639.57,226,29
+1186,Product_1186,Electronics,Audio,Brand_15,215.55,527.81,65,79
+1187,Product_1187,Fashion,Accessories,Brand_38,50.11,98.83,430,82
+1188,Product_1188,Books,Tech,Brand_35,459.99,1119.89,398,61
+1189,Product_1189,Books,Fiction,Brand_22,423.77,980.06,348,41
+1190,Product_1190,Fashion,Accessories,Brand_10,327.83,487.34,473,96
+1191,Product_1191,Sports,Outdoor,Brand_35,366.69,906.42,714,22
+1192,Product_1192,Sports,Team Sports,Brand_26,265.34,408.33,33,85
+1193,Product_1193,Books,Fiction,Brand_41,288.87,605.99,498,72
+1194,Product_1194,Fashion,Menswear,Brand_14,108.1,230.79,765,68
+1195,Product_1195,Fashion,Footwear,Brand_19,295.78,590.39,768,41
+1196,Product_1196,Sports,Water Sports,Brand_2,156.46,219.33,159,80
+1197,Product_1197,Books,Non-Fiction,Brand_40,313.61,615.34,360,73
+1198,Product_1198,Sports,Water Sports,Brand_49,172.32,273.07,23,97
+1199,Product_1199,Fashion,Accessories,Brand_16,176.89,324.92,384,69
+1200,Product_1200,Home & Kitchen,Bedding,Brand_39,487.54,1069.0,971,16
+1201,Product_1201,Electronics,Wearables,Brand_14,426.61,792.36,216,15
+1202,Product_1202,Books,Tech,Brand_12,265.43,389.02,885,21
+1203,Product_1203,Sports,Water Sports,Brand_23,361.92,632.66,769,28
+1204,Product_1204,Sports,Team Sports,Brand_21,372.51,645.1,788,47
+1205,Product_1205,Electronics,Audio,Brand_33,58.72,83.67,548,69
+1206,Product_1206,Sports,Outdoor,Brand_26,406.73,624.82,506,97
+1207,Product_1207,Sports,Team Sports,Brand_29,135.86,327.18,160,23
+1208,Product_1208,Sports,Team Sports,Brand_1,330.53,445.75,545,43
+1209,Product_1209,Sports,Outdoor,Brand_44,76.07,118.22,929,13
+1210,Product_1210,Sports,Water Sports,Brand_27,299.03,651.49,420,25
+1211,Product_1211,Electronics,Laptops,Brand_9,140.88,328.51,624,80
+1212,Product_1212,Books,Fiction,Brand_39,59.04,86.78,584,94
+1213,Product_1213,Sports,Fitness,Brand_21,485.38,667.48,624,32
+1214,Product_1214,Home & Kitchen,Bedding,Brand_44,444.62,940.42,93,48
+1215,Product_1215,Electronics,Wearables,Brand_36,41.18,75.31,523,25
+1216,Product_1216,Home & Kitchen,Bedding,Brand_24,261.89,631.62,740,31
+1217,Product_1217,Home & Kitchen,Bedding,Brand_46,213.45,380.11,943,26
+1218,Product_1218,Fashion,Womenswear,Brand_19,60.68,123.24,66,4
+1219,Product_1219,Home & Kitchen,Bedding,Brand_30,109.39,142.29,250,88
+1220,Product_1220,Books,Children,Brand_16,498.47,772.89,815,23
+1221,Product_1221,Sports,Fitness,Brand_39,74.82,157.82,857,43
+1222,Product_1222,Home & Kitchen,Decor,Brand_30,411.73,528.37,739,9
+1223,Product_1223,Electronics,Smartphones,Brand_44,57.17,75.31,693,53
+1224,Product_1224,Books,Children,Brand_25,28.24,58.1,72,54
+1225,Product_1225,Fashion,Menswear,Brand_46,296.22,610.7,795,78
+1226,Product_1226,Books,Fiction,Brand_29,255.31,577.71,492,93
+1227,Product_1227,Electronics,Audio,Brand_26,275.6,659.89,848,93
+1228,Product_1228,Electronics,Audio,Brand_26,245.4,546.72,733,66
+1229,Product_1229,Sports,Water Sports,Brand_8,206.64,364.88,106,19
+1230,Product_1230,Fashion,Menswear,Brand_47,425.25,569.82,173,47
+1231,Product_1231,Sports,Team Sports,Brand_10,284.63,610.31,934,32
+1232,Product_1232,Sports,Outdoor,Brand_17,376.46,741.23,99,43
+1233,Product_1233,Electronics,Wearables,Brand_46,226.79,349.03,503,97
+1234,Product_1234,Home & Kitchen,Cookware,Brand_22,455.17,765.02,302,89
+1235,Product_1235,Sports,Team Sports,Brand_29,400.5,497.09,716,34
+1236,Product_1236,Books,Tech,Brand_39,119.92,197.78,36,98
+1237,Product_1237,Home & Kitchen,Decor,Brand_34,337.43,544.99,295,4
+1238,Product_1238,Home & Kitchen,Cookware,Brand_37,25.48,36.34,371,92
+1239,Product_1239,Fashion,Footwear,Brand_46,133.29,190.45,162,73
+1240,Product_1240,Fashion,Accessories,Brand_46,105.84,232.81,450,87
+1241,Product_1241,Fashion,Womenswear,Brand_48,208.96,360.82,824,89
+1242,Product_1242,Home & Kitchen,Decor,Brand_39,483.47,860.92,299,50
+1243,Product_1243,Fashion,Womenswear,Brand_2,464.19,737.5,871,28
+1244,Product_1244,Books,Tech,Brand_10,203.31,348.71,598,2
+1245,Product_1245,Fashion,Footwear,Brand_47,275.31,539.48,520,96
+1246,Product_1246,Books,Children,Brand_31,127.82,285.25,633,22
+1247,Product_1247,Fashion,Womenswear,Brand_38,250.78,303.23,873,65
+1248,Product_1248,Fashion,Footwear,Brand_25,297.71,666.12,886,63
+1249,Product_1249,Home & Kitchen,Bedding,Brand_12,128.98,161.13,495,49
+1250,Product_1250,Electronics,Smartphones,Brand_22,404.55,998.9,230,40
+1251,Product_1251,Home & Kitchen,Decor,Brand_10,42.9,103.79,284,78
+1252,Product_1252,Electronics,Laptops,Brand_23,182.84,443.18,510,59
+1253,Product_1253,Books,Fiction,Brand_48,326.18,768.91,866,68
+1254,Product_1254,Home & Kitchen,Decor,Brand_24,393.99,487.13,680,5
+1255,Product_1255,Sports,Fitness,Brand_22,37.39,70.42,519,9
+1256,Product_1256,Fashion,Menswear,Brand_4,69.16,124.44,457,73
+1257,Product_1257,Books,Non-Fiction,Brand_16,477.54,756.03,262,95
+1258,Product_1258,Home & Kitchen,Decor,Brand_15,247.01,419.8,706,92
+1259,Product_1259,Sports,Outdoor,Brand_3,316.76,459.94,623,35
+1260,Product_1260,Books,Tech,Brand_6,133.67,309.63,760,25
+1261,Product_1261,Electronics,Laptops,Brand_34,406.61,905.09,310,8
+1262,Product_1262,Home & Kitchen,Decor,Brand_16,386.61,694.84,599,98
+1263,Product_1263,Books,Children,Brand_30,365.8,623.09,100,69
+1264,Product_1264,Electronics,Audio,Brand_41,54.85,93.87,74,26
+1265,Product_1265,Sports,Fitness,Brand_29,83.54,142.7,85,61
+1266,Product_1266,Home & Kitchen,Appliances,Brand_35,152.23,301.25,603,28
+1267,Product_1267,Books,Children,Brand_20,183.96,389.49,582,2
+1268,Product_1268,Books,Children,Brand_8,258.51,619.22,737,57
+1269,Product_1269,Home & Kitchen,Bedding,Brand_1,50.06,104.83,257,97
+1270,Product_1270,Sports,Team Sports,Brand_32,337.84,822.92,646,23
+1271,Product_1271,Fashion,Accessories,Brand_33,188.92,301.72,290,83
+1272,Product_1272,Fashion,Footwear,Brand_35,90.33,139.55,254,44
+1273,Product_1273,Fashion,Footwear,Brand_41,253.44,580.13,450,15
+1274,Product_1274,Home & Kitchen,Bedding,Brand_1,145.72,204.75,326,66
+1275,Product_1275,Sports,Water Sports,Brand_11,139.7,185.97,183,9
+1276,Product_1276,Sports,Team Sports,Brand_7,463.71,1082.49,947,57
+1277,Product_1277,Fashion,Womenswear,Brand_13,157.7,239.87,797,14
+1278,Product_1278,Home & Kitchen,Decor,Brand_20,453.17,544.85,513,40
+1279,Product_1279,Fashion,Accessories,Brand_7,302.29,722.72,701,39
+1280,Product_1280,Books,Non-Fiction,Brand_37,256.74,309.08,688,20
+1281,Product_1281,Fashion,Womenswear,Brand_13,113.34,271.92,784,51
+1282,Product_1282,Home & Kitchen,Decor,Brand_40,13.43,23.01,678,21
+1283,Product_1283,Fashion,Accessories,Brand_42,395.92,906.47,609,54
+1284,Product_1284,Fashion,Womenswear,Brand_17,241.42,362.67,483,39
+1285,Product_1285,Fashion,Womenswear,Brand_20,301.85,465.73,341,94
+1286,Product_1286,Fashion,Footwear,Brand_29,131.36,295.54,315,55
+1287,Product_1287,Books,Children,Brand_49,81.36,98.22,427,1
+1288,Product_1288,Sports,Fitness,Brand_27,171.7,315.63,362,83
+1289,Product_1289,Home & Kitchen,Bedding,Brand_50,354.01,784.29,280,3
+1290,Product_1290,Home & Kitchen,Decor,Brand_43,333.44,671.7,733,33
+1291,Product_1291,Fashion,Footwear,Brand_2,334.55,519.55,329,55
+1292,Product_1292,Sports,Team Sports,Brand_36,194.27,388.81,573,95
+1293,Product_1293,Home & Kitchen,Decor,Brand_40,37.46,59.33,515,57
+1294,Product_1294,Fashion,Menswear,Brand_5,206.18,390.4,248,21
+1295,Product_1295,Fashion,Accessories,Brand_47,245.81,524.45,607,61
+1296,Product_1296,Electronics,Wearables,Brand_45,239.35,568.54,982,91
+1297,Product_1297,Sports,Outdoor,Brand_18,193.26,363.91,621,76
+1298,Product_1298,Sports,Fitness,Brand_7,6.59,10.57,57,82
+1299,Product_1299,Fashion,Footwear,Brand_35,433.95,708.92,378,57
+1300,Product_1300,Fashion,Menswear,Brand_31,130.33,248.49,137,96
+1301,Product_1301,Electronics,Audio,Brand_50,43.97,83.15,750,53
+1302,Product_1302,Home & Kitchen,Decor,Brand_38,155.31,263.72,306,74
+1303,Product_1303,Home & Kitchen,Appliances,Brand_29,396.73,817.48,251,42
+1304,Product_1304,Books,Tech,Brand_36,225.82,440.52,543,38
+1305,Product_1305,Electronics,Laptops,Brand_50,384.6,834.4,788,9
+1306,Product_1306,Fashion,Footwear,Brand_50,96.73,153.92,456,96
+1307,Product_1307,Home & Kitchen,Decor,Brand_21,177.38,256.1,479,30
+1308,Product_1308,Sports,Team Sports,Brand_22,11.02,15.72,203,87
+1309,Product_1309,Fashion,Footwear,Brand_39,405.08,773.58,765,3
+1310,Product_1310,Home & Kitchen,Appliances,Brand_42,174.12,346.65,420,55
+1311,Product_1311,Sports,Water Sports,Brand_4,371.22,616.51,851,68
+1312,Product_1312,Electronics,Audio,Brand_2,235.71,302.53,579,56
+1313,Product_1313,Electronics,Audio,Brand_35,300.56,499.93,503,37
+1314,Product_1314,Books,Tech,Brand_41,219.59,384.15,68,95
+1315,Product_1315,Electronics,Smartphones,Brand_36,318.04,618.33,799,15
+1316,Product_1316,Books,Non-Fiction,Brand_33,213.94,261.44,866,12
+1317,Product_1317,Books,Children,Brand_40,312.38,732.05,665,25
+1318,Product_1318,Electronics,Wearables,Brand_18,385.93,955.6,476,58
+1319,Product_1319,Home & Kitchen,Cookware,Brand_5,73.84,109.97,186,83
+1320,Product_1320,Books,Tech,Brand_30,271.94,409.72,540,100
+1321,Product_1321,Sports,Fitness,Brand_26,22.1,38.08,588,38
+1322,Product_1322,Electronics,Wearables,Brand_2,147.38,227.39,8,29
+1323,Product_1323,Fashion,Accessories,Brand_10,476.82,719.99,265,29
+1324,Product_1324,Books,Tech,Brand_35,69.07,94.14,468,84
+1325,Product_1325,Home & Kitchen,Cookware,Brand_46,404.13,860.52,888,74
+1326,Product_1326,Home & Kitchen,Decor,Brand_50,69.1,102.66,151,27
+1327,Product_1327,Fashion,Womenswear,Brand_7,374.93,583.77,26,69
+1328,Product_1328,Books,Fiction,Brand_50,490.86,933.98,130,70
+1329,Product_1329,Fashion,Menswear,Brand_21,100.04,231.74,891,41
+1330,Product_1330,Home & Kitchen,Decor,Brand_13,163.14,257.02,310,21
+1331,Product_1331,Sports,Team Sports,Brand_15,167.08,367.35,958,28
+1332,Product_1332,Fashion,Menswear,Brand_9,90.74,153.92,898,57
+1333,Product_1333,Electronics,Wearables,Brand_2,20.26,46.08,454,96
+1334,Product_1334,Home & Kitchen,Bedding,Brand_4,173.66,264.42,457,57
+1335,Product_1335,Sports,Outdoor,Brand_14,292.05,618.12,789,49
+1336,Product_1336,Books,Fiction,Brand_6,407.38,673.04,992,23
+1337,Product_1337,Books,Fiction,Brand_11,407.09,734.53,774,27
+1338,Product_1338,Electronics,Wearables,Brand_48,55.07,126.67,619,46
+1339,Product_1339,Fashion,Accessories,Brand_13,276.08,547.52,215,12
+1340,Product_1340,Books,Tech,Brand_31,469.06,903.83,261,66
+1341,Product_1341,Electronics,Wearables,Brand_2,7.76,18.09,7,49
+1342,Product_1342,Sports,Water Sports,Brand_7,145.95,270.34,363,47
+1343,Product_1343,Fashion,Menswear,Brand_28,106.42,168.79,968,84
+1344,Product_1344,Fashion,Womenswear,Brand_45,344.89,606.47,86,84
+1345,Product_1345,Sports,Water Sports,Brand_2,315.43,716.23,974,36
+1346,Product_1346,Fashion,Menswear,Brand_10,173.71,336.8,867,32
+1347,Product_1347,Home & Kitchen,Appliances,Brand_9,389.91,830.38,531,20
+1348,Product_1348,Home & Kitchen,Bedding,Brand_49,272.22,462.34,39,8
+1349,Product_1349,Books,Non-Fiction,Brand_48,206.71,364.45,676,38
+1350,Product_1350,Fashion,Accessories,Brand_11,177.68,374.69,429,23
+1351,Product_1351,Home & Kitchen,Decor,Brand_48,67.08,164.86,828,86
+1352,Product_1352,Home & Kitchen,Cookware,Brand_8,390.6,620.12,805,21
+1353,Product_1353,Electronics,Wearables,Brand_14,26.06,55.37,313,52
+1354,Product_1354,Fashion,Footwear,Brand_40,368.51,903.85,328,4
+1355,Product_1355,Electronics,Audio,Brand_2,130.58,170.74,910,61
+1356,Product_1356,Electronics,Laptops,Brand_27,457.99,703.58,47,70
+1357,Product_1357,Sports,Outdoor,Brand_11,362.16,463.15,102,2
+1358,Product_1358,Fashion,Womenswear,Brand_6,381.49,520.78,429,9
+1359,Product_1359,Electronics,Wearables,Brand_30,349.32,660.93,425,69
+1360,Product_1360,Sports,Outdoor,Brand_39,477.97,596.5,828,82
+1361,Product_1361,Electronics,Audio,Brand_31,149.56,192.99,480,33
+1362,Product_1362,Home & Kitchen,Cookware,Brand_43,440.2,868.11,552,47
+1363,Product_1363,Books,Fiction,Brand_31,269.81,369.88,504,96
+1364,Product_1364,Books,Non-Fiction,Brand_9,247.07,424.54,224,66
+1365,Product_1365,Home & Kitchen,Decor,Brand_15,161.3,355.48,675,11
+1366,Product_1366,Electronics,Wearables,Brand_19,35.33,72.1,908,79
+1367,Product_1367,Electronics,Laptops,Brand_15,412.38,981.26,256,24
+1368,Product_1368,Fashion,Footwear,Brand_46,374.23,586.49,997,60
+1369,Product_1369,Books,Tech,Brand_49,302.25,418.26,921,17
+1370,Product_1370,Fashion,Accessories,Brand_24,62.95,127.8,677,19
+1371,Product_1371,Books,Fiction,Brand_48,426.3,548.83,927,50
+1372,Product_1372,Electronics,Laptops,Brand_12,57.47,111.22,14,19
+1373,Product_1373,Electronics,Laptops,Brand_11,113.01,225.5,406,42
+1374,Product_1374,Electronics,Wearables,Brand_31,111.2,150.28,878,45
+1375,Product_1375,Home & Kitchen,Bedding,Brand_29,275.06,638.37,219,59
+1376,Product_1376,Books,Tech,Brand_35,344.14,779.25,450,16
+1377,Product_1377,Fashion,Footwear,Brand_22,136.84,321.82,913,24
+1378,Product_1378,Fashion,Footwear,Brand_32,191.63,442.32,790,71
+1379,Product_1379,Sports,Fitness,Brand_43,238.23,368.83,876,44
+1380,Product_1380,Books,Tech,Brand_5,133.83,259.36,800,47
+1381,Product_1381,Sports,Fitness,Brand_35,44.11,106.26,129,13
+1382,Product_1382,Home & Kitchen,Bedding,Brand_8,139.37,228.05,123,71
+1383,Product_1383,Fashion,Womenswear,Brand_23,120.48,145.05,314,58
+1384,Product_1384,Sports,Fitness,Brand_33,347.81,684.39,186,51
+1385,Product_1385,Books,Non-Fiction,Brand_10,405.77,508.56,860,88
+1386,Product_1386,Home & Kitchen,Appliances,Brand_13,464.68,757.5,751,96
+1387,Product_1387,Fashion,Womenswear,Brand_37,456.97,612.01,880,68
+1388,Product_1388,Books,Fiction,Brand_35,373.24,729.0,371,70
+1389,Product_1389,Home & Kitchen,Decor,Brand_24,182.3,237.52,162,13
+1390,Product_1390,Home & Kitchen,Decor,Brand_49,304.34,375.67,733,20
+1391,Product_1391,Books,Children,Brand_13,253.13,502.58,285,7
+1392,Product_1392,Sports,Team Sports,Brand_25,367.6,914.86,922,67
+1393,Product_1393,Sports,Water Sports,Brand_30,133.75,216.56,329,18
+1394,Product_1394,Fashion,Menswear,Brand_5,173.87,374.0,257,91
+1395,Product_1395,Books,Tech,Brand_14,466.25,1150.06,945,94
+1396,Product_1396,Books,Fiction,Brand_4,473.18,1108.75,773,53
+1397,Product_1397,Home & Kitchen,Decor,Brand_31,495.53,836.82,842,21
+1398,Product_1398,Home & Kitchen,Bedding,Brand_11,474.42,1038.66,661,54
+1399,Product_1399,Sports,Outdoor,Brand_16,88.39,111.29,854,45
+1400,Product_1400,Electronics,Laptops,Brand_18,111.17,245.95,143,52
+1401,Product_1401,Electronics,Laptops,Brand_14,317.69,473.89,454,19
+1402,Product_1402,Fashion,Footwear,Brand_1,372.25,515.09,652,16
+1403,Product_1403,Books,Tech,Brand_34,411.81,919.33,105,99
+1404,Product_1404,Books,Children,Brand_15,486.43,678.75,676,57
+1405,Product_1405,Fashion,Menswear,Brand_35,453.77,745.74,760,79
+1406,Product_1406,Sports,Outdoor,Brand_5,210.95,381.6,901,97
+1407,Product_1407,Fashion,Footwear,Brand_3,315.32,786.15,390,33
+1408,Product_1408,Electronics,Wearables,Brand_28,301.98,726.18,599,22
+1409,Product_1409,Sports,Team Sports,Brand_15,131.24,225.46,535,14
+1410,Product_1410,Electronics,Audio,Brand_16,254.73,412.6,890,86
+1411,Product_1411,Sports,Water Sports,Brand_27,488.55,1047.15,58,82
+1412,Product_1412,Electronics,Audio,Brand_47,242.05,526.87,750,36
+1413,Product_1413,Fashion,Footwear,Brand_27,236.38,288.95,682,33
+1414,Product_1414,Fashion,Menswear,Brand_1,273.88,551.25,103,92
+1415,Product_1415,Sports,Outdoor,Brand_38,490.7,614.86,506,29
+1416,Product_1416,Books,Children,Brand_43,258.49,343.17,272,14
+1417,Product_1417,Sports,Water Sports,Brand_39,78.75,157.0,531,86
+1418,Product_1418,Sports,Fitness,Brand_39,119.63,260.07,110,76
+1419,Product_1419,Electronics,Smartphones,Brand_8,259.53,385.06,989,98
+1420,Product_1420,Home & Kitchen,Cookware,Brand_38,249.43,299.6,688,91
+1421,Product_1421,Books,Children,Brand_26,432.06,525.59,735,96
+1422,Product_1422,Electronics,Audio,Brand_42,8.47,16.9,807,57
+1423,Product_1423,Sports,Fitness,Brand_26,486.89,1126.04,832,81
+1424,Product_1424,Sports,Fitness,Brand_14,129.75,188.87,580,24
+1425,Product_1425,Electronics,Audio,Brand_7,314.93,714.71,299,53
+1426,Product_1426,Electronics,Wearables,Brand_17,184.23,324.62,367,88
+1427,Product_1427,Fashion,Footwear,Brand_16,62.17,86.96,283,58
+1428,Product_1428,Electronics,Audio,Brand_30,286.33,381.81,715,82
+1429,Product_1429,Fashion,Womenswear,Brand_14,105.01,158.05,571,99
+1430,Product_1430,Books,Tech,Brand_48,224.74,283.01,410,97
+1431,Product_1431,Fashion,Womenswear,Brand_32,252.39,607.57,877,12
+1432,Product_1432,Fashion,Footwear,Brand_40,17.11,34.57,551,95
+1433,Product_1433,Home & Kitchen,Cookware,Brand_20,418.74,672.58,103,93
+1434,Product_1434,Electronics,Wearables,Brand_21,70.1,88.07,636,64
+1435,Product_1435,Home & Kitchen,Bedding,Brand_13,323.73,620.88,271,91
+1436,Product_1436,Sports,Team Sports,Brand_22,118.5,270.31,825,57
+1437,Product_1437,Fashion,Womenswear,Brand_11,369.08,575.53,330,3
+1438,Product_1438,Electronics,Laptops,Brand_38,377.91,573.85,317,65
+1439,Product_1439,Books,Tech,Brand_49,339.26,459.39,573,69
+1440,Product_1440,Home & Kitchen,Bedding,Brand_40,347.66,525.11,712,10
+1441,Product_1441,Home & Kitchen,Appliances,Brand_6,288.37,410.7,728,77
+1442,Product_1442,Sports,Team Sports,Brand_10,364.35,466.06,733,44
+1443,Product_1443,Books,Tech,Brand_26,86.88,125.05,136,50
+1444,Product_1444,Electronics,Audio,Brand_40,25.47,55.23,583,11
+1445,Product_1445,Fashion,Womenswear,Brand_29,490.57,1085.1,845,6
+1446,Product_1446,Home & Kitchen,Decor,Brand_43,431.01,520.58,280,4
+1447,Product_1447,Sports,Outdoor,Brand_45,63.35,122.06,224,32
+1448,Product_1448,Home & Kitchen,Bedding,Brand_42,489.05,1006.92,831,28
+1449,Product_1449,Home & Kitchen,Appliances,Brand_19,190.2,264.38,249,3
+1450,Product_1450,Books,Children,Brand_29,80.65,134.81,424,72
+1451,Product_1451,Books,Non-Fiction,Brand_27,358.34,444.83,190,67
+1452,Product_1452,Books,Children,Brand_41,426.83,1034.64,589,50
+1453,Product_1453,Fashion,Footwear,Brand_17,444.96,1062.09,441,48
+1454,Product_1454,Fashion,Womenswear,Brand_21,12.59,31.11,553,46
+1455,Product_1455,Electronics,Laptops,Brand_21,186.35,434.21,880,90
+1456,Product_1456,Home & Kitchen,Decor,Brand_7,97.47,173.54,939,65
+1457,Product_1457,Sports,Team Sports,Brand_7,26.86,33.63,826,78
+1458,Product_1458,Home & Kitchen,Cookware,Brand_46,471.92,1063.61,718,83
+1459,Product_1459,Books,Non-Fiction,Brand_30,267.26,503.28,275,74
+1460,Product_1460,Electronics,Wearables,Brand_40,375.63,617.6,448,64
+1461,Product_1461,Books,Children,Brand_5,382.13,699.49,976,22
+1462,Product_1462,Electronics,Wearables,Brand_36,320.77,787.26,665,8
+1463,Product_1463,Fashion,Accessories,Brand_46,238.3,415.58,151,9
+1464,Product_1464,Fashion,Menswear,Brand_47,453.35,1075.96,282,73
+1465,Product_1465,Fashion,Menswear,Brand_46,496.25,950.88,612,63
+1466,Product_1466,Sports,Outdoor,Brand_26,175.41,265.31,220,85
+1467,Product_1467,Sports,Team Sports,Brand_35,21.88,46.93,713,87
+1468,Product_1468,Fashion,Footwear,Brand_15,120.57,239.77,583,66
+1469,Product_1469,Sports,Outdoor,Brand_50,458.71,1117.09,552,88
+1470,Product_1470,Books,Tech,Brand_1,7.18,11.58,994,79
+1471,Product_1471,Electronics,Audio,Brand_38,419.5,795.95,122,100
+1472,Product_1472,Electronics,Smartphones,Brand_34,404.72,934.63,423,94
+1473,Product_1473,Home & Kitchen,Decor,Brand_16,224.1,373.5,615,100
+1474,Product_1474,Home & Kitchen,Decor,Brand_2,230.44,472.09,664,64
+1475,Product_1475,Electronics,Audio,Brand_6,186.74,412.23,96,52
+1476,Product_1476,Books,Children,Brand_27,452.48,709.04,390,90
+1477,Product_1477,Sports,Outdoor,Brand_22,482.67,969.95,187,13
+1478,Product_1478,Fashion,Footwear,Brand_12,439.69,587.03,724,56
+1479,Product_1479,Fashion,Accessories,Brand_6,129.49,209.43,188,34
+1480,Product_1480,Sports,Outdoor,Brand_15,154.9,220.49,359,83
+1481,Product_1481,Electronics,Audio,Brand_29,434.76,758.31,769,13
+1482,Product_1482,Books,Tech,Brand_2,481.75,943.51,900,78
+1483,Product_1483,Electronics,Smartphones,Brand_44,73.51,140.38,382,13
+1484,Product_1484,Home & Kitchen,Appliances,Brand_34,496.8,961.17,12,1
+1485,Product_1485,Fashion,Accessories,Brand_20,5.93,14.31,28,73
+1486,Product_1486,Books,Tech,Brand_5,121.27,254.07,978,23
+1487,Product_1487,Home & Kitchen,Bedding,Brand_12,259.96,421.93,548,28
+1488,Product_1488,Fashion,Menswear,Brand_44,144.91,348.85,934,20
+1489,Product_1489,Books,Tech,Brand_37,456.4,852.13,181,57
+1490,Product_1490,Home & Kitchen,Decor,Brand_29,132.96,177.24,31,80
+1491,Product_1491,Electronics,Smartphones,Brand_20,82.51,155.03,957,38
+1492,Product_1492,Electronics,Audio,Brand_44,157.38,197.46,184,76
+1493,Product_1493,Books,Non-Fiction,Brand_7,230.31,499.78,509,25
+1494,Product_1494,Books,Non-Fiction,Brand_40,446.39,875.31,942,44
+1495,Product_1495,Sports,Water Sports,Brand_29,363.03,607.46,966,15
+1496,Product_1496,Books,Fiction,Brand_22,250.64,538.5,252,47
+1497,Product_1497,Home & Kitchen,Decor,Brand_32,365.19,639.77,192,52
+1498,Product_1498,Electronics,Audio,Brand_4,274.12,658.17,938,62
+1499,Product_1499,Books,Fiction,Brand_34,317.84,646.91,93,85
+1500,Product_1500,Fashion,Accessories,Brand_49,393.39,530.99,559,83
+1501,Product_1501,Home & Kitchen,Cookware,Brand_21,263.83,645.66,138,58
+1502,Product_1502,Home & Kitchen,Cookware,Brand_41,184.02,291.38,436,52
+1503,Product_1503,Sports,Water Sports,Brand_6,302.6,450.1,502,4
+1504,Product_1504,Sports,Fitness,Brand_21,280.19,392.92,574,62
+1505,Product_1505,Books,Children,Brand_20,292.0,579.06,509,99
+1506,Product_1506,Fashion,Menswear,Brand_34,212.11,360.07,851,6
+1507,Product_1507,Home & Kitchen,Appliances,Brand_20,126.5,206.22,913,76
+1508,Product_1508,Books,Non-Fiction,Brand_42,251.68,383.05,321,95
+1509,Product_1509,Electronics,Smartphones,Brand_4,392.5,832.79,989,39
+1510,Product_1510,Sports,Outdoor,Brand_23,138.31,183.49,987,69
+1511,Product_1511,Electronics,Wearables,Brand_48,5.09,10.06,520,68
+1512,Product_1512,Home & Kitchen,Cookware,Brand_44,109.63,133.35,715,6
+1513,Product_1513,Home & Kitchen,Appliances,Brand_30,182.75,447.85,972,24
+1514,Product_1514,Home & Kitchen,Cookware,Brand_5,346.52,802.23,731,27
+1515,Product_1515,Sports,Outdoor,Brand_37,76.65,99.28,655,79
+1516,Product_1516,Electronics,Smartphones,Brand_25,10.71,26.16,210,89
+1517,Product_1517,Electronics,Audio,Brand_1,153.6,276.07,926,31
+1518,Product_1518,Fashion,Womenswear,Brand_25,200.29,430.54,846,30
+1519,Product_1519,Fashion,Accessories,Brand_3,158.43,300.4,159,19
+1520,Product_1520,Books,Non-Fiction,Brand_40,497.81,884.75,684,34
+1521,Product_1521,Sports,Team Sports,Brand_14,277.88,514.99,962,84
+1522,Product_1522,Fashion,Accessories,Brand_45,402.58,622.75,10,54
+1523,Product_1523,Sports,Water Sports,Brand_18,89.37,194.86,862,25
+1524,Product_1524,Sports,Team Sports,Brand_39,210.73,503.19,10,81
+1525,Product_1525,Sports,Fitness,Brand_45,323.86,626.23,785,58
+1526,Product_1526,Home & Kitchen,Decor,Brand_5,39.88,85.72,652,15
+1527,Product_1527,Electronics,Laptops,Brand_32,344.59,700.24,68,24
+1528,Product_1528,Books,Tech,Brand_11,137.62,334.52,966,95
+1529,Product_1529,Fashion,Accessories,Brand_19,164.22,229.56,549,37
+1530,Product_1530,Fashion,Footwear,Brand_7,493.66,1071.3,779,16
+1531,Product_1531,Sports,Outdoor,Brand_6,210.32,508.28,568,64
+1532,Product_1532,Home & Kitchen,Decor,Brand_34,50.1,65.83,36,61
+1533,Product_1533,Sports,Fitness,Brand_8,342.81,490.69,234,5
+1534,Product_1534,Sports,Outdoor,Brand_6,458.98,1052.2,780,89
+1535,Product_1535,Electronics,Laptops,Brand_28,156.65,368.99,630,48
+1536,Product_1536,Sports,Outdoor,Brand_29,26.23,50.18,611,99
+1537,Product_1537,Electronics,Laptops,Brand_50,468.1,1082.25,215,93
+1538,Product_1538,Fashion,Menswear,Brand_37,181.26,260.6,14,20
+1539,Product_1539,Fashion,Footwear,Brand_12,109.22,204.12,358,60
+1540,Product_1540,Home & Kitchen,Appliances,Brand_26,300.4,373.29,389,20
+1541,Product_1541,Fashion,Menswear,Brand_15,209.71,478.03,188,81
+1542,Product_1542,Home & Kitchen,Cookware,Brand_43,224.94,319.4,738,57
+1543,Product_1543,Electronics,Wearables,Brand_5,477.66,738.54,863,32
+1544,Product_1544,Books,Tech,Brand_36,400.22,581.09,164,19
+1545,Product_1545,Books,Tech,Brand_4,214.47,394.1,114,88
+1546,Product_1546,Electronics,Wearables,Brand_34,252.81,473.11,547,3
+1547,Product_1547,Books,Non-Fiction,Brand_47,116.35,217.65,955,42
+1548,Product_1548,Fashion,Menswear,Brand_10,243.45,358.2,923,14
+1549,Product_1549,Home & Kitchen,Appliances,Brand_25,494.15,1149.01,3,73
+1550,Product_1550,Electronics,Wearables,Brand_50,444.35,929.24,580,16
+1551,Product_1551,Home & Kitchen,Appliances,Brand_37,84.15,163.13,558,10
+1552,Product_1552,Electronics,Wearables,Brand_37,411.61,514.66,660,50
+1553,Product_1553,Fashion,Accessories,Brand_29,250.44,429.49,932,96
+1554,Product_1554,Home & Kitchen,Bedding,Brand_40,110.0,186.09,256,45
+1555,Product_1555,Sports,Water Sports,Brand_10,491.83,1052.62,465,69
+1556,Product_1556,Fashion,Womenswear,Brand_10,153.27,304.54,293,82
+1557,Product_1557,Home & Kitchen,Bedding,Brand_17,127.09,253.43,903,21
+1558,Product_1558,Fashion,Menswear,Brand_28,448.6,863.08,824,39
+1559,Product_1559,Home & Kitchen,Appliances,Brand_30,368.0,658.48,420,91
+1560,Product_1560,Books,Non-Fiction,Brand_26,264.44,556.28,128,81
+1561,Product_1561,Fashion,Womenswear,Brand_26,407.14,837.6,431,54
+1562,Product_1562,Sports,Water Sports,Brand_29,488.86,1107.64,975,50
+1563,Product_1563,Sports,Team Sports,Brand_22,389.69,895.75,333,86
+1564,Product_1564,Sports,Outdoor,Brand_47,144.2,254.03,542,27
+1565,Product_1565,Home & Kitchen,Decor,Brand_46,284.41,512.25,195,73
+1566,Product_1566,Home & Kitchen,Cookware,Brand_30,424.49,524.33,561,98
+1567,Product_1567,Sports,Team Sports,Brand_42,108.54,254.66,314,28
+1568,Product_1568,Sports,Outdoor,Brand_31,34.25,51.21,111,70
+1569,Product_1569,Sports,Team Sports,Brand_50,178.87,389.21,890,80
+1570,Product_1570,Sports,Fitness,Brand_13,282.29,689.07,222,44
+1571,Product_1571,Books,Non-Fiction,Brand_43,117.8,274.92,393,67
+1572,Product_1572,Sports,Outdoor,Brand_29,145.04,220.34,24,89
+1573,Product_1573,Home & Kitchen,Bedding,Brand_37,251.7,325.34,683,23
+1574,Product_1574,Fashion,Womenswear,Brand_42,195.23,324.55,411,74
+1575,Product_1575,Home & Kitchen,Decor,Brand_27,84.25,195.38,324,60
+1576,Product_1576,Home & Kitchen,Decor,Brand_49,196.02,485.44,953,63
+1577,Product_1577,Fashion,Menswear,Brand_44,450.36,654.49,99,9
+1578,Product_1578,Electronics,Smartphones,Brand_1,255.04,505.58,942,7
+1579,Product_1579,Fashion,Menswear,Brand_21,410.39,964.96,953,46
+1580,Product_1580,Home & Kitchen,Decor,Brand_14,313.89,391.0,314,9
+1581,Product_1581,Fashion,Footwear,Brand_38,243.23,571.65,926,58
+1582,Product_1582,Sports,Team Sports,Brand_46,358.47,835.66,179,38
+1583,Product_1583,Fashion,Menswear,Brand_36,338.67,425.79,163,20
+1584,Product_1584,Home & Kitchen,Bedding,Brand_8,484.16,1158.8,545,80
+1585,Product_1585,Sports,Outdoor,Brand_36,67.66,91.1,565,81
+1586,Product_1586,Sports,Team Sports,Brand_45,271.84,593.74,868,32
+1587,Product_1587,Electronics,Laptops,Brand_29,194.18,267.44,99,97
+1588,Product_1588,Electronics,Laptops,Brand_25,257.73,422.38,484,49
+1589,Product_1589,Sports,Outdoor,Brand_50,179.13,365.15,20,76
+1590,Product_1590,Fashion,Accessories,Brand_38,443.38,854.02,585,24
+1591,Product_1591,Sports,Fitness,Brand_32,345.36,710.73,969,86
+1592,Product_1592,Books,Tech,Brand_22,277.82,445.62,87,48
+1593,Product_1593,Electronics,Laptops,Brand_9,192.01,309.22,639,39
+1594,Product_1594,Sports,Outdoor,Brand_8,459.16,1044.41,957,86
+1595,Product_1595,Home & Kitchen,Cookware,Brand_19,291.78,696.16,728,11
+1596,Product_1596,Fashion,Accessories,Brand_2,443.77,1067.71,636,76
+1597,Product_1597,Sports,Outdoor,Brand_24,114.78,244.8,871,33
+1598,Product_1598,Home & Kitchen,Cookware,Brand_34,306.57,660.35,925,4
+1599,Product_1599,Sports,Team Sports,Brand_11,135.37,284.72,53,84
+1600,Product_1600,Home & Kitchen,Cookware,Brand_17,207.87,474.84,459,56
+1601,Product_1601,Fashion,Menswear,Brand_18,398.71,588.0,767,98
+1602,Product_1602,Sports,Fitness,Brand_22,96.01,204.79,564,5
+1603,Product_1603,Home & Kitchen,Appliances,Brand_48,277.49,533.99,587,3
+1604,Product_1604,Fashion,Accessories,Brand_13,377.5,872.58,926,61
+1605,Product_1605,Sports,Water Sports,Brand_3,123.29,236.99,711,87
+1606,Product_1606,Fashion,Accessories,Brand_22,415.33,969.64,375,66
+1607,Product_1607,Sports,Water Sports,Brand_46,147.27,196.66,350,17
+1608,Product_1608,Fashion,Footwear,Brand_36,120.25,292.11,197,63
+1609,Product_1609,Fashion,Footwear,Brand_6,233.93,408.01,935,58
+1610,Product_1610,Electronics,Audio,Brand_33,11.48,14.54,917,15
+1611,Product_1611,Electronics,Laptops,Brand_49,336.0,660.84,109,32
+1612,Product_1612,Electronics,Laptops,Brand_24,289.89,389.44,66,20
+1613,Product_1613,Books,Non-Fiction,Brand_50,179.27,404.44,89,10
+1614,Product_1614,Electronics,Smartphones,Brand_48,91.58,214.98,826,44
+1615,Product_1615,Books,Fiction,Brand_10,65.13,92.48,596,81
+1616,Product_1616,Sports,Team Sports,Brand_43,241.49,586.55,108,79
+1617,Product_1617,Electronics,Smartphones,Brand_46,168.13,345.62,142,26
+1618,Product_1618,Electronics,Laptops,Brand_6,296.39,413.32,735,12
+1619,Product_1619,Electronics,Wearables,Brand_44,127.84,307.99,238,27
+1620,Product_1620,Electronics,Smartphones,Brand_25,96.49,202.97,328,81
+1621,Product_1621,Books,Non-Fiction,Brand_31,482.52,653.99,837,26
+1622,Product_1622,Sports,Outdoor,Brand_31,202.6,302.1,294,94
+1623,Product_1623,Books,Fiction,Brand_29,114.67,155.34,189,65
+1624,Product_1624,Electronics,Smartphones,Brand_12,326.53,708.65,997,26
+1625,Product_1625,Fashion,Womenswear,Brand_35,340.01,816.72,589,25
+1626,Product_1626,Electronics,Smartphones,Brand_13,77.11,124.59,191,42
+1627,Product_1627,Home & Kitchen,Decor,Brand_26,175.56,263.64,650,76
+1628,Product_1628,Fashion,Accessories,Brand_33,75.39,138.17,655,37
+1629,Product_1629,Home & Kitchen,Bedding,Brand_17,418.05,1020.42,844,45
+1630,Product_1630,Home & Kitchen,Appliances,Brand_42,69.02,156.68,911,88
+1631,Product_1631,Fashion,Footwear,Brand_49,413.17,704.73,165,9
+1632,Product_1632,Electronics,Smartphones,Brand_32,59.46,147.88,352,94
+1633,Product_1633,Electronics,Wearables,Brand_6,329.52,816.17,690,98
+1634,Product_1634,Sports,Fitness,Brand_48,244.41,418.86,690,12
+1635,Product_1635,Fashion,Footwear,Brand_45,127.36,315.68,697,78
+1636,Product_1636,Electronics,Audio,Brand_47,130.36,160.46,859,41
+1637,Product_1637,Sports,Team Sports,Brand_48,258.67,437.2,830,62
+1638,Product_1638,Fashion,Accessories,Brand_20,134.38,272.12,781,63
+1639,Product_1639,Fashion,Womenswear,Brand_15,185.31,319.28,601,22
+1640,Product_1640,Electronics,Audio,Brand_27,16.41,32.26,476,60
+1641,Product_1641,Fashion,Accessories,Brand_30,65.43,96.7,889,60
+1642,Product_1642,Sports,Outdoor,Brand_10,359.97,578.55,755,97
+1643,Product_1643,Sports,Water Sports,Brand_2,85.79,167.35,894,18
+1644,Product_1644,Fashion,Accessories,Brand_41,111.38,172.89,152,52
+1645,Product_1645,Fashion,Menswear,Brand_28,312.56,675.7,810,85
+1646,Product_1646,Home & Kitchen,Decor,Brand_38,371.13,678.02,968,24
+1647,Product_1647,Home & Kitchen,Appliances,Brand_2,229.88,511.24,400,61
+1648,Product_1648,Home & Kitchen,Cookware,Brand_22,100.55,140.56,202,3
+1649,Product_1649,Sports,Water Sports,Brand_11,334.02,578.64,310,71
+1650,Product_1650,Fashion,Womenswear,Brand_13,356.45,546.64,498,78
+1651,Product_1651,Sports,Water Sports,Brand_28,165.81,392.25,970,21
+1652,Product_1652,Sports,Fitness,Brand_23,213.72,420.65,984,14
+1653,Product_1653,Electronics,Audio,Brand_46,57.81,82.81,488,78
+1654,Product_1654,Fashion,Womenswear,Brand_16,22.76,39.87,531,64
+1655,Product_1655,Home & Kitchen,Bedding,Brand_32,494.52,1155.22,13,40
+1656,Product_1656,Home & Kitchen,Cookware,Brand_41,318.29,738.25,318,88
+1657,Product_1657,Books,Children,Brand_40,299.11,502.33,124,77
+1658,Product_1658,Home & Kitchen,Cookware,Brand_22,90.91,186.27,742,48
+1659,Product_1659,Home & Kitchen,Cookware,Brand_37,100.56,175.24,993,61
+1660,Product_1660,Electronics,Smartphones,Brand_29,413.77,566.04,378,54
+1661,Product_1661,Home & Kitchen,Decor,Brand_21,68.87,102.73,704,30
+1662,Product_1662,Fashion,Accessories,Brand_18,278.2,424.88,568,44
+1663,Product_1663,Books,Tech,Brand_45,254.08,404.64,199,17
+1664,Product_1664,Fashion,Womenswear,Brand_46,255.59,398.96,607,79
+1665,Product_1665,Home & Kitchen,Decor,Brand_32,490.11,902.06,576,61
+1666,Product_1666,Electronics,Audio,Brand_33,373.1,787.51,901,13
+1667,Product_1667,Sports,Outdoor,Brand_40,247.83,374.35,329,11
+1668,Product_1668,Books,Children,Brand_30,257.81,537.6,617,94
+1669,Product_1669,Fashion,Menswear,Brand_29,232.66,303.97,398,100
+1670,Product_1670,Home & Kitchen,Cookware,Brand_46,13.9,22.6,146,47
+1671,Product_1671,Electronics,Wearables,Brand_16,79.36,188.72,228,82
+1672,Product_1672,Electronics,Audio,Brand_23,92.04,157.62,844,80
+1673,Product_1673,Sports,Outdoor,Brand_18,357.48,807.92,979,41
+1674,Product_1674,Sports,Team Sports,Brand_39,241.47,346.62,904,69
+1675,Product_1675,Home & Kitchen,Decor,Brand_39,139.09,242.66,619,16
+1676,Product_1676,Fashion,Menswear,Brand_48,185.47,306.63,906,25
+1677,Product_1677,Books,Tech,Brand_16,70.27,167.76,809,49
+1678,Product_1678,Sports,Fitness,Brand_20,19.73,34.96,267,27
+1679,Product_1679,Home & Kitchen,Cookware,Brand_2,490.26,1008.78,29,84
+1680,Product_1680,Sports,Fitness,Brand_24,180.93,251.48,476,100
+1681,Product_1681,Home & Kitchen,Bedding,Brand_41,482.12,587.31,391,72
+1682,Product_1682,Home & Kitchen,Bedding,Brand_49,342.29,802.39,321,14
+1683,Product_1683,Fashion,Accessories,Brand_18,17.45,37.39,202,91
+1684,Product_1684,Books,Children,Brand_19,499.42,1014.59,166,76
+1685,Product_1685,Home & Kitchen,Cookware,Brand_2,210.27,491.34,126,7
+1686,Product_1686,Fashion,Accessories,Brand_24,279.32,607.32,145,41
+1687,Product_1687,Sports,Fitness,Brand_41,295.95,369.87,444,83
+1688,Product_1688,Fashion,Accessories,Brand_12,110.51,143.93,334,79
+1689,Product_1689,Electronics,Audio,Brand_21,57.81,70.53,579,97
+1690,Product_1690,Books,Fiction,Brand_33,213.48,305.76,57,93
+1691,Product_1691,Home & Kitchen,Bedding,Brand_5,428.57,932.16,949,9
+1692,Product_1692,Home & Kitchen,Decor,Brand_7,288.72,530.01,535,21
+1693,Product_1693,Home & Kitchen,Appliances,Brand_49,131.65,239.27,368,46
+1694,Product_1694,Fashion,Menswear,Brand_27,322.41,714.75,351,97
+1695,Product_1695,Electronics,Wearables,Brand_26,45.43,96.36,558,8
+1696,Product_1696,Books,Children,Brand_42,372.65,717.97,808,51
+1697,Product_1697,Home & Kitchen,Appliances,Brand_14,111.09,211.18,459,21
+1698,Product_1698,Electronics,Audio,Brand_15,253.84,461.59,245,8
+1699,Product_1699,Books,Fiction,Brand_4,233.02,313.2,658,90
+1700,Product_1700,Home & Kitchen,Bedding,Brand_3,95.53,126.72,43,29
+1701,Product_1701,Home & Kitchen,Decor,Brand_9,125.03,192.86,512,41
+1702,Product_1702,Fashion,Accessories,Brand_49,126.31,186.21,649,86
+1703,Product_1703,Sports,Fitness,Brand_33,369.03,835.53,783,38
+1704,Product_1704,Sports,Fitness,Brand_43,166.92,266.52,731,90
+1705,Product_1705,Sports,Fitness,Brand_3,422.8,850.29,204,76
+1706,Product_1706,Electronics,Laptops,Brand_15,150.25,319.69,596,63
+1707,Product_1707,Electronics,Audio,Brand_45,175.57,344.56,82,75
+1708,Product_1708,Fashion,Womenswear,Brand_26,496.35,790.23,217,20
+1709,Product_1709,Books,Fiction,Brand_41,465.61,752.82,762,80
+1710,Product_1710,Fashion,Footwear,Brand_36,272.44,489.84,383,66
+1711,Product_1711,Sports,Outdoor,Brand_13,392.66,502.38,772,78
+1712,Product_1712,Fashion,Footwear,Brand_13,315.43,690.43,334,34
+1713,Product_1713,Sports,Fitness,Brand_42,238.71,319.13,292,58
+1714,Product_1714,Electronics,Wearables,Brand_39,126.18,262.91,990,84
+1715,Product_1715,Books,Children,Brand_14,448.24,783.56,189,15
+1716,Product_1716,Electronics,Wearables,Brand_7,282.4,422.72,760,27
+1717,Product_1717,Home & Kitchen,Cookware,Brand_45,209.05,342.39,690,28
+1718,Product_1718,Books,Tech,Brand_24,329.49,817.17,474,7
+1719,Product_1719,Home & Kitchen,Cookware,Brand_14,407.59,590.93,523,4
+1720,Product_1720,Fashion,Menswear,Brand_14,290.95,374.26,849,24
+1721,Product_1721,Fashion,Womenswear,Brand_32,127.22,181.15,969,93
+1722,Product_1722,Sports,Team Sports,Brand_30,171.1,356.31,400,78
+1723,Product_1723,Home & Kitchen,Bedding,Brand_31,252.2,608.5,574,77
+1724,Product_1724,Fashion,Womenswear,Brand_5,110.31,184.6,631,14
+1725,Product_1725,Electronics,Smartphones,Brand_40,168.28,253.56,51,2
+1726,Product_1726,Fashion,Menswear,Brand_20,496.62,845.94,455,49
+1727,Product_1727,Books,Non-Fiction,Brand_7,470.55,803.52,54,48
+1728,Product_1728,Home & Kitchen,Decor,Brand_28,106.03,143.67,759,48
+1729,Product_1729,Electronics,Audio,Brand_27,428.5,532.08,669,3
+1730,Product_1730,Fashion,Menswear,Brand_8,482.38,841.1,309,19
+1731,Product_1731,Fashion,Accessories,Brand_14,127.45,255.24,123,82
+1732,Product_1732,Electronics,Wearables,Brand_12,70.79,91.59,14,15
+1733,Product_1733,Electronics,Laptops,Brand_30,414.75,726.67,890,75
+1734,Product_1734,Books,Tech,Brand_18,261.54,373.92,23,90
+1735,Product_1735,Books,Children,Brand_5,35.41,59.42,748,89
+1736,Product_1736,Home & Kitchen,Decor,Brand_5,255.54,560.93,407,87
+1737,Product_1737,Sports,Fitness,Brand_3,253.02,561.01,509,56
+1738,Product_1738,Sports,Water Sports,Brand_12,62.14,79.74,996,2
+1739,Product_1739,Books,Fiction,Brand_43,83.64,184.31,64,99
+1740,Product_1740,Fashion,Footwear,Brand_47,380.87,527.04,490,26
+1741,Product_1741,Fashion,Menswear,Brand_43,20.34,42.53,278,25
+1742,Product_1742,Home & Kitchen,Bedding,Brand_1,428.36,933.97,665,6
+1743,Product_1743,Books,Children,Brand_36,105.39,206.45,974,90
+1744,Product_1744,Sports,Outdoor,Brand_46,379.9,582.23,868,96
+1745,Product_1745,Electronics,Audio,Brand_24,266.22,428.29,90,77
+1746,Product_1746,Fashion,Accessories,Brand_31,116.66,287.04,557,21
+1747,Product_1747,Fashion,Footwear,Brand_47,456.73,812.69,564,70
+1748,Product_1748,Home & Kitchen,Cookware,Brand_48,72.71,156.06,654,45
+1749,Product_1749,Sports,Outdoor,Brand_38,131.57,186.71,411,48
+1750,Product_1750,Sports,Team Sports,Brand_50,193.86,366.16,299,19
+1751,Product_1751,Sports,Water Sports,Brand_24,53.23,103.44,984,56
+1752,Product_1752,Electronics,Audio,Brand_9,12.6,29.73,340,46
+1753,Product_1753,Sports,Water Sports,Brand_49,460.77,992.03,552,88
+1754,Product_1754,Home & Kitchen,Appliances,Brand_22,235.94,361.31,518,81
+1755,Product_1755,Home & Kitchen,Cookware,Brand_35,373.34,900.25,647,96
+1756,Product_1756,Home & Kitchen,Decor,Brand_14,83.47,150.71,844,89
+1757,Product_1757,Sports,Fitness,Brand_27,161.05,267.95,901,15
+1758,Product_1758,Books,Fiction,Brand_34,205.85,501.73,106,74
+1759,Product_1759,Electronics,Audio,Brand_36,133.03,244.84,680,22
+1760,Product_1760,Home & Kitchen,Cookware,Brand_32,475.99,865.77,119,42
+1761,Product_1761,Fashion,Accessories,Brand_34,432.48,552.01,672,51
+1762,Product_1762,Home & Kitchen,Cookware,Brand_48,476.75,688.33,417,89
+1763,Product_1763,Electronics,Laptops,Brand_41,490.07,699.94,659,59
+1764,Product_1764,Home & Kitchen,Decor,Brand_46,224.96,360.21,0,65
+1765,Product_1765,Electronics,Wearables,Brand_10,219.45,334.81,937,10
+1766,Product_1766,Fashion,Womenswear,Brand_49,482.83,771.29,415,39
+1767,Product_1767,Home & Kitchen,Appliances,Brand_13,328.37,452.72,24,3
+1768,Product_1768,Electronics,Audio,Brand_8,413.07,787.01,212,24
+1769,Product_1769,Electronics,Smartphones,Brand_17,489.83,857.41,463,16
+1770,Product_1770,Sports,Team Sports,Brand_43,101.75,167.87,412,2
+1771,Product_1771,Books,Tech,Brand_22,369.8,760.62,397,48
+1772,Product_1772,Home & Kitchen,Cookware,Brand_28,390.28,505.61,634,76
+1773,Product_1773,Sports,Fitness,Brand_44,292.28,704.93,503,5
+1774,Product_1774,Sports,Team Sports,Brand_23,58.41,77.26,31,33
+1775,Product_1775,Sports,Water Sports,Brand_49,359.72,579.05,551,99
+1776,Product_1776,Electronics,Wearables,Brand_45,331.0,631.88,601,80
+1777,Product_1777,Fashion,Accessories,Brand_2,493.1,1161.63,389,5
+1778,Product_1778,Sports,Fitness,Brand_31,340.65,524.66,258,70
+1779,Product_1779,Electronics,Smartphones,Brand_16,134.64,315.99,741,92
+1780,Product_1780,Electronics,Wearables,Brand_25,294.74,656.11,767,44
+1781,Product_1781,Home & Kitchen,Bedding,Brand_3,227.68,303.72,330,40
+1782,Product_1782,Books,Children,Brand_14,169.68,239.16,628,53
+1783,Product_1783,Electronics,Smartphones,Brand_44,392.01,827.4,131,76
+1784,Product_1784,Electronics,Wearables,Brand_5,48.76,97.9,514,24
+1785,Product_1785,Sports,Team Sports,Brand_45,437.7,922.05,578,50
+1786,Product_1786,Books,Fiction,Brand_17,258.0,414.2,599,16
+1787,Product_1787,Books,Children,Brand_12,444.11,777.04,923,58
+1788,Product_1788,Fashion,Womenswear,Brand_3,428.42,950.19,297,77
+1789,Product_1789,Fashion,Accessories,Brand_8,409.03,1017.15,703,20
+1790,Product_1790,Electronics,Laptops,Brand_31,375.64,467.39,497,32
+1791,Product_1791,Electronics,Wearables,Brand_50,106.69,132.91,762,84
+1792,Product_1792,Home & Kitchen,Bedding,Brand_3,99.01,126.72,309,24
+1793,Product_1793,Home & Kitchen,Cookware,Brand_44,253.3,313.25,597,64
+1794,Product_1794,Home & Kitchen,Bedding,Brand_45,238.93,565.9,970,15
+1795,Product_1795,Electronics,Laptops,Brand_9,375.55,911.51,135,95
+1796,Product_1796,Books,Fiction,Brand_29,117.19,221.54,508,47
+1797,Product_1797,Sports,Fitness,Brand_46,162.7,299.69,537,89
+1798,Product_1798,Fashion,Menswear,Brand_27,280.75,350.11,485,5
+1799,Product_1799,Fashion,Accessories,Brand_36,120.46,254.92,718,55
+1800,Product_1800,Electronics,Smartphones,Brand_6,387.6,752.06,269,86
+1801,Product_1801,Fashion,Accessories,Brand_26,139.06,240.1,519,32
+1802,Product_1802,Home & Kitchen,Appliances,Brand_2,52.54,128.15,165,12
+1803,Product_1803,Books,Non-Fiction,Brand_43,435.0,559.1,201,58
+1804,Product_1804,Books,Tech,Brand_36,87.41,170.92,269,62
+1805,Product_1805,Electronics,Laptops,Brand_38,120.05,289.89,423,15
+1806,Product_1806,Books,Fiction,Brand_15,379.02,589.48,207,19
+1807,Product_1807,Fashion,Womenswear,Brand_48,8.02,17.96,718,51
+1808,Product_1808,Electronics,Audio,Brand_4,214.92,437.38,522,2
+1809,Product_1809,Electronics,Audio,Brand_38,147.05,203.77,543,2
+1810,Product_1810,Fashion,Womenswear,Brand_21,339.28,605.76,942,32
+1811,Product_1811,Sports,Outdoor,Brand_13,121.41,167.41,679,61
+1812,Product_1812,Sports,Water Sports,Brand_14,292.34,626.55,101,23
+1813,Product_1813,Sports,Fitness,Brand_10,145.52,313.7,683,17
+1814,Product_1814,Books,Non-Fiction,Brand_49,95.65,156.86,69,62
+1815,Product_1815,Books,Fiction,Brand_37,373.72,769.19,168,32
+1816,Product_1816,Sports,Team Sports,Brand_15,138.91,188.75,847,34
+1817,Product_1817,Sports,Fitness,Brand_49,26.02,59.57,442,6
+1818,Product_1818,Fashion,Accessories,Brand_2,42.2,56.94,197,86
+1819,Product_1819,Fashion,Accessories,Brand_29,122.67,218.28,620,29
+1820,Product_1820,Home & Kitchen,Bedding,Brand_40,395.94,602.51,972,66
+1821,Product_1821,Sports,Outdoor,Brand_16,274.04,361.04,613,67
+1822,Product_1822,Fashion,Accessories,Brand_50,234.93,336.17,76,56
+1823,Product_1823,Books,Fiction,Brand_27,109.54,183.69,67,72
+1824,Product_1824,Electronics,Laptops,Brand_50,381.87,827.58,656,6
+1825,Product_1825,Fashion,Footwear,Brand_26,210.41,284.95,287,60
+1826,Product_1826,Fashion,Footwear,Brand_35,143.94,267.29,619,42
+1827,Product_1827,Fashion,Accessories,Brand_33,435.36,1070.43,499,50
+1828,Product_1828,Books,Non-Fiction,Brand_31,320.55,530.8,345,12
+1829,Product_1829,Sports,Team Sports,Brand_35,348.26,570.14,529,79
+1830,Product_1830,Electronics,Audio,Brand_41,314.61,477.23,274,35
+1831,Product_1831,Fashion,Womenswear,Brand_21,137.16,178.01,949,42
+1832,Product_1832,Home & Kitchen,Decor,Brand_23,212.97,426.71,995,40
+1833,Product_1833,Home & Kitchen,Cookware,Brand_34,395.45,891.13,692,53
+1834,Product_1834,Fashion,Footwear,Brand_39,496.26,652.13,434,86
+1835,Product_1835,Home & Kitchen,Decor,Brand_50,249.1,467.76,704,38
+1836,Product_1836,Home & Kitchen,Cookware,Brand_46,403.24,623.52,555,71
+1837,Product_1837,Fashion,Womenswear,Brand_30,39.34,63.25,595,67
+1838,Product_1838,Home & Kitchen,Appliances,Brand_47,492.04,1165.78,740,38
+1839,Product_1839,Home & Kitchen,Decor,Brand_39,200.65,469.35,808,82
+1840,Product_1840,Fashion,Womenswear,Brand_42,21.21,34.12,829,64
+1841,Product_1841,Fashion,Womenswear,Brand_26,364.77,542.74,495,92
+1842,Product_1842,Fashion,Accessories,Brand_35,103.2,239.46,349,19
+1843,Product_1843,Fashion,Menswear,Brand_17,309.9,770.33,127,49
+1844,Product_1844,Books,Children,Brand_1,71.66,119.17,68,25
+1845,Product_1845,Fashion,Accessories,Brand_30,159.05,372.84,957,71
+1846,Product_1846,Books,Tech,Brand_33,131.37,218.01,581,54
+1847,Product_1847,Home & Kitchen,Cookware,Brand_4,75.7,167.15,437,81
+1848,Product_1848,Sports,Fitness,Brand_31,122.66,158.09,447,50
+1849,Product_1849,Fashion,Menswear,Brand_9,220.38,376.61,185,16
+1850,Product_1850,Fashion,Menswear,Brand_3,92.92,127.64,867,9
+1851,Product_1851,Fashion,Menswear,Brand_36,448.8,578.14,548,35
+1852,Product_1852,Home & Kitchen,Appliances,Brand_48,54.16,82.25,703,55
+1853,Product_1853,Home & Kitchen,Appliances,Brand_43,476.66,624.9,580,8
+1854,Product_1854,Electronics,Smartphones,Brand_22,408.93,964.94,1000,80
+1855,Product_1855,Fashion,Footwear,Brand_28,192.04,303.82,246,30
+1856,Product_1856,Home & Kitchen,Cookware,Brand_36,340.3,719.2,362,31
+1857,Product_1857,Home & Kitchen,Appliances,Brand_36,391.09,891.58,598,41
+1858,Product_1858,Home & Kitchen,Decor,Brand_25,137.86,288.55,208,70
+1859,Product_1859,Books,Fiction,Brand_11,71.78,133.79,93,74
+1860,Product_1860,Books,Tech,Brand_32,308.38,434.89,127,13
+1861,Product_1861,Home & Kitchen,Bedding,Brand_15,42.87,62.3,247,59
+1862,Product_1862,Books,Non-Fiction,Brand_12,213.19,501.89,939,29
+1863,Product_1863,Fashion,Menswear,Brand_1,268.3,583.03,244,86
+1864,Product_1864,Fashion,Accessories,Brand_38,91.2,122.0,881,77
+1865,Product_1865,Sports,Water Sports,Brand_14,123.61,198.77,237,13
+1866,Product_1866,Electronics,Wearables,Brand_46,276.31,648.12,454,57
+1867,Product_1867,Home & Kitchen,Bedding,Brand_40,215.92,404.73,768,49
+1868,Product_1868,Electronics,Audio,Brand_14,7.28,9.05,902,87
+1869,Product_1869,Sports,Water Sports,Brand_34,46.47,97.99,350,42
+1870,Product_1870,Electronics,Wearables,Brand_33,245.66,356.42,630,50
+1871,Product_1871,Sports,Outdoor,Brand_24,298.34,569.23,147,91
+1872,Product_1872,Electronics,Wearables,Brand_11,48.96,99.51,806,52
+1873,Product_1873,Home & Kitchen,Decor,Brand_21,384.74,605.01,361,52
+1874,Product_1874,Fashion,Womenswear,Brand_46,345.31,504.03,297,30
+1875,Product_1875,Sports,Water Sports,Brand_2,379.58,905.41,702,73
+1876,Product_1876,Home & Kitchen,Appliances,Brand_29,223.72,339.61,730,3
+1877,Product_1877,Sports,Team Sports,Brand_24,202.59,308.97,390,3
+1878,Product_1878,Sports,Water Sports,Brand_47,5.61,11.48,456,55
+1879,Product_1879,Electronics,Wearables,Brand_17,26.05,38.38,356,30
+1880,Product_1880,Fashion,Footwear,Brand_17,362.61,748.95,490,21
+1881,Product_1881,Home & Kitchen,Decor,Brand_38,41.3,85.0,660,67
+1882,Product_1882,Books,Non-Fiction,Brand_3,465.63,603.85,390,47
+1883,Product_1883,Electronics,Laptops,Brand_6,210.77,452.79,724,21
+1884,Product_1884,Electronics,Smartphones,Brand_17,335.52,501.42,81,68
+1885,Product_1885,Fashion,Accessories,Brand_10,85.72,190.26,300,19
+1886,Product_1886,Sports,Team Sports,Brand_12,478.34,1051.32,234,53
+1887,Product_1887,Fashion,Womenswear,Brand_34,481.79,957.07,68,30
+1888,Product_1888,Electronics,Smartphones,Brand_37,464.9,975.16,670,95
+1889,Product_1889,Home & Kitchen,Cookware,Brand_36,454.9,641.44,481,55
+1890,Product_1890,Home & Kitchen,Decor,Brand_2,408.7,594.97,827,26
+1891,Product_1891,Books,Fiction,Brand_5,18.58,34.8,791,13
+1892,Product_1892,Fashion,Womenswear,Brand_35,162.53,204.23,127,100
+1893,Product_1893,Sports,Team Sports,Brand_47,490.25,1013.06,183,20
+1894,Product_1894,Books,Non-Fiction,Brand_16,451.4,1127.96,805,2
+1895,Product_1895,Fashion,Womenswear,Brand_50,199.02,304.73,278,66
+1896,Product_1896,Electronics,Smartphones,Brand_26,96.02,179.53,138,22
+1897,Product_1897,Electronics,Wearables,Brand_10,305.01,553.33,866,17
+1898,Product_1898,Home & Kitchen,Cookware,Brand_37,196.69,279.05,801,36
+1899,Product_1899,Sports,Outdoor,Brand_30,223.72,293.26,179,91
+1900,Product_1900,Electronics,Laptops,Brand_11,433.2,546.25,655,78
+1901,Product_1901,Electronics,Smartphones,Brand_25,193.42,257.28,139,1
+1902,Product_1902,Fashion,Accessories,Brand_34,388.62,624.34,818,63
+1903,Product_1903,Sports,Water Sports,Brand_34,60.99,115.33,477,83
+1904,Product_1904,Books,Tech,Brand_39,458.56,1091.94,591,92
+1905,Product_1905,Sports,Team Sports,Brand_34,128.58,274.59,959,53
+1906,Product_1906,Home & Kitchen,Bedding,Brand_9,19.99,27.41,824,5
+1907,Product_1907,Home & Kitchen,Appliances,Brand_39,252.24,377.7,376,39
+1908,Product_1908,Electronics,Wearables,Brand_25,400.14,964.49,384,39
+1909,Product_1909,Fashion,Menswear,Brand_21,7.14,10.73,498,26
+1910,Product_1910,Electronics,Laptops,Brand_28,222.58,430.03,793,82
+1911,Product_1911,Home & Kitchen,Bedding,Brand_38,458.37,1081.5,809,98
+1912,Product_1912,Home & Kitchen,Cookware,Brand_26,320.4,491.69,250,19
+1913,Product_1913,Electronics,Laptops,Brand_29,392.73,574.74,258,63
+1914,Product_1914,Sports,Water Sports,Brand_46,482.76,582.98,476,48
+1915,Product_1915,Home & Kitchen,Bedding,Brand_9,287.04,377.43,425,7
+1916,Product_1916,Home & Kitchen,Decor,Brand_41,206.76,418.77,944,13
+1917,Product_1917,Fashion,Footwear,Brand_4,346.35,769.33,358,60
+1918,Product_1918,Sports,Water Sports,Brand_5,298.7,456.03,612,38
+1919,Product_1919,Fashion,Accessories,Brand_3,445.18,1003.63,956,62
+1920,Product_1920,Electronics,Audio,Brand_22,84.23,191.58,198,40
+1921,Product_1921,Books,Non-Fiction,Brand_1,486.46,986.73,103,19
+1922,Product_1922,Books,Tech,Brand_4,144.49,287.33,25,66
+1923,Product_1923,Home & Kitchen,Cookware,Brand_2,174.55,362.84,459,52
+1924,Product_1924,Fashion,Accessories,Brand_23,274.68,661.52,636,42
+1925,Product_1925,Fashion,Footwear,Brand_4,310.86,459.51,820,67
+1926,Product_1926,Books,Fiction,Brand_29,363.93,579.06,776,63
+1927,Product_1927,Sports,Fitness,Brand_43,139.83,239.01,798,71
+1928,Product_1928,Books,Fiction,Brand_10,10.94,26.91,955,49
+1929,Product_1929,Fashion,Accessories,Brand_47,268.5,592.19,739,82
+1930,Product_1930,Fashion,Womenswear,Brand_10,132.64,287.91,780,26
+1931,Product_1931,Electronics,Wearables,Brand_18,285.75,500.46,403,29
+1932,Product_1932,Electronics,Smartphones,Brand_20,485.48,894.25,12,18
+1933,Product_1933,Home & Kitchen,Bedding,Brand_37,330.44,403.12,198,54
+1934,Product_1934,Home & Kitchen,Bedding,Brand_36,154.22,363.23,581,33
+1935,Product_1935,Home & Kitchen,Appliances,Brand_5,380.68,722.45,167,5
+1936,Product_1936,Fashion,Accessories,Brand_5,450.58,825.5,224,60
+1937,Product_1937,Home & Kitchen,Bedding,Brand_8,285.42,484.3,81,86
+1938,Product_1938,Sports,Team Sports,Brand_40,311.92,503.66,745,48
+1939,Product_1939,Sports,Team Sports,Brand_37,195.82,480.98,571,71
+1940,Product_1940,Fashion,Footwear,Brand_34,60.1,80.34,159,86
+1941,Product_1941,Books,Tech,Brand_39,26.44,42.73,796,32
+1942,Product_1942,Home & Kitchen,Appliances,Brand_28,202.12,267.38,494,35
+1943,Product_1943,Fashion,Footwear,Brand_32,276.82,542.09,996,93
+1944,Product_1944,Sports,Fitness,Brand_38,376.76,930.13,307,33
+1945,Product_1945,Electronics,Laptops,Brand_36,311.58,419.12,228,29
+1946,Product_1946,Home & Kitchen,Bedding,Brand_10,48.82,107.93,948,13
+1947,Product_1947,Books,Tech,Brand_27,326.92,461.12,760,52
+1948,Product_1948,Sports,Team Sports,Brand_20,130.41,283.68,83,32
+1949,Product_1949,Home & Kitchen,Bedding,Brand_43,285.25,559.23,67,100
+1950,Product_1950,Fashion,Menswear,Brand_28,108.95,219.84,415,56
+1951,Product_1951,Home & Kitchen,Bedding,Brand_31,386.46,908.5,31,43
+1952,Product_1952,Fashion,Menswear,Brand_20,369.68,720.61,241,63
+1953,Product_1953,Sports,Water Sports,Brand_38,338.26,619.23,219,52
+1954,Product_1954,Sports,Outdoor,Brand_19,117.31,275.31,249,79
+1955,Product_1955,Home & Kitchen,Cookware,Brand_11,268.65,529.94,612,42
+1956,Product_1956,Books,Children,Brand_6,495.1,1228.11,103,11
+1957,Product_1957,Electronics,Smartphones,Brand_10,295.22,367.3,553,55
+1958,Product_1958,Sports,Fitness,Brand_45,201.09,486.33,663,20
+1959,Product_1959,Electronics,Smartphones,Brand_31,147.71,369.13,181,5
+1960,Product_1960,Home & Kitchen,Cookware,Brand_24,46.74,90.61,695,88
+1961,Product_1961,Fashion,Menswear,Brand_3,260.15,398.54,169,40
+1962,Product_1962,Fashion,Menswear,Brand_3,474.56,951.46,596,11
+1963,Product_1963,Electronics,Smartphones,Brand_13,118.96,202.14,808,22
+1964,Product_1964,Sports,Water Sports,Brand_7,362.01,574.51,273,76
+1965,Product_1965,Fashion,Menswear,Brand_40,440.41,623.35,291,18
+1966,Product_1966,Electronics,Wearables,Brand_39,135.93,188.72,872,34
+1967,Product_1967,Home & Kitchen,Appliances,Brand_32,56.57,89.97,621,29
+1968,Product_1968,Fashion,Menswear,Brand_26,499.59,660.77,872,44
+1969,Product_1969,Home & Kitchen,Bedding,Brand_29,110.44,171.52,367,66
+1970,Product_1970,Fashion,Footwear,Brand_42,311.47,675.56,722,52
+1971,Product_1971,Sports,Outdoor,Brand_20,377.21,456.89,682,42
+1972,Product_1972,Home & Kitchen,Decor,Brand_30,327.67,661.88,152,91
+1973,Product_1973,Home & Kitchen,Appliances,Brand_6,261.24,442.27,60,76
+1974,Product_1974,Electronics,Laptops,Brand_7,399.73,658.37,459,17
+1975,Product_1975,Home & Kitchen,Appliances,Brand_19,118.86,190.55,788,43
+1976,Product_1976,Fashion,Womenswear,Brand_46,222.63,329.11,493,56
+1977,Product_1977,Sports,Fitness,Brand_42,305.75,718.35,684,86
+1978,Product_1978,Books,Tech,Brand_46,299.75,533.76,214,61
+1979,Product_1979,Electronics,Audio,Brand_11,399.45,867.79,400,25
+1980,Product_1980,Fashion,Menswear,Brand_4,186.69,370.65,32,33
+1981,Product_1981,Sports,Outdoor,Brand_32,366.27,556.4,474,85
+1982,Product_1982,Sports,Team Sports,Brand_29,186.31,249.19,136,42
+1983,Product_1983,Sports,Team Sports,Brand_49,493.9,647.82,580,90
+1984,Product_1984,Home & Kitchen,Appliances,Brand_11,88.46,161.33,977,33
+1985,Product_1985,Sports,Fitness,Brand_32,433.31,720.44,896,43
+1986,Product_1986,Home & Kitchen,Appliances,Brand_9,385.46,801.31,245,66
+1987,Product_1987,Books,Children,Brand_18,321.14,738.15,929,26
+1988,Product_1988,Home & Kitchen,Bedding,Brand_3,12.01,28.92,789,2
+1989,Product_1989,Fashion,Footwear,Brand_40,415.47,1005.12,381,44
+1990,Product_1990,Electronics,Smartphones,Brand_31,397.83,931.79,790,65
+1991,Product_1991,Home & Kitchen,Decor,Brand_10,105.52,170.41,340,88
+1992,Product_1992,Books,Tech,Brand_34,161.03,216.09,400,68
+1993,Product_1993,Books,Non-Fiction,Brand_28,366.14,504.18,788,94
+1994,Product_1994,Electronics,Wearables,Brand_47,30.99,68.43,605,71
+1995,Product_1995,Fashion,Accessories,Brand_3,452.81,993.18,291,43
+1996,Product_1996,Electronics,Wearables,Brand_38,413.55,816.48,642,9
+1997,Product_1997,Sports,Water Sports,Brand_30,444.43,820.29,936,78
+1998,Product_1998,Books,Non-Fiction,Brand_21,494.22,659.51,854,76
+1999,Product_1999,Home & Kitchen,Bedding,Brand_17,405.54,824.79,307,84
+2000,Product_2000,Electronics,Laptops,Brand_43,292.42,626.82,926,75

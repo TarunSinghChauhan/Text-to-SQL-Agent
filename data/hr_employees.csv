@@ -1,0 +1,501 @@
+employee_id,name,department,role,salary,hire_date,manager_id,performance_score,location
+1,Employee_1,Operations,Ops Manager,88395.51,2022-08-09,49,2,SF
+2,Employee_2,Operations,Ops Analyst,57342.62,2023-09-23,20,5,Remote
+3,Employee_3,Marketing,Marketing Manager,64861.02,2022-10-23,43,1,Remote
+4,Employee_4,Engineering,EM,98523.21,2020-09-23,48,4,NY
+5,Employee_5,HR,HR Generalist,90295.8,2020-03-14,18,5,NY
+6,Employee_6,Finance,Financial Analyst,82946.25,2021-10-21,11,4,SF
+7,Employee_7,HR,Recruiter,73051.19,2020-02-11,35,2,NY
+8,Employee_8,Operations,Ops Analyst,74918.19,2020-05-09,48,4,NY
+9,Employee_9,Sales,SDR,74163.03,2020-02-11,29,1,NY
+10,Employee_10,HR,Recruiter,62999.28,2023-08-01,37,2,Austin
+11,Employee_11,Sales,Sales Manager,79520.06,2022-04-23,10,2,Remote
+12,Employee_12,HR,Recruiter,60255.24,2023-01-05,23,4,Remote
+13,Employee_13,Engineering,SDE 1,92219.27,2022-03-23,18,1,Remote
+14,Employee_14,HR,Recruiter,72006.88,2022-10-26,1,5,Remote
+15,Employee_15,HR,Recruiter,71496.94,2022-08-18,33,3,NY
+16,Employee_16,Operations,Ops Manager,64600.2,2021-07-30,30,1,SF
+17,Employee_17,Operations,Ops Manager,60739.13,2020-04-14,41,3,SF
+18,Employee_18,HR,HR Generalist,67550.74,2023-01-16,28,4,Remote
+19,Employee_19,Marketing,Content Marketer,57679.91,2021-05-09,28,4,Austin
+20,Employee_20,Marketing,Marketing Manager,92731.16,2022-06-14,10,5,London
+21,Employee_21,Operations,Ops Manager,54659.21,2022-09-03,40,1,SF
+22,Employee_22,Sales,Account Executive,90460.46,2023-11-21,29,4,Austin
+23,Employee_23,Marketing,Content Marketer,80168.37,2023-08-17,2,5,SF
+24,Employee_24,Engineering,Senior SDE,94677.11,2023-03-04,6,5,NY
+25,Employee_25,Finance,Accountant,100819.59,2023-05-20,33,1,SF
+26,Employee_26,Sales,Sales Manager,48016.27,2020-12-08,17,2,Austin
+27,Employee_27,Operations,Ops Analyst,82350.04,2022-09-17,36,5,London
+28,Employee_28,Operations,Ops Manager,59779.52,2020-02-15,21,4,NY
+29,Employee_29,Sales,Account Executive,57693.05,2020-09-08,43,3,NY
+30,Employee_30,Marketing,Content Marketer,77932.68,2023-01-07,43,3,London
+31,Employee_31,HR,HR Generalist,62716.66,2023-07-26,10,5,NY
+32,Employee_32,Engineering,Senior SDE,90535.43,2021-05-09,8,1,Remote
+33,Employee_33,Operations,Ops Analyst,54817.67,2022-01-26,22,3,NY
+34,Employee_34,Marketing,Content Marketer,83752.49,2023-01-20,13,5,London
+35,Employee_35,Operations,Ops Manager,78452.09,2020-09-14,23,3,London
+36,Employee_36,Finance,Financial Analyst,75612.84,2022-05-11,25,3,London
+37,Employee_37,Sales,SDR,69765.77,2021-09-23,31,1,Remote
+38,Employee_38,Marketing,SEO Specialist,75800.45,2021-05-23,27,4,SF
+39,Employee_39,HR,HR Generalist,69021.55,2022-10-24,42,3,Austin
+40,Employee_40,Sales,Sales Manager,74442.37,2021-12-31,27,3,SF
+41,Employee_41,HR,HRBP,72633.08,2021-05-04,18,5,Austin
+42,Employee_42,HR,HR Generalist,81113.43,2023-05-23,8,1,Austin
+43,Employee_43,Sales,Account Executive,76213.2,2020-06-13,34,1,Remote
+44,Employee_44,Finance,Financial Analyst,87613.98,2022-03-22,27,4,Austin
+45,Employee_45,Operations,Ops Manager,54722.08,2020-11-22,38,4,Austin
+46,Employee_46,Operations,Ops Manager,72141.4,2021-08-23,1,5,NY
+47,Employee_47,HR,HR Generalist,61173.73,2021-06-24,27,4,Remote
+48,Employee_48,Finance,Accountant,106599.44,2024-01-20,48,2,SF
+49,Employee_49,HR,Recruiter,65876.72,2023-07-12,4,3,NY
+50,Employee_50,Marketing,SEO Specialist,61389.95,2022-03-21,32,2,London
+51,Employee_51,Engineering,SDE 1,87077.47,2022-10-13,48,5,NY
+52,Employee_52,Finance,Finance Manager,79872.51,2022-04-28,41,2,London
+53,Employee_53,Sales,SDR,102630.02,2023-03-07,41,1,NY
+54,Employee_54,Operations,Ops Analyst,88826.33,2021-05-29,34,2,SF
+55,Employee_55,Operations,Ops Manager,78207.98,2021-11-10,23,1,London
+56,Employee_56,Operations,Ops Manager,69677.04,2023-08-20,24,1,London
+57,Employee_57,Sales,Account Executive,83799.67,2020-02-20,18,5,Austin
+58,Employee_58,HR,HR Generalist,72946.54,2020-08-29,1,5,Remote
+59,Employee_59,HR,HRBP,71333.58,2021-07-20,22,5,NY
+60,Employee_60,HR,HRBP,74449.7,2022-01-18,7,5,SF
+61,Employee_61,Marketing,Content Marketer,68304.25,2023-02-06,39,1,SF
+62,Employee_62,Engineering,SDE 2,128791.46,2023-11-18,14,4,Remote
+63,Employee_63,Operations,Ops Manager,55094.35,2023-09-24,20,4,NY
+64,Employee_64,Sales,Account Executive,81478.57,2023-02-02,4,2,London
+65,Employee_65,Engineering,Staff Engineer,84501.43,2021-08-12,29,3,SF
+66,Employee_66,Marketing,SEO Specialist,85125.7,2023-04-28,29,1,Austin
+67,Employee_67,Marketing,Marketing Manager,65829.33,2020-03-23,31,1,London
+68,Employee_68,Operations,Ops Manager,64175.77,2020-10-13,41,4,NY
+69,Employee_69,Operations,Ops Analyst,58485.87,2020-10-16,25,1,Austin
+70,Employee_70,Operations,Ops Manager,68629.69,2020-12-29,25,5,NY
+71,Employee_71,Engineering,Staff Engineer,123330.81,2020-03-10,15,3,Austin
+72,Employee_72,Sales,SDR,73990.44,2021-05-05,44,5,Austin
+73,Employee_73,Engineering,EM,69363.95,2023-09-23,22,1,Remote
+74,Employee_74,Operations,Ops Manager,68103.63,2023-10-27,26,5,SF
+75,Employee_75,HR,HRBP,61137.79,2022-12-03,36,5,NY
+76,Employee_76,HR,Recruiter,67128.24,2023-05-08,20,1,NY
+77,Employee_77,Operations,Ops Manager,74068.29,2020-03-01,24,2,NY
+78,Employee_78,Marketing,Marketing Manager,65177.87,2023-10-04,4,4,Austin
+79,Employee_79,Finance,Financial Analyst,109811.12,2021-10-02,31,1,Remote
+80,Employee_80,Operations,Ops Manager,76289.72,2021-01-10,35,5,SF
+81,Employee_81,HR,HRBP,68109.88,2022-02-09,13,3,London
+82,Employee_82,HR,HRBP,64388.8,2022-12-15,19,2,SF
+83,Employee_83,Sales,Sales Manager,76270.83,2021-02-16,17,2,London
+84,Employee_84,Engineering,Senior SDE,113474.8,2024-01-22,50,5,Austin
+85,Employee_85,Finance,Financial Analyst,75433.36,2022-10-29,32,4,London
+86,Employee_86,Operations,Ops Analyst,54971.76,2022-08-23,16,5,NY
+87,Employee_87,Finance,Financial Analyst,108752.99,2022-08-27,30,4,Remote
+88,Employee_88,Marketing,Content Marketer,77818.51,2021-02-14,3,5,NY
+89,Employee_89,Marketing,Content Marketer,72407.28,2022-06-20,26,1,London
+90,Employee_90,Finance,Finance Manager,83894.07,2023-11-30,40,2,London
+91,Employee_91,HR,HR Generalist,75484.91,2021-11-08,36,4,NY
+92,Employee_92,Engineering,EM,100194.11,2022-07-11,15,1,Austin
+93,Employee_93,Sales,Sales Manager,84144.21,2024-02-08,11,4,Austin
+94,Employee_94,Finance,Accountant,104582.75,2021-03-12,48,5,SF
+95,Employee_95,Engineering,Staff Engineer,96845.17,2022-05-22,44,1,London
+96,Employee_96,HR,Recruiter,76627.95,2021-04-28,27,3,NY
+97,Employee_97,Operations,Ops Manager,63455.94,2021-06-18,43,2,Austin
+98,Employee_98,Marketing,Marketing Manager,92782.88,2020-10-10,23,3,Austin
+99,Employee_99,Sales,SDR,87148.11,2023-05-15,32,5,NY
+100,Employee_100,Marketing,Marketing Manager,79191.24,2021-05-31,38,2,Austin
+101,Employee_101,Marketing,Content Marketer,81479.68,2020-10-19,46,3,SF
+102,Employee_102,Finance,Accountant,60382.78,2023-04-21,13,2,London
+103,Employee_103,Operations,Ops Manager,62301.1,2023-11-15,48,2,NY
+104,Employee_104,Finance,Financial Analyst,69055.77,2021-04-27,11,2,London
+105,Employee_105,Sales,Sales Manager,81497.25,2020-06-21,38,3,SF
+106,Employee_106,Operations,Ops Analyst,43105.15,2021-03-08,36,2,Remote
+107,Employee_107,Operations,Ops Analyst,58044.17,2022-02-06,42,3,Austin
+108,Employee_108,Finance,Finance Manager,73570.65,2021-10-05,44,5,NY
+109,Employee_109,HR,Recruiter,68915.91,2020-01-02,20,4,NY
+110,Employee_110,Operations,Ops Manager,76339.58,2020-01-31,27,3,London
+111,Employee_111,Sales,Account Executive,75550.96,2020-03-01,39,1,London
+112,Employee_112,Operations,Ops Analyst,80085.18,2020-12-21,1,5,Austin
+113,Employee_113,Engineering,Staff Engineer,94929.07,2021-11-15,4,2,SF
+114,Employee_114,Sales,Sales Manager,67841.38,2020-02-25,23,4,SF
+115,Employee_115,Finance,Finance Manager,80420.17,2023-10-23,47,2,SF
+116,Employee_116,Engineering,Staff Engineer,129649.44,2021-11-24,6,5,London
+117,Employee_117,Sales,Sales Manager,85434.8,2021-11-14,6,4,Remote
+118,Employee_118,HR,Recruiter,78874.52,2022-07-26,28,4,NY
+119,Employee_119,Finance,Financial Analyst,79780.36,2022-02-03,22,3,NY
+120,Employee_120,Engineering,Staff Engineer,133549.61,2021-05-02,43,1,SF
+121,Employee_121,Marketing,Content Marketer,72337.1,2020-05-13,16,1,London
+122,Employee_122,Finance,Finance Manager,82653.77,2020-08-19,43,3,Remote
+123,Employee_123,HR,HR Generalist,72755.57,2021-05-23,37,5,London
+124,Employee_124,Operations,Ops Analyst,74190.43,2022-08-27,7,2,Austin
+125,Employee_125,Operations,Ops Analyst,71171.96,2020-12-26,44,4,Austin
+126,Employee_126,Finance,Financial Analyst,67191.77,2023-04-05,12,2,SF
+127,Employee_127,Marketing,Marketing Manager,74427.98,2021-01-29,23,5,NY
+128,Employee_128,Engineering,Staff Engineer,85971.48,2023-07-21,40,1,London
+129,Employee_129,Marketing,SEO Specialist,71301.83,2020-07-26,7,4,London
+130,Employee_130,Operations,Ops Analyst,60337.53,2022-03-31,16,1,Remote
+131,Employee_131,Engineering,SDE 2,100145.31,2021-03-23,17,1,SF
+132,Employee_132,Marketing,Content Marketer,76753.14,2021-05-13,45,4,Austin
+133,Employee_133,Finance,Accountant,73332.38,2021-01-29,25,5,Remote
+134,Employee_134,Finance,Finance Manager,120745.18,2023-11-14,22,1,NY
+135,Employee_135,Engineering,Staff Engineer,142884.67,2022-12-18,32,5,Austin
+136,Employee_136,Sales,SDR,69347.26,2023-08-10,32,3,Remote
+137,Employee_137,Engineering,Staff Engineer,127920.49,2020-03-08,37,3,SF
+138,Employee_138,Finance,Accountant,75638.82,2022-03-08,22,1,Remote
+139,Employee_139,Engineering,EM,141029.94,2020-10-03,19,3,London
+140,Employee_140,Engineering,SDE 1,152450.36,2020-02-11,1,5,London
+141,Employee_141,Operations,Ops Manager,66812.91,2023-09-13,13,4,NY
+142,Employee_142,Operations,Ops Manager,62314.62,2022-10-15,30,1,Remote
+143,Employee_143,Engineering,Senior SDE,73498.04,2020-01-22,13,2,London
+144,Employee_144,Marketing,Marketing Manager,79228.7,2023-01-03,47,5,London
+145,Employee_145,Finance,Accountant,78575.02,2023-12-04,38,1,SF
+146,Employee_146,HR,HR Generalist,84956.26,2023-03-23,14,4,Austin
+147,Employee_147,Marketing,Marketing Manager,82376.67,2021-12-01,42,1,Austin
+148,Employee_148,Finance,Financial Analyst,80366.22,2022-08-14,6,3,London
+149,Employee_149,Sales,Sales Manager,76188.04,2024-02-05,24,3,SF
+150,Employee_150,Marketing,SEO Specialist,79879.39,2022-08-21,16,4,SF
+151,Employee_151,HR,Recruiter,72418.63,2023-06-22,45,3,Remote
+152,Employee_152,Engineering,SDE 1,72669.62,2024-01-29,18,3,Austin
+153,Employee_153,Engineering,EM,102040.68,2023-03-07,42,2,SF
+154,Employee_154,Engineering,SDE 2,82683.22,2021-03-19,26,5,Austin
+155,Employee_155,Engineering,SDE 1,102988.64,2021-11-17,24,4,Remote
+156,Employee_156,Marketing,Content Marketer,81657.49,2023-09-09,5,2,Austin
+157,Employee_157,Finance,Finance Manager,81031.07,2020-11-06,34,2,Remote
+158,Employee_158,Finance,Accountant,75913.83,2022-04-24,23,5,NY
+159,Employee_159,HR,HR Generalist,69759.78,2021-01-03,20,5,NY
+160,Employee_160,Finance,Finance Manager,85124.74,2020-11-22,15,3,Remote
+161,Employee_161,HR,HR Generalist,66218.53,2023-06-08,45,3,SF
+162,Employee_162,Engineering,Staff Engineer,101024.75,2022-07-07,30,3,NY
+163,Employee_163,Operations,Ops Manager,77644.67,2020-03-04,5,1,SF
+164,Employee_164,Engineering,Staff Engineer,123960.0,2023-10-30,28,1,London
+165,Employee_165,Operations,Ops Manager,69182.4,2022-04-07,16,5,London
+166,Employee_166,Operations,Ops Manager,58061.42,2023-12-01,9,3,NY
+167,Employee_167,Sales,Account Executive,81118.3,2023-12-23,36,4,SF
+168,Employee_168,Finance,Accountant,63010.25,2022-01-08,48,4,Remote
+169,Employee_169,Finance,Accountant,88676.37,2021-10-03,30,5,London
+170,Employee_170,Sales,Account Executive,82765.88,2023-06-21,18,5,Remote
+171,Employee_171,HR,HR Generalist,76233.23,2022-03-08,5,4,Austin
+172,Employee_172,HR,Recruiter,57371.24,2023-02-04,47,5,NY
+173,Employee_173,HR,Recruiter,62529.54,2022-11-23,5,2,NY
+174,Employee_174,Finance,Financial Analyst,100203.83,2023-10-29,19,3,Remote
+175,Employee_175,Operations,Ops Analyst,62776.8,2021-12-24,13,4,Austin
+176,Employee_176,Engineering,SDE 2,113193.05,2021-02-13,15,1,London
+177,Employee_177,Finance,Financial Analyst,80419.88,2022-04-30,19,4,NY
+178,Employee_178,Marketing,SEO Specialist,76430.7,2022-05-04,31,1,SF
+179,Employee_179,Engineering,Senior SDE,85236.46,2023-09-13,1,2,London
+180,Employee_180,Operations,Ops Manager,70764.35,2021-06-29,11,3,NY
+181,Employee_181,Finance,Financial Analyst,85194.85,2024-01-10,48,4,Austin
+182,Employee_182,Sales,Account Executive,85602.43,2020-09-06,1,1,NY
+183,Employee_183,Finance,Accountant,89361.47,2021-11-07,17,2,Austin
+184,Employee_184,Operations,Ops Analyst,59908.23,2022-03-31,33,5,SF
+185,Employee_185,Operations,Ops Manager,84610.22,2020-03-14,5,5,Austin
+186,Employee_186,Operations,Ops Manager,82936.61,2020-10-30,22,3,London
+187,Employee_187,Finance,Accountant,94585.2,2022-05-11,5,3,SF
+188,Employee_188,Operations,Ops Analyst,84330.56,2022-02-02,16,1,Austin
+189,Employee_189,HR,Recruiter,73571.11,2022-10-13,30,1,NY
+190,Employee_190,Operations,Ops Analyst,60536.48,2020-07-22,1,5,Austin
+191,Employee_191,Marketing,SEO Specialist,77238.1,2021-09-17,44,1,NY
+192,Employee_192,Engineering,SDE 2,96324.18,2020-09-17,46,2,NY
+193,Employee_193,Finance,Financial Analyst,106433.91,2020-07-10,19,5,Remote
+194,Employee_194,Finance,Financial Analyst,83469.77,2021-11-18,15,1,London
+195,Employee_195,Operations,Ops Manager,63780.12,2020-07-15,50,3,SF
+196,Employee_196,HR,HR Generalist,63098.86,2020-02-06,38,4,Austin
+197,Employee_197,Marketing,Marketing Manager,58863.75,2021-07-19,30,5,Austin
+198,Employee_198,Sales,Sales Manager,77242.24,2021-11-18,18,5,NY
+199,Employee_199,Operations,Ops Analyst,59604.16,2022-11-23,25,4,Austin
+200,Employee_200,HR,HRBP,84169.78,2020-05-31,35,3,SF
+201,Employee_201,Operations,Ops Manager,72104.92,2023-06-25,14,4,London
+202,Employee_202,Finance,Accountant,81901.33,2020-01-20,28,1,NY
+203,Employee_203,Finance,Accountant,96383.32,2023-03-26,14,2,Remote
+204,Employee_204,Sales,Account Executive,70158.97,2023-01-14,46,5,SF
+205,Employee_205,Engineering,SDE 2,88354.75,2020-06-07,29,5,Austin
+206,Employee_206,Sales,Sales Manager,87724.62,2021-04-16,13,1,NY
+207,Employee_207,HR,Recruiter,67609.66,2020-05-13,17,2,Austin
+208,Employee_208,Finance,Finance Manager,88175.91,2021-10-01,3,5,Austin
+209,Employee_209,Sales,Account Executive,54280.91,2022-11-17,43,4,London
+210,Employee_210,Operations,Ops Analyst,95243.28,2023-07-10,3,3,London
+211,Employee_211,Sales,SDR,126589.88,2020-12-16,48,4,SF
+212,Employee_212,Operations,Ops Manager,59085.84,2023-06-02,34,4,Remote
+213,Employee_213,Operations,Ops Analyst,54162.28,2021-01-28,48,1,Austin
+214,Employee_214,Marketing,SEO Specialist,75184.05,2020-01-11,11,3,Austin
+215,Employee_215,Operations,Ops Analyst,76647.19,2022-12-07,40,5,Austin
+216,Employee_216,Operations,Ops Analyst,57383.46,2021-02-07,17,5,Austin
+217,Employee_217,Engineering,SDE 2,141038.86,2021-09-25,29,1,London
+218,Employee_218,HR,HRBP,66182.35,2022-09-04,6,3,Austin
+219,Employee_219,Finance,Financial Analyst,84159.25,2021-05-24,22,5,NY
+220,Employee_220,Marketing,Content Marketer,81849.56,2021-01-05,31,1,Remote
+221,Employee_221,Marketing,Content Marketer,76067.34,2021-01-22,36,2,London
+222,Employee_222,Finance,Accountant,91522.15,2021-07-12,7,1,Remote
+223,Employee_223,Engineering,EM,84577.38,2024-01-07,2,4,Austin
+224,Employee_224,Sales,Account Executive,70334.84,2023-11-13,10,3,Remote
+225,Employee_225,Operations,Ops Analyst,83732.88,2022-01-03,39,1,SF
+226,Employee_226,Engineering,SDE 2,76007.03,2023-02-06,20,5,SF
+227,Employee_227,Operations,Ops Analyst,67721.59,2021-09-07,45,3,SF
+228,Employee_228,Operations,Ops Analyst,73736.37,2023-06-03,45,1,NY
+229,Employee_229,Finance,Accountant,77464.11,2023-01-30,26,3,SF
+230,Employee_230,HR,HR Generalist,80024.4,2023-08-16,21,4,London
+231,Employee_231,Engineering,SDE 2,122874.25,2020-08-28,26,2,Remote
+232,Employee_232,Finance,Finance Manager,79304.64,2021-10-13,36,2,London
+233,Employee_233,Engineering,SDE 1,91879.28,2024-01-02,36,5,Austin
+234,Employee_234,Sales,Account Executive,79639.66,2021-06-05,44,2,Austin
+235,Employee_235,Engineering,Staff Engineer,96908.89,2020-01-25,25,2,NY
+236,Employee_236,Finance,Financial Analyst,96003.5,2020-03-11,29,3,Remote
+237,Employee_237,Operations,Ops Analyst,64403.96,2021-06-09,17,4,London
+238,Employee_238,Sales,Sales Manager,98180.28,2023-05-27,3,4,Austin
+239,Employee_239,HR,HRBP,60956.94,2020-03-03,41,3,London
+240,Employee_240,Sales,SDR,87513.89,2023-02-17,50,5,Remote
+241,Employee_241,Sales,Account Executive,98888.28,2020-10-02,33,5,NY
+242,Employee_242,Finance,Finance Manager,68870.98,2020-12-12,49,2,NY
+243,Employee_243,Finance,Accountant,92512.77,2021-11-27,46,3,Austin
+244,Employee_244,Marketing,SEO Specialist,64428.59,2021-01-17,6,4,NY
+245,Employee_245,Engineering,SDE 1,115497.35,2023-02-02,5,2,London
+246,Employee_246,Engineering,SDE 2,96954.14,2022-02-11,21,2,London
+247,Employee_247,Engineering,EM,76296.96,2021-03-24,11,4,London
+248,Employee_248,HR,HRBP,81136.23,2022-01-01,26,4,SF
+249,Employee_249,Finance,Financial Analyst,80504.42,2024-01-10,31,3,London
+250,Employee_250,Operations,Ops Manager,105323.9,2021-04-23,24,5,Austin
+251,Employee_251,Sales,Account Executive,80824.19,2022-02-01,19,4,NY
+252,Employee_252,Marketing,Content Marketer,74443.92,2021-12-22,5,1,Austin
+253,Employee_253,Operations,Ops Manager,73266.58,2022-03-06,12,4,Austin
+254,Employee_254,Marketing,SEO Specialist,82087.07,2023-11-19,27,1,London
+255,Employee_255,HR,Recruiter,87136.13,2022-09-09,44,4,Remote
+256,Employee_256,Finance,Financial Analyst,110794.77,2020-04-16,45,2,Remote
+257,Employee_257,HR,HRBP,81245.11,2022-07-01,8,5,Remote
+258,Employee_258,Sales,Account Executive,57638.91,2023-02-02,47,2,London
+259,Employee_259,Engineering,Staff Engineer,107270.16,2020-07-02,48,4,NY
+260,Employee_260,HR,Recruiter,63305.94,2023-10-19,22,4,Remote
+261,Employee_261,Operations,Ops Manager,73437.71,2023-08-25,23,2,SF
+262,Employee_262,Engineering,SDE 1,96154.04,2021-07-24,1,3,Remote
+263,Employee_263,Operations,Ops Analyst,60221.79,2021-08-15,44,3,Austin
+264,Employee_264,Engineering,SDE 2,104123.6,2020-06-09,6,1,SF
+265,Employee_265,Sales,Sales Manager,85734.48,2021-02-08,6,4,NY
+266,Employee_266,Sales,Sales Manager,97099.05,2023-09-24,1,1,London
+267,Employee_267,Engineering,SDE 2,104031.94,2022-01-29,17,3,Remote
+268,Employee_268,Marketing,Marketing Manager,51941.52,2022-06-17,6,4,SF
+269,Employee_269,HR,HR Generalist,63182.79,2021-08-26,19,1,SF
+270,Employee_270,Operations,Ops Manager,88138.57,2021-11-13,28,4,London
+271,Employee_271,Finance,Finance Manager,99975.38,2021-01-28,7,5,SF
+272,Employee_272,Engineering,SDE 1,96808.95,2023-08-01,24,5,NY
+273,Employee_273,HR,HR Generalist,65224.85,2023-06-09,21,4,SF
+274,Employee_274,Engineering,EM,110368.12,2020-11-15,44,3,SF
+275,Employee_275,Marketing,SEO Specialist,79222.27,2023-07-27,6,5,Remote
+276,Employee_276,Sales,SDR,82894.15,2021-10-06,17,2,NY
+277,Employee_277,Finance,Finance Manager,46602.5,2022-12-24,34,2,Austin
+278,Employee_278,Finance,Financial Analyst,74227.72,2022-12-17,12,3,Remote
+279,Employee_279,HR,Recruiter,67182.54,2020-12-20,19,3,Remote
+280,Employee_280,Finance,Finance Manager,77728.99,2020-07-16,9,1,SF
+281,Employee_281,HR,HRBP,81042.32,2022-12-24,3,2,Austin
+282,Employee_282,Engineering,SDE 1,131767.66,2021-12-19,21,2,London
+283,Employee_283,Engineering,EM,111191.4,2021-08-16,43,5,Austin
+284,Employee_284,Finance,Financial Analyst,81880.93,2023-06-16,30,1,SF
+285,Employee_285,Finance,Finance Manager,96554.71,2022-10-01,23,1,NY
+286,Employee_286,Engineering,Senior SDE,94987.02,2023-12-05,9,2,NY
+287,Employee_287,Marketing,SEO Specialist,72456.98,2021-11-16,44,3,Austin
+288,Employee_288,Sales,Sales Manager,86773.22,2022-08-29,4,1,Austin
+289,Employee_289,Marketing,Marketing Manager,67589.47,2022-10-27,11,3,London
+290,Employee_290,Engineering,Staff Engineer,63671.06,2022-09-11,39,4,SF
+291,Employee_291,HR,Recruiter,87764.48,2022-06-17,6,3,Remote
+292,Employee_292,Operations,Ops Manager,65234.31,2020-06-13,38,1,NY
+293,Employee_293,Finance,Finance Manager,73892.11,2022-07-20,8,5,London
+294,Employee_294,HR,HRBP,74970.09,2021-06-20,10,3,NY
+295,Employee_295,Engineering,Senior SDE,97558.42,2020-10-18,50,3,NY
+296,Employee_296,Engineering,Staff Engineer,45439.31,2021-10-16,12,3,SF
+297,Employee_297,HR,Recruiter,73941.96,2021-09-30,4,3,SF
+298,Employee_298,Operations,Ops Manager,56946.54,2022-04-27,49,4,Remote
+299,Employee_299,Engineering,SDE 1,97186.03,2023-09-01,41,4,Austin
+300,Employee_300,HR,Recruiter,72160.87,2021-05-12,25,1,Austin
+301,Employee_301,Finance,Financial Analyst,78088.65,2023-01-10,48,3,Austin
+302,Employee_302,Engineering,SDE 1,110523.05,2023-07-27,45,4,Austin
+303,Employee_303,Marketing,SEO Specialist,82308.74,2020-09-03,24,1,London
+304,Employee_304,Operations,Ops Analyst,73016.24,2024-02-05,4,4,NY
+305,Employee_305,Finance,Finance Manager,62029.55,2020-03-31,5,5,London
+306,Employee_306,Marketing,Marketing Manager,60045.43,2021-04-04,21,2,London
+307,Employee_307,Engineering,SDE 2,124681.54,2021-06-24,31,2,London
+308,Employee_308,Marketing,Content Marketer,65956.2,2021-07-12,46,1,London
+309,Employee_309,HR,HRBP,73878.53,2022-08-25,44,4,Remote
+310,Employee_310,Sales,Account Executive,98684.23,2021-06-10,26,4,NY
+311,Employee_311,Operations,Ops Manager,80349.36,2023-08-22,21,3,London
+312,Employee_312,Engineering,Staff Engineer,69012.3,2022-06-05,14,4,London
+313,Employee_313,Sales,SDR,62625.93,2023-08-22,27,1,Remote
+314,Employee_314,Sales,Sales Manager,82861.64,2023-07-07,28,3,NY
+315,Employee_315,Sales,Account Executive,91311.13,2023-04-19,14,2,SF
+316,Employee_316,Operations,Ops Analyst,67325.31,2020-06-14,45,3,NY
+317,Employee_317,Sales,Account Executive,80584.82,2021-06-27,30,1,Austin
+318,Employee_318,HR,HRBP,81827.32,2021-02-14,25,4,Austin
+319,Employee_319,Finance,Accountant,95626.82,2023-12-30,42,1,SF
+320,Employee_320,Operations,Ops Analyst,103206.16,2023-04-14,13,4,Austin
+321,Employee_321,Sales,Account Executive,83125.16,2022-03-18,41,4,SF
+322,Employee_322,Operations,Ops Analyst,45461.78,2023-07-30,25,5,SF
+323,Employee_323,HR,HRBP,72705.71,2020-01-21,17,5,SF
+324,Employee_324,Finance,Financial Analyst,87566.38,2021-04-09,37,1,Austin
+325,Employee_325,Marketing,Marketing Manager,86401.27,2023-05-02,47,4,Remote
+326,Employee_326,Sales,Account Executive,83298.05,2021-11-22,37,1,London
+327,Employee_327,Marketing,Marketing Manager,81007.99,2023-07-12,33,2,London
+328,Employee_328,HR,Recruiter,75413.8,2022-10-19,48,3,Austin
+329,Employee_329,Marketing,Marketing Manager,85926.87,2020-03-06,43,4,London
+330,Employee_330,Sales,Sales Manager,81027.19,2021-12-18,24,1,SF
+331,Employee_331,Operations,Ops Analyst,78553.04,2022-01-19,36,5,London
+332,Employee_332,Engineering,SDE 1,151122.17,2023-02-11,32,3,Austin
+333,Employee_333,Finance,Finance Manager,88272.18,2023-02-15,20,5,London
+334,Employee_334,HR,Recruiter,56272.85,2024-01-23,32,1,NY
+335,Employee_335,Operations,Ops Analyst,72382.55,2024-01-11,37,5,Austin
+336,Employee_336,Finance,Accountant,49730.98,2022-10-11,1,1,London
+337,Employee_337,Marketing,SEO Specialist,70498.62,2022-08-15,29,3,London
+338,Employee_338,HR,Recruiter,64033.82,2020-05-24,13,5,Austin
+339,Employee_339,Engineering,Staff Engineer,89411.0,2022-03-24,21,3,NY
+340,Employee_340,Marketing,SEO Specialist,83674.18,2021-10-05,23,2,Remote
+341,Employee_341,Engineering,SDE 1,105715.5,2023-02-04,21,4,Austin
+342,Employee_342,Engineering,Staff Engineer,66184.67,2022-07-02,24,1,SF
+343,Employee_343,Operations,Ops Manager,82545.03,2022-07-03,12,4,London
+344,Employee_344,Engineering,Senior SDE,135842.02,2021-06-16,12,3,NY
+345,Employee_345,HR,HRBP,69642.37,2022-08-13,8,1,Austin
+346,Employee_346,Engineering,EM,74890.4,2022-05-27,34,5,Austin
+347,Employee_347,Sales,SDR,74691.28,2023-08-22,26,4,London
+348,Employee_348,Operations,Ops Analyst,54796.63,2023-11-08,25,3,London
+349,Employee_349,Marketing,Content Marketer,87617.47,2022-12-29,30,5,SF
+350,Employee_350,Marketing,Content Marketer,69301.18,2020-11-27,17,5,Remote
+351,Employee_351,Operations,Ops Manager,60515.09,2023-02-27,35,2,Austin
+352,Employee_352,Marketing,Marketing Manager,77662.02,2024-01-27,25,5,Austin
+353,Employee_353,Sales,Sales Manager,93791.87,2023-01-31,35,3,SF
+354,Employee_354,Engineering,Staff Engineer,107392.38,2022-01-09,18,2,Austin
+355,Employee_355,Marketing,SEO Specialist,61266.65,2022-11-25,23,2,Remote
+356,Employee_356,Sales,SDR,61945.44,2023-12-20,24,5,Remote
+357,Employee_357,Marketing,Content Marketer,85648.88,2022-01-03,32,1,Remote
+358,Employee_358,Marketing,Marketing Manager,65755.57,2023-08-02,44,3,Austin
+359,Employee_359,Engineering,EM,89433.61,2023-06-22,36,5,SF
+360,Employee_360,HR,HRBP,58691.27,2021-10-04,22,1,London
+361,Employee_361,Operations,Ops Analyst,44243.59,2022-03-15,41,4,London
+362,Employee_362,HR,HRBP,78339.54,2023-11-28,17,5,NY
+363,Employee_363,Finance,Financial Analyst,83279.46,2023-09-27,11,4,Remote
+364,Employee_364,Operations,Ops Manager,66878.78,2022-01-26,19,3,SF
+365,Employee_365,Marketing,Marketing Manager,85402.84,2023-08-06,27,3,NY
+366,Employee_366,Marketing,SEO Specialist,73559.57,2020-06-07,22,3,Remote
+367,Employee_367,Sales,Account Executive,78891.74,2022-09-12,12,1,Remote
+368,Employee_368,Sales,SDR,80266.21,2023-07-15,15,1,Austin
+369,Employee_369,Engineering,SDE 1,99218.44,2021-08-04,31,1,Austin
+370,Employee_370,Marketing,Marketing Manager,77248.13,2021-08-07,16,5,London
+371,Employee_371,Sales,Account Executive,94234.13,2023-10-31,35,5,Austin
+372,Employee_372,Engineering,EM,106135.27,2020-11-01,8,5,SF
+373,Employee_373,Operations,Ops Analyst,61814.67,2022-09-19,38,4,Austin
+374,Employee_374,Operations,Ops Analyst,34510.72,2021-05-14,43,1,London
+375,Employee_375,Sales,SDR,54163.99,2022-11-21,10,5,Austin
+376,Employee_376,Operations,Ops Analyst,76452.64,2023-03-08,18,3,SF
+377,Employee_377,HR,HR Generalist,80213.55,2023-10-10,49,2,SF
+378,Employee_378,HR,HR Generalist,61216.76,2020-11-16,18,2,Remote
+379,Employee_379,Operations,Ops Analyst,51613.39,2023-05-02,3,4,Austin
+380,Employee_380,Marketing,Content Marketer,72403.48,2021-03-27,15,5,Remote
+381,Employee_381,Finance,Accountant,99110.51,2021-11-12,16,2,NY
+382,Employee_382,Operations,Ops Analyst,81260.57,2021-06-22,49,1,London
+383,Employee_383,Finance,Financial Analyst,84294.31,2022-11-21,20,5,Austin
+384,Employee_384,Finance,Accountant,96778.99,2022-08-15,28,4,London
+385,Employee_385,Operations,Ops Manager,70028.93,2022-12-05,19,3,NY
+386,Employee_386,Sales,Account Executive,89706.54,2020-05-19,37,2,Remote
+387,Employee_387,Marketing,SEO Specialist,83694.8,2021-03-22,47,4,SF
+388,Employee_388,HR,HR Generalist,68299.63,2021-01-31,44,5,NY
+389,Employee_389,Engineering,SDE 1,83108.4,2023-02-09,38,2,NY
+390,Employee_390,Sales,Account Executive,107574.03,2022-12-20,47,4,SF
+391,Employee_391,HR,HRBP,68317.46,2022-07-26,13,1,NY
+392,Employee_392,Operations,Ops Analyst,80539.65,2020-10-02,30,5,London
+393,Employee_393,Operations,Ops Analyst,97284.93,2022-03-22,7,1,London
+394,Employee_394,Operations,Ops Analyst,81933.88,2022-02-20,50,2,SF
+395,Employee_395,Operations,Ops Analyst,68779.93,2022-02-17,11,1,SF
+396,Employee_396,Marketing,Marketing Manager,81795.36,2023-09-16,45,2,London
+397,Employee_397,Marketing,SEO Specialist,51111.87,2020-02-15,10,5,SF
+398,Employee_398,Engineering,Staff Engineer,107246.81,2023-09-24,18,5,NY
+399,Employee_399,Sales,Sales Manager,65783.24,2022-03-20,14,5,SF
+400,Employee_400,Marketing,Content Marketer,71815.52,2021-06-03,23,4,Austin
+401,Employee_401,Operations,Ops Analyst,61658.45,2022-02-28,10,1,SF
+402,Employee_402,Finance,Finance Manager,88450.33,2021-07-26,12,4,NY
+403,Employee_403,Operations,Ops Manager,62294.11,2022-11-09,43,3,Austin
+404,Employee_404,HR,HR Generalist,78678.7,2022-11-07,9,1,NY
+405,Employee_405,HR,HRBP,71107.03,2021-10-23,5,4,Remote
+406,Employee_406,Marketing,SEO Specialist,65653.8,2022-11-30,37,3,Remote
+407,Employee_407,Finance,Accountant,74435.37,2023-04-13,1,2,SF
+408,Employee_408,Operations,Ops Analyst,78582.94,2021-12-23,1,5,SF
+409,Employee_409,Marketing,Marketing Manager,80086.42,2022-05-08,30,4,SF
+410,Employee_410,Engineering,EM,103124.03,2022-07-02,50,1,SF
+411,Employee_411,HR,HR Generalist,54934.81,2024-01-01,7,2,NY
+412,Employee_412,Marketing,SEO Specialist,71384.38,2024-01-09,21,5,Austin
+413,Employee_413,Sales,Sales Manager,79155.15,2023-03-08,7,5,Remote
+414,Employee_414,HR,HRBP,72475.29,2021-07-18,17,4,SF
+415,Employee_415,Marketing,SEO Specialist,79778.72,2020-11-18,45,2,NY
+416,Employee_416,Finance,Finance Manager,89702.05,2020-08-21,17,2,NY
+417,Employee_417,Marketing,SEO Specialist,72244.7,2020-12-31,47,4,Austin
+418,Employee_418,Finance,Finance Manager,80894.08,2020-08-20,32,3,Austin
+419,Employee_419,Operations,Ops Manager,50494.68,2021-12-02,4,4,NY
+420,Employee_420,Operations,Ops Manager,88662.83,2023-03-01,2,1,NY
+421,Employee_421,Sales,Account Executive,90054.46,2022-10-04,39,5,Austin
+422,Employee_422,Finance,Accountant,66576.41,2022-12-14,17,1,SF
+423,Employee_423,HR,HRBP,66745.62,2021-07-06,37,5,Remote
+424,Employee_424,Operations,Ops Analyst,77367.59,2021-01-21,22,2,SF
+425,Employee_425,Sales,Account Executive,107647.35,2022-12-03,2,3,London
+426,Employee_426,Engineering,SDE 1,73653.67,2023-11-18,31,4,Remote
+427,Employee_427,Engineering,SDE 2,124136.93,2023-04-18,12,2,SF
+428,Employee_428,Finance,Accountant,91955.26,2020-10-03,14,5,Remote
+429,Employee_429,Finance,Accountant,104196.04,2021-07-30,14,5,London
+430,Employee_430,Engineering,EM,84165.58,2022-12-27,49,2,London
+431,Employee_431,Marketing,Content Marketer,97049.27,2021-04-05,13,3,SF
+432,Employee_432,Sales,SDR,77592.03,2022-04-26,47,5,SF
+433,Employee_433,Sales,Account Executive,83413.51,2021-12-02,50,2,London
+434,Employee_434,HR,HRBP,74944.12,2023-11-03,18,3,NY
+435,Employee_435,Operations,Ops Manager,69581.58,2021-10-27,41,5,SF
+436,Employee_436,HR,Recruiter,76049.75,2022-02-16,41,3,SF
+437,Employee_437,Engineering,Staff Engineer,124923.69,2023-02-22,35,3,Remote
+438,Employee_438,Operations,Ops Manager,83998.04,2021-07-01,36,1,Remote
+439,Employee_439,Operations,Ops Analyst,71249.08,2021-12-20,27,1,Austin
+440,Employee_440,Operations,Ops Manager,77784.22,2022-01-26,49,1,NY
+441,Employee_441,Operations,Ops Manager,91413.84,2021-04-29,50,3,SF
+442,Employee_442,Engineering,SDE 2,122447.43,2020-12-27,38,1,Remote
+443,Employee_443,HR,HRBP,55205.72,2024-01-08,50,2,Remote
+444,Employee_444,Finance,Accountant,95588.3,2023-07-27,8,1,London
+445,Employee_445,Engineering,SDE 2,98751.64,2022-12-21,9,4,Remote
+446,Employee_446,Sales,Account Executive,82307.79,2022-12-25,41,5,SF
+447,Employee_447,HR,HRBP,76719.21,2022-03-22,35,2,SF
+448,Employee_448,HR,HR Generalist,70993.99,2024-01-27,25,1,Austin
+449,Employee_449,Sales,SDR,64339.57,2020-03-19,1,2,SF
+450,Employee_450,HR,HRBP,79728.48,2021-11-02,35,5,London
+451,Employee_451,Sales,Account Executive,89954.01,2021-11-26,6,3,Austin
+452,Employee_452,Operations,Ops Analyst,77741.1,2022-09-27,23,2,SF
+453,Employee_453,Operations,Ops Analyst,95614.96,2023-05-03,10,2,Remote
+454,Employee_454,HR,Recruiter,73408.36,2021-11-16,22,4,Austin
+455,Employee_455,Engineering,Senior SDE,108737.2,2022-09-01,15,2,Remote
+456,Employee_456,Engineering,SDE 2,149866.82,2022-12-16,25,2,SF
+457,Employee_457,Marketing,Content Marketer,76987.53,2023-05-25,10,3,NY
+458,Employee_458,HR,HR Generalist,68918.3,2023-05-30,21,1,SF
+459,Employee_459,Marketing,Content Marketer,63915.18,2023-03-07,38,3,Remote
+460,Employee_460,Sales,Account Executive,78288.98,2021-02-26,36,2,London
+461,Employee_461,Operations,Ops Analyst,76719.17,2022-11-17,6,1,London
+462,Employee_462,HR,Recruiter,63160.4,2022-07-12,7,4,London
+463,Employee_463,Engineering,Staff Engineer,114478.29,2021-01-05,40,1,Remote
+464,Employee_464,HR,HRBP,69660.91,2021-09-18,3,1,SF
+465,Employee_465,Sales,Sales Manager,88750.5,2021-01-22,21,4,Remote
+466,Employee_466,Finance,Accountant,87642.9,2022-02-09,30,4,Remote
+467,Employee_467,Operations,Ops Analyst,71672.53,2021-03-08,40,4,London
+468,Employee_468,Operations,Ops Analyst,80763.77,2023-12-12,12,2,NY
+469,Employee_469,Marketing,SEO Specialist,88755.99,2022-11-04,15,4,SF
+470,Employee_470,Marketing,Content Marketer,79908.56,2020-08-31,45,4,NY
+471,Employee_471,Operations,Ops Manager,50636.17,2021-03-05,8,2,London
+472,Employee_472,HR,Recruiter,56015.93,2023-04-05,33,4,SF
+473,Employee_473,Finance,Financial Analyst,67331.64,2021-07-08,45,2,SF
+474,Employee_474,HR,HR Generalist,64347.49,2020-07-01,23,3,London
+475,Employee_475,Operations,Ops Manager,76155.41,2022-01-14,11,1,NY
+476,Employee_476,Operations,Ops Manager,61382.93,2022-10-27,46,2,Remote
+477,Employee_477,Engineering,Senior SDE,97136.85,2023-06-02,8,5,London
+478,Employee_478,Marketing,SEO Specialist,72506.01,2023-11-24,1,3,NY
+479,Employee_479,Engineering,SDE 2,117640.43,2020-04-05,20,2,Remote
+480,Employee_480,Engineering,Staff Engineer,112928.25,2021-03-14,13,4,London
+481,Employee_481,Marketing,SEO Specialist,55869.59,2021-02-05,39,1,NY
+482,Employee_482,Operations,Ops Analyst,83525.51,2022-08-24,47,5,SF
+483,Employee_483,Operations,Ops Analyst,69844.97,2021-10-03,49,3,Remote
+484,Employee_484,Operations,Ops Manager,77764.44,2022-08-02,37,4,London
+485,Employee_485,HR,Recruiter,90429.2,2021-12-12,31,5,SF
+486,Employee_486,Marketing,SEO Specialist,68683.8,2020-12-10,43,4,NY
+487,Employee_487,HR,HR Generalist,72325.16,2022-12-02,29,2,SF
+488,Employee_488,Marketing,Marketing Manager,55240.75,2021-09-17,50,3,SF
+489,Employee_489,Finance,Financial Analyst,78597.22,2020-08-19,18,1,NY
+490,Employee_490,HR,HRBP,73362.34,2022-09-25,46,4,Austin
+491,Employee_491,HR,HRBP,74053.03,2021-03-09,50,3,NY
+492,Employee_492,Sales,Account Executive,70006.58,2020-06-26,19,1,Austin
+493,Employee_493,Operations,Ops Analyst,86103.8,2021-06-29,35,5,Remote
+494,Employee_494,Marketing,Content Marketer,72204.7,2020-10-28,11,1,SF
+495,Employee_495,HR,Recruiter,60819.18,2022-02-20,50,1,Austin
+496,Employee_496,Sales,Sales Manager,75298.87,2023-10-26,23,4,SF
+497,Employee_497,HR,HRBP,65057.16,2022-02-08,23,5,Austin
+498,Employee_498,HR,Recruiter,64973.07,2022-11-29,42,4,London
+499,Employee_499,Finance,Accountant,97611.39,2021-03-19,50,4,NY
+500,Employee_500,Engineering,SDE 1,113259.19,2022-10-24,39,1,NY

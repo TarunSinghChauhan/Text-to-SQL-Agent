@@ -1,0 +1,26 @@
+department,category,allocated_amount,spent_amount,fiscal_year,quarter
+Sales,Software,273862.42,280587.76,2024,3
+Sales,Travel,351048.05,280542.95,2024,1
+Sales,Recruitment,495755.85,514713.13,2024,4
+Sales,Marketing Ads,187720.07,161637.31,2024,3
+Sales,Hardware,384396.9,321847.28,2024,4
+Engineering,Software,120374.75,98305.99,2024,1
+Engineering,Travel,413837.76,303451.49,2024,2
+Engineering,Recruitment,224088.9,210720.25,2024,4
+Engineering,Marketing Ads,235993.36,234002.82,2024,1
+Engineering,Hardware,423269.01,350878.03,2024,3
+Marketing,Software,99736.91,78366.11,2024,2
+Marketing,Travel,176736.07,162257.37,2024,4
+Marketing,Recruitment,402247.11,393842.5,2024,2
+Marketing,Marketing Ads,184623.39,158465.14,2024,3
+Marketing,Hardware,273557.54,251393.94,2024,1
+HR,Software,217601.46,211956.22,2024,2
+HR,Travel,396478.77,387663.6,2024,3
+HR,Recruitment,169990.21,146527.11,2024,1
+HR,Marketing Ads,129918.22,121020.64,2024,3
+HR,Hardware,284351.87,233966.51,2024,2
+Operations,Software,406602.68,413166.36,2024,4
+Operations,Travel,149963.4,151997.68,2024,3
+Operations,Recruitment,254084.65,207560.55,2024,2
+Operations,Marketing Ads,118808.64,112557.64,2024,4
+Operations,Hardware,477530.01,510683.3,2024,2
